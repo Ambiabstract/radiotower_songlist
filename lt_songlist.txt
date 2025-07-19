@@ -240,6 +240,7 @@ Art Tatum - Stompin' At The Savoy
 Art Tatum - Stormy Weather
 Art Tatum - Tea For Two
 Art Tatum - The Sheik Of Araby
+Art Tatum - Tiger Rag
 Art Tatum - What Will I Tell My Heart
 Arthur Alexander - You Better Move On
 Arthur Crudup - Black Pony Blues
@@ -590,6 +591,8 @@ Bessie Smith - Boweavil Blues
 Bessie Smith - Chicago Bound Blues
 Bessie Smith - Easy Come Easy Go Blues
 Bessie Smith - Eavesdropper's Blues
+Bessie Smith - Frosty Morning Blues
+Bessie Smith - Hateful Blues
 Bessie Smith - Haunted House Blues
 Bessie Smith - I'm Going Back To My Used To Be
 Bessie Smith - Mean Old Bedbug Bues
@@ -708,6 +711,7 @@ Billie Holiday - You Let Me Down
 Billie Holiday - Your Mother's Son-in-Law
 Billy & Lillie - La Dee Dah
 Billy & Lillie - Lucky Ladybug
+Billy & The Essentials - Maybe You'll Be There
 Billy Bland - Let The Little Girl Dance
 Billy Eckstine - All Of Me
 Billy Eckstine - All The Things You Are
@@ -756,6 +760,7 @@ Bix Beiderbecke - Tiger Rag
 Bix Beiderbecke - Way Down Yonder In New Orleans
 Black Sabbath - Iron Man
 Blind Willie McTell - Broke Down Engine
+Blind Willie McTell - Broke Down Engine No 2
 Blind Willie McTell - Death Room Blues
 Blind Willie McTell - Don't You See How This World Made A Change
 Blind Willie McTell - Expirience Blues
@@ -1000,6 +1005,7 @@ Bunny Berigan - Livery Stable Blues
 Bunny Berigan - Night Song
 Bunny Berigan - Patty Cake, Patty Cake
 Bunny Berigan - Peg O' My Heart
+Bunny Berigan - Russian Lullaby
 Bunny Berigan - Sobbin' Blues
 Bunny Berigan - Trees
 Bunny Berigan - Walkin' The Dog
@@ -2025,6 +2031,7 @@ Elvis Presley - My desert serenade
 Elvis Presley - Mystery Train
 Elvis Presley - New Orleans
 Elvis Presley - No more
+Elvis Presley - One-sided love affair
 Elvis Presley - Reconsider baby
 Elvis Presley - Rock-a-hula baby
 Elvis Presley - Shake that tambourine
@@ -2928,6 +2935,7 @@ J.C. Higginbotham - Muggin' Lightly
 J.C. Higginbotham - On Revival Day
 J.C. Higginbotham - Roll Along, Prairie Moon
 J.C. Higginbotham - Saratoga Shout
+J.C. Higginbotham - St. Louis Blues
 J.C. Higginbotham - Sugar Hill Function
 J.C. Higginbotham - Swing Out
 J.C. Higginbotham - Symphony in Riffs
@@ -3434,6 +3442,7 @@ Kathy Mattea - Eighteen Wheels And A Dozen Roses
 Kathy Young & The Innocents - A Thousand Stars
 Kathy Young & The Innocents - Happy Birthday Blues
 Kay Kyser and his orchestra - Who Wouldn't Love You
+Keely Smith, Johnny Mercer - A Fine Romance
 Kenny Dino - Your Ma Said You Cried In Your Sleep Last Night
 Ketty Lester - Love Letters
 Kid Ory - At the jazz band ball
@@ -3556,6 +3565,7 @@ Lee Konitz - Yesterdays
 Lee Konitz - You Go To My Head
 Left Banke - Walk Away Renee
 Lena Horne - As Long As I Live
+Lena Horne - Aunt Hagar's Blues
 Lena Horne - Beale Street Blues
 Lena Horne - Careless Love
 Lena Horne - Don't Take Your Love From Me
@@ -3591,6 +3601,7 @@ Lennie Tristano - Marionette
 Lennie Tristano - On A Planet
 Lennie Tristano - Out On A Limb
 Lennie Tristano - Progression
+Lennie Tristano - Retrospection
 Lennie Tristano - Sax Of A Kind
 Lennie Tristano - Subconscious-Lee
 Lennie Tristano - Supersonic
@@ -4219,6 +4230,7 @@ Marilyn Monroe - Teach Me Tiger
 Marilyn Monroe - That Old Black Magic
 Marilyn Monroe - There's No Business Like Show Business
 Marilyn Monroe - Two Little Girls From Little Rock
+Marilyn Monroe - When I Fall In Love
 Marilyn Monroe - When Love Goes Wrong Nothings
 Marilyn Monroe - When Love Goes Wrong, Nothing Goes Right
 Marilyn Monroe - You'd Be Surprised
@@ -4228,6 +4240,7 @@ Mario Lanza - ARIVA DIRCHY ROMA
 Mario Lanza - AWAY IN A MANGER
 Mario Lanza - And This Is My Beloved
 Mario Lanza - BE MY LOVE
+Mario Lanza - Because
 Mario Lanza - Begin The Beguine
 Mario Lanza - Bela Jubal
 Mario Lanza - Catari Catari
@@ -4551,6 +4564,7 @@ Mrs Gladys Mills - I Do Like To Be Beside The Seaside
 Mrs Gladys Mills - Knees Up Mother Brown
 Mrs Gladys Mills - Mairzy Doats & Dozy Doats (Mares Eat Oats & Does Eat Oats)
 Mrs Gladys Mills - My Old Man Said Follow The Van
+Mrs Gladys Mills - The Old Piano Roll Blues
 Mrs Gladys Mills - Wait Till The Sun Shines Nellie Medley
 Muddy Waters - Burr Clover Blues
 Muddy Waters - Burr Clover Farm Blues
@@ -4565,6 +4579,7 @@ Muddy Waters - Little Anna Mae
 Muddy Waters - Mannish Boy
 Muddy Waters - Mean Red Spider
 Muddy Waters - Rollin' And Tumblin'
+Muddy Waters - Rollin' Stone
 Muddy Waters - Rolling Stone
 Muddy Waters - Steeamline
 Muddy Waters - Take A Walk With Me
@@ -4875,6 +4890,7 @@ NAT KING COLE TRIO - You can depend on me
 NAT KING COLE TRIO - You can't lose a broken heart
 NAT KING COLE TRIO - You can't make me love you
 NAT KING COLE TRIO - You can't make money dreamin'
+NAT KING COLE TRIO - You don't leave that in school
 NAT KING COLE TRIO - You should have told me
 NAT KING COLE TRIO - You stepped out of a dream
 NAT KING COLE TRIO - You're Nobody 'Til Somebody Loves You
@@ -4952,6 +4968,7 @@ Nat King Cole - You STEPPED OUT OF A DREAM
 Nat King Cole - You're Nobody 'Till Somebody Loves You
 Nat King Cole Trio - Blues in My Shower
 Nat King Cole, Billy May Orch - Send For Me
+Nat King Cole, Kitty Kalen - When I fall In Love
 Nat King Cole, Marilyn Monroe - WHEN I FALL IN LOVE
 Nathaniel Mayer & The Fabulous Twilights - Village Of Love
 Nationalhymne - The Star Spangled Banner USA
@@ -5601,6 +5618,7 @@ Robert Johnson - Come On In My Kitchen
 Robert Johnson - Dead Shrimp Blues
 Robert Johnson - From Four ґTil Late
 Robert Johnson - I Believe Iґll Dust My Broom
+Robert Johnson - Iґm A Steady Rollinґ Man
 Robert Johnson - Kindhearted Woman Blues
 Robert Johnson - Little Queen Of Spades
 Robert Johnson - Phonograph Blues
@@ -5637,6 +5655,7 @@ Roosevelt Sykes - Anytime Is The Right Time
 Roosevelt Sykes - Bobby Sox Blues
 Roosevelt Sykes - Date Bait
 Roosevelt Sykes - Drivin' Wheel
+Roosevelt Sykes - Flames Of Jive
 Roosevelt Sykes - High As A Georgia Pine
 Roosevelt Sykes - Homesick Blues
 Roosevelt Sykes - I'm Her Honeydripper
@@ -5684,6 +5703,7 @@ Roy Eldridge - Fallin' In Love Again
 Roy Eldridge - Florida Stomp
 Roy Eldridge - Heckler's Shop
 Roy Eldridge - I'm Nobody's Baby
+Roy Eldridge - Let Me Off Up Town
 Roy Eldridge - Mary Had A Little Lamb
 Roy Eldridge - Stealin' Apples
 Roy Eldridge - That Thing
@@ -5969,6 +5989,7 @@ Slam Stewart - Blues Collins
 Slam Stewart - Coppin' Out
 Slam Stewart - Dark-Eyes
 Slam Stewart - Doctor Foo
+Slam Stewart - Dozin'
 Slam Stewart - Haw Haw
 Slam Stewart - Honeysuckle Rose
 Slam Stewart - Hop, Skip And Jump
@@ -6208,6 +6229,7 @@ Tal Farlow - And She Remembers Me
 Tal Farlow - Autumn In New York
 Tal Farlow - Cherokee
 Tal Farlow - Have You Met Miss Jones?
+Tal Farlow - I Like To Recognize The Tune
 Tal Farlow - It's You Or No One
 Tal Farlow - Just One Of Those Things
 Tal Farlow - My Old Flame
@@ -6820,6 +6842,7 @@ The Mills Brothers - Shuffle Your Feet, Bandanna Babies
 The Mills Brothers - Side Kick Joe
 The Mills Brothers - Since We Fell Out Of Love
 The Mills Brothers - Since We Fell Out of Love
+The Mills Brothers - Sixty Seconds Got Together
 The Mills Brothers - Smoke Rings
 The Mills Brothers - Solitude
 The Mills Brothers - Some Of These Days
@@ -6852,6 +6875,7 @@ The Modern Jazz Quartet - D & E
 The Modern Jazz Quartet - Gershwin Medley
 The Modern Jazz Quartet - Heart And Soul
 The Modern Jazz Quartet - I'll Remember April
+The Modern Jazz Quartet - Love Me Pretty Baby
 The Modern Jazz Quartet - Milt Meets Sid
 The Modern Jazz Quartet - Moving Nicely
 The Modern Jazz Quartet - Ralph's New Blues
@@ -7771,6 +7795,7 @@ winifred atwell - poor people of paris
 Âèòàëèé Äîðîíèí - Ñÿäü ñî ìíîþ ðÿäîì
 Âëàäèìèð Áóí÷èêîâ - Óñëûøü ìåíÿ, õîðîøàÿ
 Âëàäèìèð Áóí÷èêîâ - Øêîëüíûé âàëüñ
+Âëàäèìèð Áóí÷èêîâ - Øóìèò âîëíà, çâåíèò ñòðóíà
 Âëàäèìèð Áóí÷èêîâ è Âëàäèìèð Íå÷àåâ - Äîæäèê
 Âëàäèìèð Áóí÷èêîâ, Âëàäèìèð Íå÷àåâ - Òû äà ÿ, äà ìû ñ òîáîé
 Âëàäèìèð Âûñîöêèé - Áðîñüòå ñêóêó, êàê êîðêó àðáóçíóþ
