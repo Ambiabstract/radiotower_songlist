@@ -50,6 +50,7 @@ Albert Ammons - Boogie Woogie At The Civic Opera
 Albert Ammons - Boogie Woogie Blues
 Albert Ammons - Boogie Woogie Stomp
 Albert Ammons - Bugle Boogie
+Albert Ammons - Changes In Boogie
 Albert Ammons - Chicago In Mind
 Albert Ammons - Doin' The Boogie Woogie
 Albert Ammons - I Don't Want To See You
@@ -149,6 +150,7 @@ Andrews Sisters - Straighten up and fly right
 Andrews Sisters - Strip Polka (Take It Off! Take It Off!)
 Andrews Sisters - Strip polka
 Andrews Sisters - The Beer Barrel Polka
+Andrews Sisters - The Cock-eyed Mayor Of Kaunakakai
 Andrews Sisters - The Ferryboat Serenade
 Andrews Sisters - The Jumpin' Jive
 Andrews Sisters - The Woodpecker Song
@@ -195,6 +197,7 @@ Anson Weeks & His San Francisco Hotel Mark Hopkins Orchestra - Love Me Tonight 1
 Anson Weeks & His San Francisco Hotel Mark Hopkins Orchestra - Ro-Ro-Rollin' Along (1930)
 Archie Bell & The Drells - Tighten Up
 Aretha Franklin - Chain Of Fools
+Aretha Franklin - Do Right Woman, Do Right Man
 Aretha Franklin - I Never Loved A Man (The Way I Love You)
 Art Farmer - Elephant Walk
 Art Farmer - Evening In Paris
@@ -250,6 +253,7 @@ Arthur Crudup - Death Valley Blues
 Arthur Crudup - Dirt Road Blues
 Arthur Crudup - Give Me a 32-20
 Arthur Crudup - Gonna Follow My Baby
+Arthur Crudup - I'm In The Mood
 Arthur Crudup - If I Get Lucky
 Arthur Crudup - Keep Your Arms Around Me
 Arthur Crudup - Kind Lover Blues
@@ -444,6 +448,7 @@ Bennie Moten - Prince Of Wails
 Bennie Moten - Professor Hot Stuff
 Bennie Moten - Somebody Stole My Gal
 Bennie Moten - The Blue Room
+Bennie Moten - The Count
 Bennie Moten - The Only Girl I Ever Loved
 Bennie Moten - Two Times
 Bennie Moten - When I'm Alone
@@ -603,6 +608,7 @@ Bessie Smith - Pinchbacks - Take 'Em Away
 Bessie Smith - Rocking Chair Blues
 Bessie Smith - Sorrowful Blues
 Bessie Smith - Sweet Mistreater
+Bessie Smith - The House Blues
 Bessie Smith - Ticket Agent, Ease Your Window Down
 Bessie Smith - Whoa, Tillie, Take Your Time
 Bette Midler - Fever
@@ -653,6 +659,7 @@ Big Joe Williams - Crawlin' King Snake
 Big Joe Williams - His Spirit Lives On
 Big Joe Williams - I Know You Gonna Miss Me
 Big Joe Williams - I Won't Be In Hard Luck No More
+Big Joe Williams - I'm Getting Wild About Her
 Big Joe Williams - Little leg woman
 Big Joe Williams - Meet Me Around The Corner
 Big Joe Williams - Peach Orchard Mama
@@ -678,6 +685,7 @@ Billie Holiday - I Get a Kick out of you
 Billie Holiday - I Thought abouth you
 Billie Holiday - I Wished on the Moon
 Billie Holiday - I can't Face the Music
+Billie Holiday - I cried for you
 Billie Holiday - I got a ritht to sing the Blues
 Billie Holiday - I'm Painting the Town Red
 Billie Holiday - If You Were Mine
@@ -742,6 +750,7 @@ Bix Beiderbecke - At The Jazz Band Ball
 Bix Beiderbecke - Big Boy
 Bix Beiderbecke - Clementine
 Bix Beiderbecke - For No Reason At All In C
+Bix Beiderbecke - From Monday On
 Bix Beiderbecke - I'll Be A Friend "With Pleasure"
 Bix Beiderbecke - I'm Coming Virginia
 Bix Beiderbecke - In A Mist (Bixology)
@@ -769,6 +778,7 @@ Blind Willie McTell - It's A Good Little Thing
 Blind Willie McTell - It's Your Time To Worry
 Blind Willie McTell - Lonesome Day Blues
 Blind Willie McTell - Lord Have Mercy If You Please
+Blind Willie McTell - Lord, Send Me An Angel
 Blind Willie McTell - Love-Makin' Mama
 Blind Willie McTell - Low Down Blues
 Blind Willie McTell - Low Rider's Blues
@@ -779,6 +789,7 @@ Blind Willie McTell - Rollin' Mama Blues
 Blind Willie McTell - Rough Alley Blues
 Blind Willie McTell - Savannah Mama
 Blind Willie McTell - Searching The Dessert For The Blues
+Blind Willie McTell - Warm It Up To Me
 Blind Willie McTell - You Was Born To Die
 Blues Band - Can't Hold On
 Blues Band - Nadine
@@ -1264,6 +1275,7 @@ Clyde McPhatter - A Lover's Question
 Clyde McPhatter - Lover Please
 Clyde McPhatter - Without Love (There Is Nothing)
 Coleman Hawkins & Duke Elllington - Solitude
+Coleman Hawkins - After You've Gone
 Coleman Hawkins - Avalon
 Coleman Hawkins - Blue Moon
 Coleman Hawkins - Chicago
@@ -1387,6 +1399,7 @@ Count Basie - Good Morning Blues (1st take)
 Count Basie - Good Morning Blues (2nd take)
 Count Basie - Good Morning Blues (w/Jimmy Rushing)
 Count Basie - Guest In A Nest
+Count Basie - Harvard Blues
 Count Basie - Hey Lawdy Mama
 Count Basie - Hob Nail Boogie
 Count Basie - Honeysuckle Rose
@@ -1521,6 +1534,7 @@ Count Basie - Stop Beatin' Around The Mulberry Bush (2nd Take)
 Count Basie - Stop Beatin' Around the Mulberry Bush (1st Take)
 Count Basie - Stop! Don't
 Count Basie - Sugar Blues
+Count Basie - Super Chief
 Count Basie - Sure Thing
 Count Basie - Sweets
 Count Basie - Swingin' At Newport
@@ -1568,6 +1582,7 @@ Count Basie - Trey of Hearts
 Count Basie - Turnabout
 Count Basie - Twelfth Street Rag
 Count Basie - Two For The Blues
+Count Basie - Untitled
 Count Basie - Volcano
 Count Basie - Walking Slow Behind You
 Count Basie - Way Back Blues
@@ -1844,6 +1859,7 @@ Earl "Fatha" Hines - Rosetta
 Earl "Fatha" Hines - Second balcony jump
 Earl "Fatha" Hines - Tantalizing a Cuban
 Earl "Fatha" Hines - The Earl
+Earl "Fatha" Hines - Up jumped the devil
 Earl "Fatha" Hines - Windy City Jive
 Earl Hines And His Orchestra - Boogie Woogie On The St. Louis Blues
 Eddie 'Lockjaw' Davis - Afternoon In A Doghouse
@@ -1860,6 +1876,7 @@ Eddie 'Lockjaw' Davis - Lockjaw
 Eddie 'Lockjaw' Davis - Lockjaw's Bounce
 Eddie 'Lockjaw' Davis - Maternity
 Eddie 'Lockjaw' Davis - Minton's Madhouse
+Eddie 'Lockjaw' Davis - Music Goes Down Around
 Eddie 'Lockjaw' Davis - Raven' At The Haven
 Eddie 'Lockjaw' Davis - Real Gone Guy
 Eddie 'Lockjaw' Davis - Red Pepper
@@ -1869,6 +1886,7 @@ Eddie 'Lockjaw' Davis - Stealing Trash
 Eddie 'Lockjaw' Davis - Surgery
 Eddie Calvert - Cherry Pink And Apple Blossom White
 Eddie Cochran - Cmon Everybody
+Eddie Cochran - Summertime Blues
 Eddie Condon - 'Swonderful
 Eddie Condon - (I've Got a Woman, Crazy for Me) She's Funny That Way
 Eddie Condon - Farewell blues
@@ -1922,6 +1940,7 @@ Ella Fitzgerald - Ain't Nobody's Business But My Own
 Ella Fitzgerald - Airmail Special
 Ella Fitzgerald - Basin Street
 Ella Fitzgerald - Black Coffee
+Ella Fitzgerald - Blue Lou
 Ella Fitzgerald - But Not For Me
 Ella Fitzgerald - Cryin' Mood
 Ella Fitzgerald - Deedle-De-Dum
@@ -2004,6 +2023,7 @@ Elvis Presley - I'll never let you go little
 Elvis Presley - I'm counting on you
 Elvis Presley - I'm gonna sit right down and cry (Over you)
 Elvis Presley - I'm gonna walk dem golden stairs
+Elvis Presley - If we never meet again
 Elvis Presley - Island of love
 Elvis Presley - It feels so right
 Elvis Presley - It is no secret
@@ -2056,6 +2076,7 @@ Elvis Presley - Áëóå Õàwàèè
 Elvis Presley - Ã.È.Áëóåñ
 Elvis Presley - Äèxèåëàíä ðîöê
 Elvis Presley - Èí ìé ôàòõåðúñ õîóñå
+Elvis Presley - Èòúñ íîw îð íåâåð
 Elvis Presley - Ìàíñèîí îâåð òõå õèëëòîï
 Elvis Presley - Ìé áàáé ëåôò ìå
 Elvis Presley - Ñwèíã äîwí ñwååò ÷àðèîò
@@ -2119,6 +2140,7 @@ Fats Navarro - Dameronia
 Fats Navarro - Fats Blows
 Fats Navarro - Gone With the Wind
 Fats Navarro - I Think I'll Go Away
+Fats Navarro - Jahbero
 Fats Navarro - Lady Bird
 Fats Navarro - Nostalgia
 Fats Navarro - Sid's Delight
@@ -2393,6 +2415,7 @@ Gene Krupa - Fare Thee Well, Annie Laurie
 Gene Krupa - Fool Am I
 Gene Krupa - Georgia On My Mind
 Gene Krupa - Grandfather's Clock
+Gene Krupa - I Know That You Know
 Gene Krupa - Jeepers Creepers
 Gene Krupa - Murdy Purdy
 Gene Krupa - Nagasaki
@@ -2411,6 +2434,7 @@ Gene Vincent - Dance To The Bop
 Gene Vincent - Lotta Lovin'
 George Hall & His Hotel Taft Orchestra, V=Loretta Lee - Good Morning Glory (1933)
 George Hamilton IV - Abilene
+George Jones - White Lightning
 George M, Cohan - Give My Regards To Broadway
 George M, Cohan - Mary's A Grand Old Name
 George M, Cohan - Your A Grand Old Flag, Yankee Doodle Dandy
@@ -2784,6 +2808,7 @@ Herbie Mann - Moon Dreams
 Herbie Mann - My Little Suede Shoes
 Herbie Mann - Purple Grotto
 Herbie Mann - Scuffles
+Herbie Mann - Things We Did Last Summer
 Herbie Mann - Why Doi Love You
 Herbie Mann - Woodchuck
 Hilo - Aloma
@@ -2833,6 +2858,7 @@ Howlin' Wolf - The Wolf Is At Your Door (Howlin' For My Baby)
 Huey "Piano" Smith & The Clowns - Don't You Just Know It
 I Love You - Jo Stafford
 I'm Beginning To See the Light - Harry James & His Music Make
+Ike And Tina Turner - River Deep Mountain High
 Illinois Jacquet - Blow, Illinois, Blow
 Illinois Jacquet - Blues Mood
 Illinois Jacquet - Destination Moon
@@ -2912,6 +2938,7 @@ Ivie Anderson - I'm Checkin' Out, Goo'm Bye
 Ivie Anderson - I've Got The World On A String
 Ivie Anderson - I've Got To Be A Rug Cutter
 Ivie Anderson - Isn't Love The Strangest Thing
+Ivie Anderson - It Was A Sad Night In Harlem
 Ivie Anderson - Jump For Joy
 Ivie Anderson - Killin' Myself
 Ivie Anderson - Let's Have A Jubilee
@@ -2999,6 +3026,7 @@ James Brown - I Got You (I Feel Good)
 James Brown - It's A Man's, Man's, Man's World
 James Brown - Papa's Got A Brand New Bag
 James Brown - Please Please Please
+James Cagney & Frances Langford - Over There
 James Moody - A Hundred Years From Today
 James Moody - Aimer Comme Je T'aime
 James Moody - Blue Walk
@@ -3057,6 +3085,7 @@ Jazz Cafe - Ev'ry Time We Say Goodbye
 Jazz Cafe - Far Away
 Jazz Cafe - HEARTPLACE
 Jazz Cafe - HOW HIGH THE MOON
+Jazz Cafe - I Should Care
 Jazz Cafe - I Wonder Who's Kissing Her Now_
 Jazz Cafe - I'LL BE SEEING YOU
 Jazz Cafe - I'M THRU WITH LOVE
@@ -3144,6 +3173,7 @@ Jimmie Lunceford - Miss Otis Regrets
 Jimmie Lunceford - Nana
 Jimmie Lunceford - Remember When
 Jimmie Lunceford - Rose Room
+Jimmie Lunceford - Stomp It Off
 Jimmie Lunceford - Stratosphere
 Jimmie Lunceford - Sweet Rhythm
 Jimmie Lunceford - Swingin' Uptown
@@ -3179,6 +3209,7 @@ Jimmy Witherspoon - Sweet Lovin' Baby
 Jimmy Witherspoon - The Doctor Knows His Business AKA Doctor Blues
 Jimmy Witherspoon - Thelma Lee Blues
 Jimmy Witherspoon - Ther Ain't Nothing Better
+Jingle, Jangle, Jingle - Kay Kyser Orch
 Jivin' Gene & The Jokers - Breaking Up Is Hard To Do
 Jody Reynolds - Endless Sleep
 Jody Reynolds - Fire Of Love
@@ -3258,6 +3289,7 @@ John Lee Hooker - Good Rockin' Mama
 John Lee Hooker - Grinder Man
 John Lee Hooker - Guitar Lovin' Man
 John Lee Hooker - Half A Stranger
+John Lee Hooker - Hard Headed Woman
 John Lee Hooker - Henry's Swing Club
 John Lee Hooker - Hey Baby, You Look Good to Me
 John Lee Hooker - Hey Boogie
@@ -3456,6 +3488,7 @@ Kid Ory - Oh! Didn't he ramble
 Kid Ory - Ory's boogie
 Kid Ory - Panama rag
 Kid Ory - San
+Kid Ory - Shake that thing
 Kid Ory - Sister Kate
 Kid Ory - Sugar foot stomp
 Kid Ory - Sweet Georgia Brown
@@ -3557,6 +3590,7 @@ Lee Konitz - Marshmallow
 Lee Konitz - Odjenar
 Lee Konitz - Palo Alto
 Lee Konitz - Progression
+Lee Konitz - Rebecca
 Lee Konitz - Retrospection
 Lee Konitz - Sound-Lee
 Lee Konitz - Subconscious
@@ -3775,6 +3809,7 @@ Lonnie Donegan - The House Of The Rising Sun
 Lonnie Mack - Memphis
 Lonnie Russ - My Wife Can't Cook
 Lorne Greene, Johnny Cash - The Shifting Whispering Sands
+Lou Donaldson - After You've Gone
 Lou Donaldson - Blues
 Lou Donaldson - Caracas
 Lou Donaldson - Cheek To Cheek
@@ -3806,6 +3841,7 @@ Louis Armstrong - And The Angels Sing
 Louis Armstrong - Angel Child
 Louis Armstrong - Angela Mia
 Louis Armstrong - April In Portugal
+Louis Armstrong - Atlanta Blues (Make Me One Pallet On Your Floor)
 Louis Armstrong - Aunt Hagar's Blues
 Louis Armstrong - Baby Won't You Please Come Home
 Louis Armstrong - Basin Street Blues
@@ -4204,6 +4240,7 @@ Marilyn Monroe - Every Baby Needs A Da Da Dadd
 Marilyn Monroe - Heat Wave
 Marilyn Monroe - Heatwave
 Marilyn Monroe - I Found A Dream
+Marilyn Monroe - I WANT TO BE LOVED
 Marilyn Monroe - I Wanna Be Loved By You
 Marilyn Monroe - I Wanna Be Loved by You
 Marilyn Monroe - I'm Gonna Find My Claim
@@ -4414,6 +4451,7 @@ Mezz Mezzrow - Comin' On With The Come On - Part 2
 Mezz Mezzrow - Double Crossin' Papa
 Mezz Mezzrow - Everybody Loves My Baby
 Mezz Mezzrow - Gettin' Together
+Mezz Mezzrow - Hot Club Stomp
 Mezz Mezzrow - I Ain't Gonna Give Nobody None O' This Jelly Roll
 Mezz Mezzrow - I'm Tired Of Fattenin' Frogs For Snakes
 Mezz Mezzrow - I'se A'Muggin - Part 1
@@ -4733,6 +4771,7 @@ NAT KING COLE TRIO - I'm Lost
 NAT KING COLE TRIO - I'm Thru With Love
 NAT KING COLE TRIO - I'm a little ashamed
 NAT KING COLE TRIO - I'm gonna spank my heart
+NAT KING COLE TRIO - I've Got The World On A String
 NAT KING COLE TRIO - I've got a way with women
 NAT KING COLE TRIO - I've only myself to blame
 NAT KING COLE TRIO - If I had you
@@ -4754,6 +4793,7 @@ NAT KING COLE TRIO - It's like taking candy from a baby
 NAT KING COLE TRIO - It's only a paper moon
 NAT KING COLE TRIO - It's so hard to laugh (it's so easy to cry)
 NAT KING COLE TRIO - It's the sentimental thing to do
+NAT KING COLE TRIO - Jam-bo
 NAT KING COLE TRIO - Jumpin' At Capitol
 NAT KING COLE TRIO - Just You, Just Me
 NAT KING COLE TRIO - Just You, Just Me (alt tk)
@@ -5295,6 +5335,7 @@ Pete Johnson - Backroom blues
 Pete Johnson - Bottomland boogie
 Pete Johnson - Central Avenue drag
 Pete Johnson - Dive Bomber
+Pete Johnson - Hollywood boogie
 Pete Johnson - Kaycee feeling
 Pete Johnson - Lights out mood
 Pete Johnson - Minuet boogie
@@ -5717,6 +5758,7 @@ Roy Hamilton - You Can Have Her
 Roy Orbison - Crying
 Roy Orbison - In Dreams
 Roy Orbison - Oh Pretty Woman
+Roy Orbison - Ooby Dooby
 Roy Rogers, Spade Cooley - On the Old Spanish Trail
 Royal Teens - SHORT SHORTS 1958
 Rudy Valee - Ha-cha-cha
@@ -6006,6 +6048,7 @@ Slam Stewart - Talkin' Back
 Slam Stewart - Three Blind Mices
 Slam Stewart - Time On My Hands
 Slam Stewart - Voice Of The Turtle
+Sleepy John Estes - Airplane Blues
 Sleepy John Estes - Brownsville Blues
 Sleepy John Estes - Don't You Want To Know
 Sleepy John Estes - Drop Down
@@ -6195,6 +6238,7 @@ T-Bone Walker - I'm Gonna Find My Baby
 T-Bone Walker - I'm Still In Love With You
 T-Bone Walker - Low Down Dirty Shame (Married Woman Blues)
 T-Bone Walker - Mean Old World Blues
+T-Bone Walker - My Baby Left Me (Blues)
 T-Bone Walker - No Worry Blues
 T-Bone Walker - Sail On Boogie
 T-Bone Walker - She's Going To Ruin Me (Blues)
@@ -6357,6 +6401,7 @@ The Andrews Sisters - House of blue lights
 The Andrews Sisters - I Can Dream, Can't I
 The Andrews Sisters - I Want My Mama
 The Andrews Sisters - I'll Be With You in Apple Blossom Time
+The Andrews Sisters - In The Mood
 The Andrews Sisters - Is You Is or Is You Ain't My Baby?
 The Andrews Sisters - Johnny Fedora And Alice Blue Bonnet
 The Andrews Sisters - Joseph Joseph
@@ -6567,6 +6612,7 @@ The Cellos - Rang Tang Ding Dong (I Am The Japanese Sandman)
 The Chanels - The Reason
 The Chantels - Maybe
 The Chanters - No, No, No
+The Charms - Hearts Of Stone
 The Charts - Deserie
 The Chiffons - One Fine Day
 The Chimes - Once In A While
@@ -6665,6 +6711,7 @@ The Four Tops - Reach Out I'll Be There
 The Frogmen - Underwater
 The Furys - Zing! Went The Strings Of My Heart
 The G-Clefs - Ka-Ding Dong
+The Genies - Who's That Knocking
 The George Lewis Ragtime Jazz Band Of New Orleans - Bourbon St. Parade
 The George Lewis Ragtime Jazz Band Of New Orleans - Darktown Strutter's Ball
 The George Lewis Ragtime Jazz Band Of New Orleans - High Society
@@ -6689,6 +6736,8 @@ The Impalas - Sorry (I Ran All the Way Home)
 The Impressions - People Get Ready
 The Ink Spots - Adress Unknown
 The Ink Spots - Bless You
+The Ink Spots - Brown Gal
+The Ink Spots - Coquette
 The Ink Spots - Cow Cow Boogie
 The Ink Spots - Do I Worry?
 The Ink Spots - Ev'ry Night About This Time
@@ -6843,6 +6892,7 @@ The Mills Brothers - Side Kick Joe
 The Mills Brothers - Since We Fell Out Of Love
 The Mills Brothers - Since We Fell Out of Love
 The Mills Brothers - Sixty Seconds Got Together
+The Mills Brothers - Sleepy Head
 The Mills Brothers - Smoke Rings
 The Mills Brothers - Solitude
 The Mills Brothers - Some Of These Days
@@ -7091,6 +7141,7 @@ The Ventures - Exploration in Terror
 The Ventures - Fear (Main title from 'One Step Beyond')
 The Ventures - Fire
 The Ventures - Flight Of Fantasy
+The Ventures - Fly Away
 The Ventures - Frankie And Johnny
 The Ventures - Fugitive
 The Ventures - Fuzzy And Wild
@@ -7112,6 +7163,7 @@ The Ventures - Grazin' In Their Grass
 The Ventures - Grazing In The Grass
 The Ventures - Green Grass
 The Ventures - Green Hornet 66
+The Ventures - Green Hornet Theme
 The Ventures - Green Leaves of Summer
 The Ventures - Green Light
 The Ventures - Green Onions
@@ -7130,6 +7182,7 @@ The Ventures - Harlem Nocturne
 The Ventures - Hawaii Five O
 The Ventures - Hawaiian War Chant
 The Ventures - He Never Came Back
+The Ventures - Here Comes The Judge
 The Ventures - Hernando's Hideaway
 The Ventures - High And Dry
 The Ventures - Home
@@ -7154,6 +7207,7 @@ The Ventures - Instant Guitars
 The Ventures - Instant Mashed
 The Ventures - Jocker's Wild
 The Ventures - Josie
+The Ventures - Journey To The Stars
 The Ventures - Jumpin' Jack Flash
 The Ventures - Kandy Koncoction
 The Ventures - Kern County Line
@@ -7229,6 +7283,7 @@ The Ventures - No Trespassing
 The Ventures - Ode To Billy Joe
 The Ventures - Off In The 93rds
 The Ventures - Oh, Lonesome Me
+The Ventures - Oh, Pretty Woman
 The Ventures - One Mint Julep
 The Ventures - Only The Young
 The Ventures - Opus Twist
@@ -7283,6 +7338,7 @@ The Ventures - Road Runner
 The Ventures - Road to somewhere
 The Ventures - Runnin' Wild
 The Ventures - SAN ANTONIO ROSE
+The Ventures - Saihate Bojo
 The Ventures - San Antonio Rose
 The Ventures - Scarborough Fair/Canticle
 The Ventures - Scratch
@@ -7463,6 +7519,7 @@ Thelonious Monk - Thelonious
 Thelonious Monk - Well you needn't
 Thelonious Monk - Who knows
 Thelonious Monk - Willow weep for me
+Them - Gloria
 Thomas Wayne - TRAGEDY
 Thomas Wayne with The DeLons - Tragedy
 Three Sons - DAISY
@@ -7500,6 +7557,7 @@ Tommy Dorsey - Liebestraum
 Tommy Dorsey - Lookin' Around Corners For You
 Tommy Dorsey - Marie
 Tommy Dorsey - Melody In F
+Tommy Dorsey - Mendelssohn's Spring Song
 Tommy Dorsey - Mr. Ghost Goes To Town
 Tommy Dorsey - On A Little Bamboo Bridge
 Tommy Dorsey - Royal Garden Blues
@@ -7531,9 +7589,11 @@ US Army - The Stars and Stripes Forever
 US Army - The Washington Post March
 US Army - WWII General's Suite
 US Cavalry - She Wore A Yellow Ribbon
+US Civil War - Gettysburg
 US Marine Corp - Semper Fidelis
 US Marine Corps Band - National Anthem
 US Marines - The Marine Hymn
+US Military Academy - Fight Songs
 US Navy - Anchors Aweigh
 US Navy - Battle of Midway March
 USA - Acapella
@@ -7605,6 +7665,7 @@ Ventures - Bumble Bee
 Ventures - Caravan
 Ventures - Journey To The Stars
 Ventures - Slaughter On 10th Avenue
+Ventures - Wipe Out
 Ventures - Yellow Jacket
 Vic Damone - A LOVE AFFAIR
 Vic Damone - AGAIN
@@ -7802,6 +7863,7 @@ winifred atwell - poor people of paris
 Âëàäèìèð Âûñîöêèé - Â õîëîäà, â õîëîäà
 Âëàäèìèð Âûñîöêèé - Âñå óøëè íà ôðîíò
 Âëàäèìèð Âûñîöêèé - Äàâíî ñìîëêëè çàëïû îðóäèé
+Âëàäèìèð Âûñîöêèé - Ìû âðàùàåì Çåìëþ
 Âëàäèìèð Âûñîöêèé - Î êîíöå âîéíû
 Âëàäèìèð Âûñîöêèé - Î ìî¸ì ñòàðøèíå
 Âëàäèìèð Âûñîöêèé - Îí íå âåðíóëñÿ èç áîÿ
@@ -7812,6 +7874,7 @@ winifred atwell - poor people of paris
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î çâ¸çäàõ
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î íîâîì âðåìåíè
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î ïîãèáøåì ë¸ò÷èêå
+Âëàäèìèð Âûñîöêèé - Ïåñíÿ ñàìîë¸òà-èñòðåáèòåëÿ
 Âëàäèìèð Âûñîöêèé - Ïèñüìî
 Âëàäèìèð Âûñîöêèé - Ðàçâåäêà áîåì
 Âëàäèìèð Âûñîöêèé - Ðÿäîâîé Áîðèñîâ!
@@ -7854,6 +7917,7 @@ winifred atwell - poor people of paris
 Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Äî ñâèäàíüÿ, ÕÕ âåê
 Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Çà îêíîì äîæäü (ìåäëåííûé ôîêñ
 Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Çîëîòàÿ îñåíü (ìåäëåííûé ôîêñò
+Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Êîãäà íàñòóïàåò âå÷åð
 Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Ëèïñè
 Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Ìå÷òàåì âäâî¸ì (ìåäëåííûé âàëü
 Èíñòðóìåíòàëüíûé àíñàìáëü ï; ó - Íà íîâîñåëüå
