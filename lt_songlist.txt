@@ -11,6 +11,7 @@
 338th U.S. Army Band - Thunderbolt Stage Band - Harlem Nocturne
 338th U.S. Army Band - Tribute To Lionel
 338th U.S. Army Band - Two O'Clock Jump
+338th U.S. Army Band - Woodwind Polka
 338th and 392 U.S. Army Bands - Declaration
 Aaron Neville - Over You
 Aaron Neville - Tell It Like It Is
@@ -924,6 +925,7 @@ Bud Powell - I'll Keep Loving You
 Bud Powell - So Sorry Please
 Bud Powell - Sometimes I'm Happy
 Bud Powell - Strictly Confidential
+Bud Powell - Sweet Georgia Brown
 Bud Powell - Yesterdays
 Bud Shark - Acertate Mas
 Bud Shark - Amor Flamenco
@@ -1318,6 +1320,7 @@ Count Basie & Joe Williams - Our Love Is Here To Stay
 Count Basie & Joe Williams - Singin' In The Rain
 Count Basie & Joe Williams - There Will Never Be Another Yo
 Count Basie & Joe Williams - This Can't Be Love
+Count Basie & Joe Williams - Thou Swell
 Count Basie - (Love Is) The Tender Trap
 Count Basie - 9-20 Special
 Count Basie - After Supper
@@ -2079,6 +2082,7 @@ Elvis Presley - Èí ìé ôàòõåðúñ õîóñå
 Elvis Presley - Èòúñ íîw îð íåâåð
 Elvis Presley - Ìàíñèîí îâåð òõå õèëëòîï
 Elvis Presley - Ìé áàáé ëåôò ìå
+Elvis Presley - Ïîöêåòôóë îô ðàèíáîwñ
 Elvis Presley - Ñwèíã äîwí ñwååò ÷àðèîò
 Elvis Presley - Ñëèöèíú ñàíä
 Elvis Presley - Øàêå, ðàòòëå àíä ðîëë
@@ -2834,6 +2838,7 @@ Howlin' Wolf - C. V. Wine Blues
 Howlin' Wolf - California Blues
 Howlin' Wolf - California Boogie
 Howlin' Wolf - Chocolate Drop
+Howlin' Wolf - Crying At Daybreak
 Howlin' Wolf - Dog Me Around
 Howlin' Wolf - Gettin' Old And Gray
 Howlin' Wolf - Highway Man
@@ -4506,6 +4511,7 @@ Miles Davis - Godchild
 Miles Davis - How Deep Is The Ocean
 Miles Davis - I Waited For You
 Miles Davis - It Never Entered My Mind
+Miles Davis - It's Only A Papermoon
 Miles Davis - Jeru
 Miles Davis - Joshua
 Miles Davis - Just Squeeze Me
@@ -6661,6 +6667,7 @@ The Dreamlovers - If I Should Lose You
 The Dreamlovers - When We Get Married
 The Drifters - Drip Drop
 The Drifters - Fools Fall In Love
+The Drifters - Money Honey
 The Drifters - Save The Last Dance For Me
 The Drifters - There Goes My Baby
 The Drifters - Under The Boardwalk
@@ -7697,6 +7704,7 @@ Wardell Gray - Bye Bye Blues Bop
 Wardell Gray - C Jam Blues
 Wardell Gray - Dell's Bells
 Wardell Gray - Easy Swing
+Wardell Gray - How High The Moon
 Wardell Gray - In The Land Of Oo-Bla-Dee
 Wardell Gray - It's The Talk Of The Town
 Wardell Gray - Lady Bird
@@ -7892,6 +7900,7 @@ winifred atwell - poor people of paris
 Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Â ëîäêå (ïåñíÿ èç îïåðåòòû «Ñâ
 Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Âëþáë¸ííûé êîíîãîí
 Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Çà÷åì (òàíãî)
+Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Ìåðèìî
 Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Íà ïîëÿíêå (âàëüñ)
 Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Îñòàíüñÿ
 Ã. Âèíîãðàäîâ, Ãîñóäàðñòâåííûé - Ïåñíÿ âñòðå÷è è ïîáåä
