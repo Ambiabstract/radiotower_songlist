@@ -49,6 +49,7 @@ AC/DC - Baptism by Fire
 AC/DC - Beating Around the Bush
 AC/DC - Bedlam in Belgium
 AC/DC - Big Balls
+AC/DC - Big Jack
 AC/DC - Boogie Man
 AC/DC - Brain Shake
 AC/DC - Breaking the Rules
@@ -89,8 +90,10 @@ AC/DC - Hard as a Rock
 AC/DC - Have a Drink on Me
 AC/DC - Heatseeker
 AC/DC - Hell Ain't a Bad Place to Be
+AC/DC - Hell or High Water
 AC/DC - Hells Bells
 AC/DC - High Voltage
+AC/DC - Highway to Hell
 AC/DC - Hold Me Back
 AC/DC - House of Jazz
 AC/DC - If You Dare
@@ -101,7 +104,9 @@ AC/DC - Jailbreak
 AC/DC - Kicked in the Teeth
 AC/DC - Kissin' Dynamite
 AC/DC - Landslide
+AC/DC - Let There Be Rock (live)
 AC/DC - Let's Get It Up
+AC/DC - Let's Make It
 AC/DC - Little Lover
 AC/DC - Live Wire
 AC/DC - Love Bomb
@@ -110,6 +115,7 @@ AC/DC - Love Song
 AC/DC - Meanstreak
 AC/DC - Meltdown
 AC/DC - Miss Adventure
+AC/DC - Mistress for Christmas
 AC/DC - Money Made
 AC/DC - Moneytalks
 AC/DC - Nervous Shakedown
@@ -161,6 +167,7 @@ AC/DC - Stiff Upper Lip
 AC/DC - Sweet Candy
 AC/DC - T.N.T.
 AC/DC - That's the Way I Wanna Rock 'n' Roll
+AC/DC - The Honey Roll
 AC/DC - The Razors Edge
 AC/DC - There's Gonna Be Some Rockin'
 AC/DC - This House Is on Fire
@@ -186,6 +193,7 @@ All the Cold - Coldly to Heart
 Amenra - Die Strafe. Am Kreuz. Ich schreibe eine Bibel in Blut.
 Amesoeurs - Faiblesse des sens
 Amorphis - The White Swan
+An Autumn for Crippled Children - In Moonlight Blood Is Black
 Annihilator - Ambush
 Anthrax - One World
 Anti - Invocation
@@ -218,10 +226,12 @@ Candlemass - Of stars and smoke
 Cat Rapes Dog - She-Sick Sailors
 Chemlab - Rivet Head
 Chimaira - Worthless
+Christian Death - Romeo's Distress
 Chrome Division - Serial Killer
 Cinema Strange - Greensward Grey
 Clawfinger - The Price We Pay
 Cold Body Radiation - Radiance
+Communic - Conspiracy in Mind
 Coptic Rain - ?Sane?
 Crematory - Revolution
 Crooked Necks - Ruining You
@@ -232,6 +242,7 @@ Deadchovsky - Génération Tchernobyl
 Deadwalk - Final Destination
 Death - Scavenger of Human Sorrow
 Deathspell Omega - Bleeding Them Like Swines
+Deathstars - The Greatest Fight on Earth
 Dew-Scented - Slaughtervain
 Die Apokalyptischen Reiter - 2 Teufel
 Die Apokalyptischen Reiter - Auf die Liebe
@@ -264,11 +275,13 @@ Die Apokalyptischen Reiter - Eruption
 Die Apokalyptischen Reiter - Es wird Nacht
 Die Apokalyptischen Reiter - Es wird schlimmer
 Die Apokalyptischen Reiter - Execute
+Die Apokalyptischen Reiter - Fatima
 Die Apokalyptischen Reiter - Feuer
 Die Apokalyptischen Reiter - Flieg, mein Herz (acoustic)
 Die Apokalyptischen Reiter - Freiheit, Gleichheit, Brüderlichkeit
 Die Apokalyptischen Reiter - Friede sei mit dir (acoustic)
 Die Apokalyptischen Reiter - Game of Violence
+Die Apokalyptischen Reiter - Geopfert
 Die Apokalyptischen Reiter - Gib dich hin
 Die Apokalyptischen Reiter - Gone
 Die Apokalyptischen Reiter - Hammer oder Amboss
@@ -305,6 +318,7 @@ Die Apokalyptischen Reiter - Seid Willkommen
 Die Apokalyptischen Reiter - Slaves of Hate
 Die Apokalyptischen Reiter - So fern
 Die Apokalyptischen Reiter - Soldaten dieser Erde
+Die Apokalyptischen Reiter - Sometimes
 Die Apokalyptischen Reiter - Terra Nola (acoustic)
 Die Apokalyptischen Reiter - The Almighty
 Die Apokalyptischen Reiter - The Fire
@@ -362,6 +376,7 @@ Fear Factory - Bound for Forgiveness (A Therapy for Pain)
 Fear Factory - Burn (Flashpoint)
 Fear Factory - Byte Block
 Fear Factory - Cars
+Fear Factory - Cars (Numanoid mix)
 Fear Factory - Christploitation
 Fear Factory - Cloning Technology (Replica)
 Fear Factory - Concrete
@@ -415,6 +430,7 @@ Fear Factory - Mechanize
 Fear Factory - Messiah
 Fear Factory - Metallic Division
 Fear Factory - Millennium
+Fear Factory - Moment of Impact
 Fear Factory - National Panel Beating (Body Hammer)
 Fear Factory - Natividad
 Fear Factory - New Breed (Revolutionary Designed mix)
@@ -422,6 +438,7 @@ Fear Factory - New Breed (Spoetnik mix)
 Fear Factory - New Promise
 Fear Factory - No One
 Fear Factory - Obsolete
+Fear Factory - Oxidizer
 Fear Factory - Piss Christ
 Fear Factory - Powershifter
 Fear Factory - Refinery
@@ -438,6 +455,7 @@ Fear Factory - Self Immolation
 Fear Factory - Shock
 Fear Factory - Slave Labor
 Fear Factory - Smasher / Devourer
+Fear Factory - Soulwomb
 Fear Factory - Soulwound
 Fear Factory - Spinal Compression
 Fear Factory - Strain vs. Resistance
@@ -460,12 +478,14 @@ Godflesh - Almost Heaven (Helldub)
 Godflesh - Amoral
 Godflesh - Animals
 Godflesh - Anthem
+Godflesh - Antihuman
 Godflesh - Anything Is Mine
 Godflesh - Avalanche Master Song
 Godflesh - Baby Blue Eyes
 Godflesh - Bigot
 Godflesh - Bittersweet
 Godflesh - Black Boned Angel
+Godflesh - Body Dome Light
 Godflesh - Christbait Rising (original Unreleased mix)
 Godflesh - Christbait Rising (rehearsal April 1989)
 Godflesh - Circle of Shit (To the Point dub)
@@ -524,6 +544,7 @@ Godflesh - Slavestate (Radioslave)
 Godflesh - Slavestate (radio Slave)
 Godflesh - Someone Somewhere Scorned
 Godflesh - Spite
+Godflesh - Sterile Prophet (In dub)
 Godflesh - Sterile Prophet (version)
 Godflesh - Streetcleaner
 Godflesh - Suction (original demo Guitar & Machine 1988)
@@ -533,6 +554,7 @@ Godflesh - Tiny Tears (Peel session)
 Godflesh - Toll
 Godflesh - Tyrant
 Godflesh - Us and Them
+Godflesh - Vampires
 Godflesh - Voidhead
 Godflesh - Wake (Break mix)
 Godflesh - White Flag
@@ -565,7 +587,9 @@ KMFDM - Megalomaniac (single mix edit)
 Kataklysm - Manipulator of Souls
 Knorkator - Wir werden alle sterben
 Kommunity FK - We Will Not Fall
+Lantlôs - These Nights Were Ours
 Les Discrets - Song for Mountains
+Leviathan - Noisome Ash Crown
 Lifelover - I Love (To Hurt) You
 Liquido - Ordinary Life
 Líam - Debris
@@ -580,10 +604,12 @@ Meshuggah - Future Breed Machine
 Metallica - Stone Cold Crazy
 Mighty Sphincter - The New Manson Family
 Mina Harker - Tiefer
+Ministry - Bad Blood
 Mnemic - Ghost
 Motörhead - (Don't Let 'em) Grind Ya Down
 Motörhead - (Don't Need) Religion
 Motörhead - (I Won't) Pay Your Price
+Motörhead - (We Are) The Road Crew
 Motörhead - (Wearing Your) Heart on Your Sleeve
 Motörhead - 1916
 Motörhead - Ace of Spades
@@ -608,6 +634,7 @@ Motörhead - Brave New World
 Motörhead - Broken
 Motörhead - Brotherhood of Man
 Motörhead - Buried Alive
+Motörhead - Burner
 Motörhead - Bye Bye Bitch Bye Bye
 Motörhead - Capricorn
 Motörhead - Choking on Your Screams
@@ -623,6 +650,7 @@ Motörhead - Dead Men Tell No Tales
 Motörhead - Dead and Gone
 Motörhead - Deaf Forever
 Motörhead - Death Machine
+Motörhead - Death or Glory
 Motörhead - Desperate for You
 Motörhead - Devils
 Motörhead - Devils in My Head
@@ -639,6 +667,7 @@ Motörhead - Dr. Love
 Motörhead - Dust and Glass
 Motörhead - Eat the Gun
 Motörhead - Eat the Rich
+Motörhead - Electricity
 Motörhead - English Rose
 Motörhead - Evil Eye
 Motörhead - Fast and Loose
@@ -670,6 +699,7 @@ Motörhead - In Another Time
 Motörhead - In the Black
 Motörhead - In the Name of Tragedy
 Motörhead - In the Year of the Wolf
+Motörhead - Iron Horse / Born to Lose
 Motörhead - Jack the Ripper
 Motörhead - Jailbait
 Motörhead - Joy of Labour
@@ -679,12 +709,14 @@ Motörhead - Keep Us on the Road
 Motörhead - Keep Your Powder Dry
 Motörhead - Keys to the Kingdom
 Motörhead - Kill the World
+Motörhead - Killed by Death
 Motörhead - Killers
 Motörhead - Kingdom of the Worm
 Motörhead - Knife
 Motörhead - Lawman
 Motörhead - Leaving Here
 Motörhead - Liar
+Motörhead - Life's a Bitch
 Motörhead - Limb From Limb
 Motörhead - Live to Win
 Motörhead - Living in the Past
@@ -716,6 +748,7 @@ Motörhead - On the Road (live)
 Motörhead - One Track Mind
 Motörhead - Order/Fade to Black
 Motörhead - Orgasmatron
+Motörhead - Out of the Sun
 Motörhead - Out to Lunch
 Motörhead - Outlaw
 Motörhead - Over Your Shoulder
@@ -768,8 +801,10 @@ Motörhead - Tear Ya Down (original version)
 Motörhead - Tell Me Who to Kill
 Motörhead - The Chase Is Better Than the Catch
 Motörhead - The Devil
+Motörhead - The Game
 Motörhead - The Hammer
 Motörhead - The One to Sing the Blues
+Motörhead - The Thousand Names of God
 Motörhead - The Train Kept-A-Rollin'
 Motörhead - The Watcher
 Motörhead - The Wolf
@@ -780,6 +815,8 @@ Motörhead - Time Is Right
 Motörhead - Too Good to Be True
 Motörhead - Too Late Too Late
 Motörhead - Traitor
+Motörhead - Trigger
+Motörhead - Victory or Die
 Motörhead - Voices From the War
 Motörhead - Waiting for the Snake
 Motörhead - Wake the Dead
@@ -814,6 +851,7 @@ Rob Zombie - 17 Year Locust
 Rob Zombie - American Witch
 Rob Zombie - Bring Her Down (to Crippletown)
 Rob Zombie - Call of the Zombie
+Rob Zombie - Cease to Exist
 Rob Zombie - Dead Girl Superstar
 Rob Zombie - Death and Destiny Inside the Dream Factory
 Rob Zombie - Death of It All
@@ -844,8 +882,10 @@ Rob Zombie - Spookshow Baby (Black Leather Cat Suit mix)
 Rob Zombie - Superbeast
 Rob Zombie - Superbeast (Girl on a Motorcycle mix)
 Rob Zombie - Superbeast (Porno Holocaust mix)
+Rob Zombie - The Ballad of Resurrection Joe and Rosa Whore
 Rob Zombie - The Beginning of the End
 Rob Zombie - The Devil's Rejects
+Rob Zombie - The Lords of Salem
 Rob Zombie - The Man Who Laughs
 Rob Zombie - The Scorpion Sleeps
 Rob Zombie - Transylvanian Transmissions, Pt. 1
@@ -932,6 +972,7 @@ Sonic Syndicate - Psychic Suicide
 Stabbing Westward - Everything I Touch
 Status Praesents - Listen To My Words
 Subway to Sally - Meine Seele brennt
+Tarot - Before the Skies Come Down
 Telegram Frank - King Of All Hearts
 The Destiny Program - Project Hoax
 The Duskfall - Trust Is Overrated
@@ -986,9 +1027,11 @@ When Icarus Falls - Black Tree
 Wintersun - Winter Madness
 Woods of Desolation - Darker Days
 Year of No Light - Les Mains de l'empereur
+ZZ Top - Apologies to Pearly
 ZZ Top - Bar-B-Q
 ZZ Top - Bedroom Thang
 ZZ Top - Beer Drinkers & Hell Raisers
+ZZ Top - Certified Blues
 ZZ Top - Chevrolet
 ZZ Top - Francene
 ZZ Top - Goin' Down to Mexico
