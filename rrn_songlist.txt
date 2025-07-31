@@ -2,6 +2,7 @@
 36 Crazyfists - Bloodwork
 5 3ODIAC - Припять
 8 Bit Weapon - Bombs Away!
+Acylum - Trip of Hate
 Addaraya - Gurza Dreaming
 Adema - Everyone
 After Forever - Mea Culpa
@@ -56,12 +57,14 @@ Anthesteria - A Dog in the Boiler
 Anthesteria - A Tramtrip
 Anthesteria - Architectural Abstraction (The Past)
 Anthesteria - In the Vault
+Anthesteria - Reminiscence
 Anthesteria - Scientist's Apartment
 Anthesteria - Steamflower
 Anthesteria - Sublustrum Theme
 Anthesteria - The Dolmen
 Anthesteria - The Journal
 Anthesteria - The Lake
+Anthesteria - The Message
 Anthesteria - The Temple
 Antoine Domino - Ain't That a Shame
 Antoine Domino - The Fat Man
@@ -85,6 +88,7 @@ Ashtray - World Map
 Ashtray - reanimation
 Astronaut Ape - Post-Apocalyptic Detroit
 Atticus Ross - Amen
+Atticus Ross - Blind Faith
 Atticus Ross - Carnegie's Demise
 Atticus Ross - Carnegie's Pulse
 Atticus Ross - Convoy Destruct
@@ -180,6 +184,7 @@ Bobby Vinton - Blue Velvet
 Brad Fiedel - "Hasta La Vista, Baby" (T1000 Freezes)
 Brad Fiedel - "I'll Be Back"
 Brad Fiedel - "It's Over" ("Good-Bye")
+Brad Fiedel - "The Terminator" Main Title
 Brad Fiedel - "Trust Me"
 Brad Fiedel - Arm & Eye Surgery
 Brad Fiedel - Attack on Dyson (Sarah's Solution)
@@ -192,6 +197,7 @@ Brad Fiedel - Helicopter Chase
 Brad Fiedel - Into the Steel Mill
 Brad Fiedel - John & Dyson Into Vault
 Brad Fiedel - Main Title (Terminator 2 Theme)
+Brad Fiedel - Our Gang Goes to Cyberdyne
 Brad Fiedel - Reese Chased
 Brad Fiedel - Reese's Death / Terminator Sits Up / "You're Terminated!"
 Brad Fiedel - Sarah in the Bar
@@ -226,6 +232,7 @@ Brian May - Rampage of the Toecutter
 Brian May - Sfx Suite: Boomerang Attack / Gyro Flight / The Big Rig Starts / Breakout / The Refinery Explodes / Reprise
 Brian May - The Crazing of Johnny the Boy
 Brian May - The Final Chase
+Brian May - The Nightriders Rave
 Brian May - The Terrible Death of Jim Goose
 Brian May - We'll Give 'em Back Their Heroes
 Brian Tyler - A Boy And His Spirit
@@ -395,6 +402,7 @@ Django Reinhardt - Echoes of France
 Django Reinhardt - I'll See You in My Dreams
 Django Reinhardt - It Had to Be You
 Django Reinhardt - La Mer
+Django Reinhardt - Lentement, Mademoiselle
 Django Reinhardt - Manoir de mes rêves
 Django Reinhardt - Minor Swing
 Django Reinhardt - Oiseaux des îles
@@ -438,6 +446,7 @@ Eddie Vedder - Guaranteed
 Eddie Vedder - Hard Sun
 Eddie Vedder - No Ceiling
 Eddie Vedder - Setting Forth
+Eddie Vedder - Society
 Eddie Vedder - The Wolf
 Eddie Vedder - Tuolumne
 Eddy Duchin & His Orchestra feat. Mary Martin - My Heart Belongs to Daddy
@@ -488,6 +497,7 @@ Fluke - Zion
 Flyleaf Vs. The Legion Of Doom - I'm So Sick (T-Virus Remix)
 Flëur - Взрывная волна
 Forgive-Me-Not - aMAZEing
+Frank Klepacki - Big Foot
 Frank Klepacki - Crush
 Frank Klepacki - Dense
 Frank Klepacki - Face the Enemy
@@ -529,6 +539,7 @@ Gene Kelly - Singin' in the Rain
 Gene Krupa and His Orchestra - Drum Boogie
 General Strike - Nuclear War
 George McKelvey - My Radiation Baby (My Teenage Fallout Queen)
+George Thorogood & The Destroyers - Bad to the Bone
 Gerasim & Parks - post-apocalyptic song
 Glenn Barber - Atom Bomb
 Goran Vejvoda - Début
@@ -536,6 +547,7 @@ Graeme Revell - LB in Montana
 Graeme Revell - Palladino Montage
 Grandaddy - A.M. 180
 Groucho Marx - Civil Defense Spot: Excellent Chances
+Guns Christaint Undersun - Deafening Silence
 Guns N' Roses - You Could Be Mine
 Gustavo Santaolalla - Iguazu
 H.U.V.A. Network - Processing Lights
@@ -576,6 +588,7 @@ Inon Zur & Mark Morgan - Corporate Ruins Night
 Inon Zur & Mark Morgan - Credits Theme
 Inon Zur & Mark Morgan - Desert Exploring Day 1
 Inon Zur & Mark Morgan - Desert Exploring Day 2
+Inon Zur & Mark Morgan - Desert Exploring Night
 Inon Zur & Mark Morgan - Doc Mitchell Theme
 Inon Zur & Mark Morgan - Endgame Slideshow Theme
 Inon Zur & Mark Morgan - Hoover Dam Caesar
@@ -640,6 +653,7 @@ James Newton Howard - Evacuation
 James Newton Howard - Haircuts
 James Newton Howard - Half an Hour
 James Newton Howard - Helen Frees the Mariner
+James Newton Howard - Helen Sews
 James Newton Howard - I'm Listening
 James Newton Howard - Main Credits
 James Newton Howard - Main Titles
@@ -686,6 +700,7 @@ Jerry Lee Lewis - Just Dropped In
 Jesper Kyd - Bring Your Guns
 Jesper Kyd - Prelude
 Jesper Kyd - The Junkyard Vista
+Jesper Kyd - Welcome to Fyrestone
 Jesper Kyd - Welcome to the Wastelands
 Jim Eanes - They Locked God Outside the Iron Curtain
 Jimmie Davis - You Are My Sunshine
@@ -760,6 +775,7 @@ John Murphy - In the House - In a Heartbeat
 John Murphy - Jim's Dream
 John Murphy - Jim's Parents (Abide With Me)
 John Murphy - Kiss of Death
+John Murphy - Knock Knock - Cottage Attack
 John Murphy - Leaving England
 John Murphy - London Deserted
 John Murphy - Night Watch
@@ -789,6 +805,7 @@ Jonathan Coulton - Still Alive (J.C. mix)
 Joni James - Civil Defense Spot: Every Living Thing
 Juno Reactor and Don Davis - Burly Brawl
 Juno Reactor and Don Davis - Mona Lisa Overdrive
+Juno Reactor and Don Davis - Navras
 Juno Reactor and Don Davis - Tetsujin
 Juno Reactor and Don Davis - The Trainman Cometh
 KMFDM - Hau Ruck
@@ -811,6 +828,7 @@ Kay Kyser - Jingle Jangle Jingle
 Kay Kyser and His Orchestra - Praise the Lord and Pass the Ammunition
 Kazuhiko Toyama - Darkside Blues
 Kazuhiko Toyama - Darkside Power
+Kazuhiko Toyama - Darkside arawaru
 Kazuhiko Toyama - Katari arawaru
 Kazuhiko Toyama - Mai no kako
 Kazuhiko Toyama - Mai to Selia
@@ -837,6 +855,7 @@ Kelly Bailey - Black Mesa Inbound
 Kelly Bailey - Brane Scan
 Kelly Bailey - Broken Symmetry
 Kelly Bailey - CP Violation
+Kelly Bailey - CP Violation (Submix 0)
 Kelly Bailey - CP Violation (Submix 4)
 Kelly Bailey - Calabi-Yau Model
 Kelly Bailey - Closing Theme (remix 3)
@@ -924,6 +943,7 @@ Killswitch Engage - Temple From the Within
 Killswitch Engage - The End of Heartache
 Klaus_Badelt - grammaton_clerics
 Kristin Chenoweth - Popular
+L7 - Shitlist
 LORDH3LL - Death
 LORDH3LL - Desolation
 LORDH3LL - Fib
@@ -943,11 +963,14 @@ LORDH3LL - Story Of Desert 2
 LORDH3LL - Tactics 2
 LORDH3LL - Vision?
 LORDH3LL - Warning
+LORDH3LL - Way They Live
 LORDH3LL - Way To Future
 Laibach - B Mashina
 Laibach - Das Spiel ist aus (Ouroborots mix)
 Led Zeppelin - Immigrant Song
 Lee Dorsey - Ya Ya
+Lee Wiley - Let's Fly Away (Take 1 Complete)
+Lenin Was A Zombie - One Day A Nuclear Bomb Fell From The Sky
 Les Baxter - Auf Wiederseh'n, Sweetheart
 Linda Hayes with The Red Callender Sextette - Atomic Baby
 Linkin Park - Session
@@ -990,6 +1013,7 @@ Louis Prima - Che La Luna
 Louis Prima - I'm Living in a Great Big Way
 Louis Prima - Just a Gigolo / I Ain't Got Nobody
 Louis Prima - Oh Marie
+Louis Prima - Pennies From Heaven
 Louis Prima - The Closer to the Bone
 Louisiana Red - Red's Dream
 Lowell Blanchard with The Valley Trio - Jesus Hits Like an Atom Bomb
@@ -1018,12 +1042,14 @@ Marilyn Manson - Reunion
 Marilyn Manson - Rock Is Dead
 Marilyn Manson - Seizure of Power
 Marilyn Manson - The Fight Song (Slipknot remix)
+Marilyn Manson - The Last Day on Earth
 Marilyn Manson - This Is the New Shit
 Mario Lanza - Danny Boy
 Mark Dinning - Teen Angel
 Mark Griskey - Post Apocalyptic
 Mark Morgan - A Trader's Life
 Mark Morgan - Acolytes of the New God
+Mark Morgan - All-Clear Signal
 Mark Morgan - Arroyo
 Mark Morgan - Beyond the Canyon
 Mark Morgan - Biggest Little City in the World
@@ -1045,6 +1071,7 @@ Mark Morgan - My Chrysalis Highwayman
 Mark Morgan - Radiation Storm
 Mark Morgan - Second Chance
 Mark Morgan - The Vault of the Future
+Mark Morgan - Underground Trouble
 Mark Morgan - Vats of Goo
 Marty Robbins - Ain't I Right
 Marty Robbins - The Hanging Tree
@@ -1056,6 +1083,7 @@ Massive Attack - Radiation Ruling the Nation (Protection)
 Massive Attack - Teardrop
 Matt Monro - Born Free
 Maurice Jarre - Bartertown Theme
+Maurice Jarre - Coming Home
 Maurice Jarre - Is Paris Burning
 Maurice Jarre - The Children
 Max Steiner - A Summer Place
@@ -1082,6 +1110,7 @@ Midnight Wolf - The War Is Not Over
 Mike Fernandez with the Del Royals Orchestra - A Bomb Bop
 Mike Morasky - Playing With Danger
 Mike Morasky - Stop What You Are Doing
+Mike Morasky - Team Fortress 2
 Mike Morasky - You Can't Escape, You Know
 Mike Morasky - You're Not a Good Person
 Mike and Bernie Winters - Fallout Shelter
@@ -1147,6 +1176,7 @@ Nightwish - 10th Man Down
 Nina Simone - My Baby Just Cares for Me
 Nina Simone - Pirate Jenny
 Nine Inch Nails - Gave Up
+Nine Inch Nails - Help Me I Am in Hell
 Nine Inch Nails - Last
 Nine Inch Nails - Right Where It Belongs
 Nine Inch Nails - The Mark Has Been Made
@@ -1245,11 +1275,14 @@ Ray Anderson and the Homefolks - Sputniks and Mutniks
 Ray Parker Jr. - Ghostbusters
 Recoil - Last Breath
 Red Elvises - Good Golly Miss Molly
+Red Elvises - Hungarian Dance #5
 Red Elvises - Love Pipe
 Red Elvises - My Darling Lorraine
 Red Elvises - My Love is Killing Me
 Red McCoy with The Sons of the Soil - Rock and Roll Atom
 Red McKenzie - The Trouble With Me Is You
+Red River Dave - The Trial of Francis Powers
+Red River Dave - There's a Star Spangled Banner Waving #2 (The Ballad of Francis Powers)
 Red Snapper - Keeping Pigs Together
 Red Wire Black Wire - Post Apocalyptic Love Song
 Reg Owen Orchestra - 50s: Empire Classic: Manhattan Spiritual
@@ -1277,12 +1310,14 @@ Ron Grainer - Jumped by the Family
 Ron Grainer - Matthias the Victor
 Ron Grainer - Needling Neville
 Ron Grainer - Neville Crashes Through
+Ron Grainer - On the Tumbril
 Ron Grainer - Richie on the Roof
 Ron Grainer - Surprise Party
 Ron Grainer - Swinging at Neville's
 Ron Grainer - The Omega Man
 Ron Grainer - The Spirits Still Linger
 Ron Grainer - Zachary Makes His Move
+Roosevelt Sykes - Sputnik Baby
 Rosemary Clooney - It's Bad for Me
 Roy Acuff and His Smoky Mountain Boys - Advice to Joe
 Roy Brown - Big Town
@@ -1324,6 +1359,7 @@ Shirley Walker - Helicopter Arrival
 Shirley Walker - I Think We're Lost
 Shirley Walker - Motorcycle Chase
 Shirley Walker - Push on Thru
+Shirley Walker - Queen Mary
 Shirley Walker - Snake's Flashback
 Shirley Walker - Sub Sinks
 Shirley Walker - Submarine Launch
@@ -1343,6 +1379,7 @@ Simon Viklund - Bonefield
 Simon Viklund - Brow vs Brick
 Simon Viklund - Coming Home
 Simon Viklund - Conflictia
+Simon Viklund - Daddy's Got a Brand New Beat
 Simon Viklund - Disco Damnation
 Simon Viklund - Get Up 'n Party, Get Up 'n Jam
 Simon Viklund - If I was a Star I'd Rock the Planet aka Arena Rock
@@ -1406,6 +1443,7 @@ Targem Games, A.Popov - Bar
 Targem Games, A.Popov - Bio
 Targem Games, A.Popov - Sadness
 Targem Games, A.Popov - Shop theme
+Tarmvred - Process
 Team Sleep - The Passportal
 Tempo King and his Kings of Tempo - Swingin' the Jinx Away
 Teresa Brewer - Satellite
@@ -1435,9 +1473,11 @@ The Byrds - Turn! Turn! Turn!
 The Cadillacs - Speedo
 The Chantels - Maybe
 The Choir Of Trinity College, Cambridge - In Paradisum
+The Chop Tops - El Diablo
 The Chop Tops - Radium Rag
 The Chop Tops - Teddy Boy Stomp
 The Chordettes - Mr. Sandman
+The Church - Destination
 The Cleftones - Heart and Soul
 The Clovers - Love Potion No. 9
 The Coasters - Framed
@@ -1467,6 +1507,7 @@ The Fleetwoods - (He's) The Great Imposter
 The Future Sound of London - A Study of Six Guitars
 The Future Sound of London - Dead Cities
 The Future Sound of London - Everyone in the World Is Doing Something Without Me
+The Future Sound of London - First Death in the Family / Headstone Lane - Dead Cities Reprise
 The Future Sound of London - Just a Fuckin Idiot
 The Future Sound of London - Quagmire / In a State of Permanent Abyss
 The Gathering - Great Ocean Road
@@ -1497,11 +1538,13 @@ The Louvin Brothers - The Great Atomic Power
 The Louvin Brothers - Weapon of Prayer
 The Magnificent Bastards - Mockingbird Girl
 The Manhattan Transfer - Java Jive
+The Marx Brothers - Ridin' the Range
 The Meteors - You Can't Keep a Good Man Down
 The Mills Brothers - Caravan
 The Mills Brothers - Chinatown, My Chinatown
 The Mills Brothers - Daddy's Little Girl
 The Mills Brothers - Mr. Sandman
+The Mills Brothers - Paper Doll
 The Mills Brothers - You Always Hurt the One You Love
 The Monotones - Book of Love
 The Monotones - The Book of Love
@@ -1521,6 +1564,7 @@ The Southern Sons Quartet - Praise the Lord & Pass the Ammunition
 The Spaniels - Goodnight, Sweetheart, Goodnight
 The Spirit of Memphis Quartet - Atomic Telephone
 The Talbot Brothers of Bermuda - Atomic Nightmare
+The Tempos - See You in September
 The Velvet Underground - The Oh! Sweet Nuthin'
 The White Stripes - Good to Me
 Till Lindemann & Richard Kruspe - Schtiel
@@ -1620,6 +1664,7 @@ Zoar - In the Bloodlit Dark
 Zoar - Secrets of the Dead
 [-A-Decay-] - My Post-Apocalyptic Dream, Part II
 [Zeta Uranium] - ßäåðíàÿ âîéíà
+[dialogue] & Brian Tyler - Bend Before the Ways of Heavy Metal / Dueling Guitars
 [dialogue] & Brian Tyler - Bring His Guitar to Me / Sahara Burn
 [dialogue] & Brian Tyler - Fly Away Little Butterfly
 [dialogue] & Brian Tyler - Nice Tuxedo / Showdown At Not Okay Corral
@@ -1762,6 +1807,7 @@ vino - clarity
 Коммунизм - Фантом
 Крематорий - Мусорный ветер
 Оргия Праведников - Армагеддон FM
+Полковник и однополчане - Зимушка-зима
 Пётр Ильич Чайковский - Nutcracker Suite: Waltz of the Flowers
 Сплин - Выхода нет
 Старуха Мха - Край неба
