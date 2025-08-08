@@ -99,6 +99,7 @@ Andrews Sisters - Chico's love song
 Andrews Sisters - Ciribiribin
 Andrews Sisters - Corns for my country
 Andrews Sisters - Daddy
+Andrews Sisters - Don't Fence Me In
 Andrews Sisters - Don't Sit Under The Apple Tree (With Anyone Else But Me)
 Andrews Sisters - Don't Sit Under the Apple Tree
 Andrews Sisters - Don't sit under the apple tree
@@ -172,6 +173,7 @@ Animals & Sonny Boy Williamson - Nobody But You
 Anita O'Day - 'Murder' He Says
 Anita O'Day - And Her Tears Flowed Like Wine
 Anita O'Day - Are You Livin' Old Man?
+Anita O'Day - Bolero At The Savoy
 Anita O'Day - Boogie Blues
 Anita O'Day - Chickery Chick
 Anita O'Day - Deep In the Blues
@@ -200,6 +202,7 @@ Archie Bell & The Drells - Tighten Up
 Aretha Franklin - Chain Of Fools
 Aretha Franklin - Do Right Woman, Do Right Man
 Aretha Franklin - I Never Loved A Man (The Way I Love You)
+Aretha Franklin - Respect
 Art Farmer - Elephant Walk
 Art Farmer - Evening In Paris
 Art Farmer - Mau Mau
@@ -622,6 +625,7 @@ Big Bill Broonzy - Good Jelly
 Big Bill Broonzy - Good Liquor Gonna Carry Me Down
 Big Bill Broonzy - Horny Frog
 Big Bill Broonzy - How You Want It Done
+Big Bill Broonzy - It's Your Time Now
 Big Bill Broonzy - Long Tall Mama
 Big Bill Broonzy - Mississippi River Blues
 Big Bill Broonzy - Rising Sun Shine On
@@ -1631,6 +1635,7 @@ Count Basie Orchestra - Basie Boogie
 Cowboy Copas - Alabam
 Cozy Cole - Turvy II
 Cream - Crossroads
+Cream - Sunshine Of Your Love
 Cream - White Room
 Creedence Clearwater Revival - Bad Moon Rising
 Creedence Clearwater Revival - Fortunate Son
@@ -1750,6 +1755,7 @@ Django Reinhardt - Exactly Like You
 Django Reinhardt - Georgia On My Mind
 Django Reinhardt - I Can't Give You Anything But Love
 Django Reinhardt - Limehouse Blues
+Django Reinhardt - Minor Swing
 Django Reinhardt - Nagasaki
 Django Reinhardt - Oriental Shuffle
 Django Reinhardt - Rose Room
@@ -1901,6 +1907,7 @@ Eddie Condon - My One and Only
 Eddie Condon - Nobody's Sweetheart
 Eddie Condon - Oh, Lady Be Good
 Eddie Condon - Somebody Loves Me (Sidney Bechet & Jack Teagarden)
+Eddie Condon - Someday, Sweetheart
 Eddie Condon - Someone to Watch Over Me
 Eddie Condon - Swanee
 Eddie Condon - The Man I Love
@@ -2943,6 +2950,7 @@ Ivie Anderson - I'm Checkin' Out, Goo'm Bye
 Ivie Anderson - I've Got The World On A String
 Ivie Anderson - I've Got To Be A Rug Cutter
 Ivie Anderson - Isn't Love The Strangest Thing
+Ivie Anderson - It Don't Mean A Thing
 Ivie Anderson - It Was A Sad Night In Harlem
 Ivie Anderson - Jump For Joy
 Ivie Anderson - Killin' Myself
@@ -3178,6 +3186,7 @@ Jimmie Lunceford - Miss Otis Regrets
 Jimmie Lunceford - Nana
 Jimmie Lunceford - Remember When
 Jimmie Lunceford - Rose Room
+Jimmie Lunceford - Sophisticated Lady
 Jimmie Lunceford - Stomp It Off
 Jimmie Lunceford - Stratosphere
 Jimmie Lunceford - Sweet Rhythm
@@ -3447,6 +3456,7 @@ Josh White - Greenville Sheik
 Josh White - Howling Wolf Blues
 Josh White - Lazy Black Snake Blues
 Josh White - Lord, I Want To Die Easy
+Josh White - Low Cotton
 Josh White - Milk Cow Blues
 Josh White - My Father Is A Husbandman
 Josh White - New Milk Cow Blues
@@ -3980,6 +3990,7 @@ Louis Armstrong - The Gypsy
 Louis Armstrong - The Memphis Blues (or Mister Crump)
 Louis Armstrong - The Prisoner's Song
 Louis Armstrong - The Star Spangled Banner
+Louis Armstrong - The Whiffenpoof Song
 Louis Armstrong - Them There Eyes
 Louis Armstrong - Tiger Rag
 Louis Armstrong - Tin Roof Blues
@@ -4242,6 +4253,7 @@ Marilyn Monroe - Diamonds Are The Girl's Best
 Marilyn Monroe - Do It Again
 Marilyn Monroe - Down In The Meadow
 Marilyn Monroe - Every Baby Needs A Da Da Dadd
+Marilyn Monroe - Happy Birthday, Mr President
 Marilyn Monroe - Heat Wave
 Marilyn Monroe - Heatwave
 Marilyn Monroe - I Found A Dream
@@ -4350,6 +4362,7 @@ Mary Ford - NOW AND FOREVER
 Mary Ford - WHEREVER THOW GOEST I GO
 Mary Martin, Ezio Pinza - Twin Soliloquies-South Pacific-1957
 Matchbo - All The Boys Love My Baby
+Matt Lucas - I'm Movin' On
 Matt Monro - Honey On The Vine
 Maurice Williams & The Zodiacs - Stay
 Mc Kinney's Cotten Pickers - Birmingham Bertha
@@ -4983,6 +4996,7 @@ Nat King Cole - LOVE
 Nat King Cole - LOVE LETTERS
 Nat King Cole - Look What You Have Done To Me
 Nat King Cole - MISTY
+Nat King Cole - MONA LISA-ver1
 Nat King Cole - MONA LISA-ver2
 Nat King Cole - MY FOOLISH HEART
 Nat King Cole - Mona Lisa
@@ -5014,6 +5028,7 @@ Nat King Cole - You STEPPED OUT OF A DREAM
 Nat King Cole - You're Nobody 'Till Somebody Loves You
 Nat King Cole Trio - Blues in My Shower
 Nat King Cole, Billy May Orch - Send For Me
+Nat King Cole, Billy May Orch - cold cold heart
 Nat King Cole, Kitty Kalen - When I fall In Love
 Nat King Cole, Marilyn Monroe - WHEN I FALL IN LOVE
 Nathaniel Mayer & The Fabulous Twilights - Village Of Love
@@ -5324,6 +5339,7 @@ Peggy lee - Mr. Wonderful
 Percy Faith - Carol of the bells
 Percy Faith - Delicado
 Percy Faith - La Golondrina
+Percy Faith - THEME FROM A SUMMER PLACE
 Percy Faith - The Song From Moulin Rouge (1953)
 Percy Faith - The Syncopated Clock
 Percy Sledge - When A Man Loves A Woman
@@ -6025,6 +6041,7 @@ Sidney Bechet - Sweetie Dear
 Sidney Bechet - Tain't a Fit Night Out for Man or Beast
 Sidney Bechet - Weary Blues
 Sidney Bechet - When You and I Were Young, Maggie
+Sidney Bechet - When the Sun Sets Down South [Southern Sunset]
 Sidney Bechet - Winin' Boy Blues
 Silvana Mangano - Anna 1953
 Simon & Garfunkel - The Boxer
@@ -6172,6 +6189,7 @@ Sonny Terry - Pistol Slapper Blues
 Sonny Terry - Red River
 Sonny Terry - Riff And Harmonica Jump
 Sonny Terry - Rock Me Momma
+Sonny Terry - Somebody's Been Talkin'
 Sonny Terry - Stop Jivin' Me Mama
 Sonny Terry - Tater Pie
 Sonny Terry - Telephone Blues
@@ -6184,6 +6202,7 @@ Spencer & Spencer - Russian Band Stand
 Spike Jones And His City Slickers - Chloe (Song Of The Swamp)
 Squires - Dreamy Eyes (1957)
 Stan Freberg - The Old Payola Roll Blues Side 1
+Stan Getz - Hershey Bar
 Stan Getz - Imagination
 Stan Getz - It Might As Well Be Spring
 Stan Getz - Jaguar
@@ -6879,6 +6898,7 @@ The Mills Brothers - My Honey's Lovin' Arms
 The Mills Brothers - My Little Grass Shack in Kealakekua, Hawaii
 The Mills Brothers - My Walking Stick
 The Mills Brothers - Nagasaki
+The Mills Brothers - Nagaski
 The Mills Brothers - Nobody's Sweetheart
 The Mills Brothers - O.K. America, Pt.2
 The Mills Brothers - Old Fashioned Love
@@ -7192,6 +7212,7 @@ The Ventures - He Never Came Back
 The Ventures - Here Comes The Judge
 The Ventures - Hernando's Hideaway
 The Ventures - High And Dry
+The Ventures - Hokkaido skies
 The Ventures - Home
 The Ventures - Honeycomb
 The Ventures - Honky Tonk
@@ -7262,6 +7283,7 @@ The Ventures - Mata-Au-Hi-Made
 The Ventures - Medley - Walk Don't Run, Land Of 1,000 Dances
 The Ventures - Meet Mister Callahan
 The Ventures - Memphis
+The Ventures - Mexico
 The Ventures - Mighty Queen (Queen The Eskim
 The Ventures - Mod East
 The Ventures - Monday Monday
