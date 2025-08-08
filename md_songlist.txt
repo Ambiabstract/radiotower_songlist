@@ -37,6 +37,7 @@ A Perfect Circle - Vanishing
 A Perfect Circle - Weak and Powerless (Tilling My Grave mix)
 A Perfect Circle - What's Going On
 A Perfect Circle - When the Levee Breaks
+Abyssic Hate - Betrayed
 AC/DC - Ain't No Fun (Waitin' 'round to Be a Millionaire)
 AC/DC - Ain't No Fun (Waiting Round to Be a Millionaire)
 AC/DC - All Screwed Up
@@ -91,9 +92,9 @@ AC/DC - Got Some Rock & Roll Thunder
 AC/DC - Got You by the Balls
 AC/DC - Guns for Hire
 AC/DC - Hail Caesar
-AC/DC - Hard Times
 AC/DC - Hard as a Rock
 AC/DC - Hard as a Rock (live)
+AC/DC - Hard Times
 AC/DC - Have a Drink on Me
 AC/DC - Heatseeker
 AC/DC - Hell Ain't a Bad Place to Be
@@ -116,10 +117,10 @@ AC/DC - Let's Get It Up
 AC/DC - Let's Make It
 AC/DC - Little Lover
 AC/DC - Live Wire
+AC/DC - Love at First Feel
 AC/DC - Love Bomb
 AC/DC - Love Hungry Man
 AC/DC - Love Song
-AC/DC - Love at First Feel
 AC/DC - Meanstreak
 AC/DC - Meltdown
 AC/DC - Miss Adventure
@@ -128,8 +129,8 @@ AC/DC - Money Made
 AC/DC - Moneytalks
 AC/DC - Nervous Shakedown
 AC/DC - Nick of Time
-AC/DC - Night Prowler
 AC/DC - Night of the Long Knives
+AC/DC - Night Prowler
 AC/DC - Overdose
 AC/DC - Play Ball
 AC/DC - Playing With Girls
@@ -142,18 +143,18 @@ AC/DC - Rock 'n' Roll Damnation
 AC/DC - Rock 'n' Roll Dream
 AC/DC - Rock 'n' Roll Singer
 AC/DC - Rock 'n' Roll Train
-AC/DC - Rock Your Heart Out
 AC/DC - Rock and Roll Ain't Noise Pollution
 AC/DC - Rock or Bust
 AC/DC - Rock the House
+AC/DC - Rock Your Heart Out
 AC/DC - Rocker
 AC/DC - Ruff Stuff
 AC/DC - Safe in New York City
 AC/DC - Satellite Blues
 AC/DC - School Days
 AC/DC - Send for the Man
-AC/DC - Shake Your Foundations
 AC/DC - Shake a Leg
+AC/DC - Shake Your Foundations
 AC/DC - She Likes Rock 'n' Roll
 AC/DC - She's Got Balls
 AC/DC - Shoot to Thrill
@@ -197,7 +198,6 @@ AC/DC - Whole Lotta Rosie
 AC/DC - Whole Lotta Rosie (live)
 AC/DC - You Ain't Got a Hold on Me
 AC/DC - You Shook Me All Night Long
-Abyssic Hate - Betrayed
 After Forever - Transitory
 Agnostic Front - Warriors
 Alcest - Souvenirs d'un autre monde
@@ -273,11 +273,11 @@ Die Apokalyptischen Reiter - Dance With Me
 Die Apokalyptischen Reiter - Das Paradies
 Die Apokalyptischen Reiter - Das Paradies (acoustic)
 Die Apokalyptischen Reiter - Der Adler
+Die Apokalyptischen Reiter - Der arme Kunrad
 Die Apokalyptischen Reiter - Der Elende
 Die Apokalyptischen Reiter - Der Teufel
 Die Apokalyptischen Reiter - Der Wahnsinn (acoustic)
 Die Apokalyptischen Reiter - Der Weg (acoustic)
-Die Apokalyptischen Reiter - Der arme Kunrad
 Die Apokalyptischen Reiter - Die Boten
 Die Apokalyptischen Reiter - Die Schönheit der Sklaverei
 Die Apokalyptischen Reiter - Die Sonne scheint
@@ -287,10 +287,10 @@ Die Apokalyptischen Reiter - Dir gehört nichts
 Die Apokalyptischen Reiter - Dostulata
 Die Apokalyptischen Reiter - Dr. Pest
 Die Apokalyptischen Reiter - Du kleiner Wicht
-Die Apokalyptischen Reiter - Ein Lichtlein
-Die Apokalyptischen Reiter - Ein Vöglein
 Die Apokalyptischen Reiter - Ein leichtes Mädchen
+Die Apokalyptischen Reiter - Ein Lichtlein
 Die Apokalyptischen Reiter - Ein liebes Lied
+Die Apokalyptischen Reiter - Ein Vöglein
 Die Apokalyptischen Reiter - Enslaved
 Die Apokalyptischen Reiter - Erhelle meine Seele
 Die Apokalyptischen Reiter - Eruption
@@ -575,14 +575,14 @@ Godflesh - Newspite
 Godflesh - Paralyzed
 Godflesh - Perfect Skin Dub
 Godflesh - Predominance
-Godflesh - Pulp (Peel session)
 Godflesh - Pulp (original Unreleased mix)
+Godflesh - Pulp (Peel session)
 Godflesh - Pulp (rehearsal May 1989)
 Godflesh - Pure II
 Godflesh - Regal
 Godflesh - Slateman
-Godflesh - Slavestate (Radioslave)
 Godflesh - Slavestate (radio Slave)
+Godflesh - Slavestate (Radioslave)
 Godflesh - Someone Somewhere Scorned
 Godflesh - Spite
 Godflesh - Sterile Prophet (In dub)
@@ -625,8 +625,8 @@ Immortal - One by One
 In Flames - Only for the Weak
 In Trenches - Buried
 Isis - So Did We
-KMFDM - Megalomaniac (single mix edit)
 Kataklysm - Manipulator of Souls
+KMFDM - Megalomaniac (single mix edit)
 Knorkator - Wir werden alle sterben
 Kommunity FK - We Will Not Fall
 Lantlôs - These Nights Were Ours
@@ -657,8 +657,8 @@ Motörhead - (Wearing Your) Heart on Your Sleeve
 Motörhead - 1916
 Motörhead - Ace of Spades
 Motörhead - Ain't My Crime
-Motörhead - All Gone to Hell
 Motörhead - All for You
+Motörhead - All Gone to Hell
 Motörhead - All the Aces
 Motörhead - America
 Motörhead - Angel City
@@ -690,8 +690,8 @@ Motörhead - Crying Shame
 Motörhead - Damage Case
 Motörhead - Dance
 Motörhead - Dancing on Your Grave
-Motörhead - Dead Men Tell No Tales
 Motörhead - Dead and Gone
+Motörhead - Dead Men Tell No Tales
 Motörhead - Deaf Forever
 Motörhead - Death Machine
 Motörhead - Death or Glory
@@ -738,9 +738,9 @@ Motörhead - I Got Mine
 Motörhead - I Know How to Die
 Motörhead - I'll Be Your Sister
 Motörhead - I'm So Bad (Baby I Don't Care)
-Motörhead - I'm Your Witch Doctor
 Motörhead - I'm the Doctor
 Motörhead - I'm the Man
+Motörhead - I'm Your Witch Doctor
 Motörhead - In Another Time
 Motörhead - In the Black
 Motörhead - In the Name of Tragedy
@@ -767,13 +767,13 @@ Motörhead - Limb From Limb
 Motörhead - Listen to Your Heart
 Motörhead - Live to Win
 Motörhead - Living in the Past
+Motörhead - Lost in the Ozone
 Motörhead - Lost Johnny
 Motörhead - Lost Woman Blues
-Motörhead - Lost in the Ozone
 Motörhead - Louie, Louie
+Motörhead - Love for Sale
 Motörhead - Love Me Forever
 Motörhead - Love Me Like a Reptile
-Motörhead - Love for Sale
 Motörhead - Make 'em Blind
 Motörhead - Make My Day
 Motörhead - March ör Die
@@ -791,8 +791,8 @@ Motörhead - No Remorse
 Motörhead - No Voices in the Sky
 Motörhead - Nothing Up My Sleeve
 Motörhead - On Parole
-Motörhead - On Your Feet or on Your Knees
 Motörhead - On the Road (live)
+Motörhead - On Your Feet or on Your Knees
 Motörhead - One More Fucking Time
 Motörhead - One Night Stand
 Motörhead - One Short Life
@@ -802,8 +802,8 @@ Motörhead - Orgasmatron
 Motörhead - Out of the Sun
 Motörhead - Out to Lunch
 Motörhead - Outlaw
-Motörhead - Over Your Shoulder
 Motörhead - Over the Top (bonus track version)
+Motörhead - Over Your Shoulder
 Motörhead - Overkill
 Motörhead - Overnight Sensation
 Motörhead - Paralyzed
@@ -971,8 +971,8 @@ Skinlab - Better Than Jesus
 Skinlab - Blacklist (Circle of Vengeance demo)
 Skinlab - Bloodclot
 Skinlab - Bullet With Butterfly Wings
-Skinlab - Come Get It (Steve Evetts mix)
 Skinlab - Come Get It (live 4-20)
+Skinlab - Come Get It (Steve Evetts mix)
 Skinlab - Come N Get It (Pre Production EP)
 Skinlab - Coward
 Skinlab - Dissolve (demo)
@@ -1000,8 +1000,8 @@ Skinlab - One of Us (Steve Evetts mix)
 Skinlab - Paleface (James Murphy remix) (Roadrunner demo)
 Skinlab - Paleface (live)
 Skinlab - Paper Trails
-Skinlab - Promised (Roadrunner demo)
 Skinlab - Promised (demo)
+Skinlab - Promised (Roadrunner demo)
 Skinlab - Purify
 Skinlab - Purify (acoustic)
 Skinlab - Purify (live 4-20)
@@ -1065,6 +1065,7 @@ The Gathering - On Most Surfaces
 The Gathering - On Most Surfaces (Inuït)
 The Gathering - Probably Built in the Fifties
 The Gathering - Rescue Me
+The Gathering - Sand and Mercury
 The Gathering - Saturnine
 The Gathering - South American Ghost Ride
 The Gathering - Strange Machines
@@ -1091,6 +1092,7 @@ Voodoo Church - Eyes (Second Death)
 When Icarus Falls - Black Tree
 Wintersun - Winter Madness
 Woods of Desolation - Darker Days
+xDESTROY BABYLONx - Declaration Of War (Green Rage Tribute)
 Year of No Light - Les Mains de l'empereur
 ZZ Top - Apologies to Pearly
 ZZ Top - Backdoor Love Affair
@@ -1121,4 +1123,3 @@ ZZ Top - Sure Got Cold After the Rain Fell
 ZZ Top - Waitin' for the Bus
 ZZ Top - Waitin' for the Bus (live)
 ZZ Top - Whiskey'n Mama
-xDESTROY BABYLONx - Declaration Of War (Green Rage Tribute)

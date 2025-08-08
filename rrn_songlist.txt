@@ -2,6 +2,46 @@
 36 Crazyfists - Bloodwork
 5 3ODIAC - Припять
 8 Bit Weapon - Bombs Away!
+[-A-Decay-] - My Post-Apocalyptic Dream, Part II
+[dialogue] & Brian Tyler - Bend Before the Ways of Heavy Metal / Dueling Guitars
+[dialogue] & Brian Tyler - Bring His Guitar to Me / Sahara Burn
+[dialogue] & Brian Tyler - Fly Away Little Butterfly
+[dialogue] & Brian Tyler - Nice Tuxedo / Showdown At Not Okay Corral
+[dialogue] & Red Elvises - Follow the Yellow Brick Road / Leech
+[dialogue] & Red Elvises - If You Were Me, You'd Be Good-looking / Surfing In Siberia
+[dialogue] & Red Elvises - Lonely Highway of Love / Scorchi Chornie
+[dialogue] & Red Elvises - Rock n' Rolling Ourselves to Death / Jerry's Got The Squeeze Box
+[dialogue] & Red Elvises - See You Around Kid / Siberia
+[dialogue] - "'Snake' Plissken"
+[dialogue] - "Don't Go Down There!"
+[dialogue] - "I Heard You Were Dead!"
+[dialogue] - "Prison Introduction"
+[dialogue] - "Tell Him"
+[dialogue] - "The Name Is Plissken"
+[dialogue] - "Who Are You?"
+[dialogue] - "You Are the Duke of New York"
+[dialogue] - Arrowed Kid / Bowlers On The Floor
+[dialogue] - I Do Not Like Rock And Roll
+[dialogue] - Kill 200 Men
+[dialogue], Red Elvises & Brian Tyler - United States of Russia
+[unknown] - Civil Defense Spot: Alert Today, Alive Tomorrow
+[unknown] - Civil Defense Spot: CONELRAD, Sounds Pretty Complicated
+[unknown] - Civil Defense Spot: How Much Time Do We Have (Disaster on a Big Scale)
+[unknown] - Civil Defense Spot: How Much Time Do We Have (Keep Working)
+[unknown] - Civil Defense Spot: In Time of Emergency (Brilliant Nuclear Flash)
+[unknown] - Civil Defense Spot: In Time of Emergency (Not Contagious)
+[unknown] - Civil Defense Spot: In Time of Emergency (Take Notice of Fallout Shelter Signs)
+[unknown] - Civil Defense Spot: Psychiatrist (Shelter Signs)
+[unknown] - Civil Defense Spot: Take the Step (Grandma's Pantry)
+[unknown] - If the Bomb Falls, Part 1
+[unknown] - If the Bomb Falls, Part 2
+[unknown] - Intro: CONELRAD Radio Alert "Real Thing"
+[unknown] - Laura
+[unknown] - The Big Country: Main Title
+[unknown] - The Complacent Americans, Part 1
+[unknown] - The Complacent Americans, Part 2
+[Zeta Uranium] - ßäåðíàÿ âîéíà
+[ÐÕÁÇ] - ßäåðíûé Ôàíòîì
 AC/DC - Big Gun
 Acylum - Trip of Hate
 Addaraya - Gurza Dreaming
@@ -92,8 +132,8 @@ Arthur "Big Boy" Crudup - I'm Gonna Dig Myself a Hole
 Arthur Smith & His Cracker-Jacks - Mr. Stalin You're Eating Too High on the Hog
 Artie Shaw and His New Music - Nightmare
 Ashtray - Desert
-Ashtray - World Map
 Ashtray - reanimation
+Ashtray - World Map
 Astronaut Ape - Post-Apocalyptic Detroit
 Atticus Ross - Amen
 Atticus Ross - Blind Faith
@@ -274,7 +314,6 @@ Buddy Holly - That'll Be the Day
 Buddy Knox - Party Doll
 Burning Point - Nuclear Skies
 Buster Brown - Fanny Mae
-CKY - Escape From Hellview
 Cab Calloway & His Orchestra - The Ghost of Smokey Joe
 Cab Calloway - Everybody Eats When They Come to My House
 Cab Calloway - Happy Feet
@@ -328,6 +367,7 @@ Circle of Dust - Thulcandra
 City Sleeps - Catch Me
 Civil Defense Spot - How Much Time Do We Have (Fortress Main Street)
 Civil Defense Spot - In Time Of Emergency (Basic Supplies)
+CKY - Escape From Hellview
 Clarence "Frogman" Henry - (I Don't Know Why) But I Do
 Claustrum & Traur Zot - New Midnight
 Cliff Edwards - 40s: Empire Classic: Good Little, Bad Little You
@@ -337,11 +377,11 @@ Cole Porter - All Through the Night
 Collide - White Rabbit (SPC Eco Mix)
 Connee Boswell - I Cover the Waterfront
 Cootie Williams feat. Thelonious Monk - 'Round Midnight
-Corpoparassita - Karcist
 Corpoparassita - crollo nel disordine
+Corpoparassita - Karcist
 Covenant - Brave New World (radio version)
-Cradle Of Filth - Nymphetamine
 Cradle of Filth - Damned in Any Language (A Plague on Words)
+Cradle Of Filth - Nymphetamine
 Craig Stuart Garfinkle - A Nuclear Blast
 Crash Kings - It's Only Wednesday
 Creedence Clearwater Revival - Fortunate Son
@@ -356,8 +396,6 @@ Cris Velasco & Sascha Dikiciyan - Smoking Out the Bunker
 Cris Velasco & Sascha Dikiciyan - The Threat at Overlook
 Cris Velasco & Sascha Dikiciyan - Trash the Bandits Some More
 Cris Velasco & Sascha Dikiciyan - Welcome to the Bunker
-DEVO - Girl U Want
-DJ Ramm - Metro - Track 06 (Ambient Version)
 Danny & The Juniors - At the Hop
 Danny Elfman - A Solution
 Danny Elfman - All Is Lost
@@ -411,6 +449,7 @@ Desiderii Marginis - Worlds Apart
 Deutsch Nepal - How Low...
 Deutsch Nepal - Surgery II
 Deutsch Nepal - You're Just a Toy
+DEVO - Girl U Want
 Dexter Gordon Quartet - Bikini
 Dexter Logan & Darrell Edwards - The Song of the Atom Bomb
 Diana Krall - Bye Bye Blackbird
@@ -423,6 +462,7 @@ Dinah Shore - Buttons and Bows
 Discipline - Going to the Run
 Dismantled - From the Coma-Swept Ruins
 Divstah - Endless Dunes
+DJ Ramm - Metro - Track 06 (Ambient Version)
 Django Reinhardt & Stéphane Grappelli - La Mer (Beyond the Sea)
 Django Reinhardt - Belleville
 Django Reinhardt - Cavalerie
@@ -467,7 +507,6 @@ Duane Eddy - Rebel Rouser
 Dude Martin and His Round-Up Gang - Atom Bomb Baby
 Duke Ellington & His Orchestra - Sloppy Joe
 Duke Ellington & His Orchestra - The Mooche
-ELEKTROBOII - ONE DAY IN BRIGHTON
 Ed Bogas - Angie's Theme
 Ed Bogas - Bertha's Theme
 Ed Bogas - Bo Diddley
@@ -490,6 +529,7 @@ Eddy Duchin & His Orchestra feat. Mary Martin - My Heart Belongs to Daddy
 Edward Cochran - Summertime Blues
 Edward Cochran and Jerry Capehart - C'mon Everybody
 Edward Ellington - It Don't Mean a Thing
+ELEKTROBOII - ONE DAY IN BRIGHTON
 Ella Fitzgerald & Louis Armstrong - Stars Fell on Alabama
 Ella Fitzgerald - Puttin' on the Ritz
 Ella Fitzgerald feat. The Ink Spots - I'm Making Believe
@@ -594,8 +634,6 @@ Guns N' Roses - You Could Be Mine
 Gustavo Santaolalla - Iguazu
 Guy Mitchell - Heartaches by the Numbers
 H.U.V.A. Network - Processing Lights
-HMR - Ñòàëêåð
-HUMANIZER - BEFORE THE BEACH
 Hal Block with Tony Borrello's Orchestra - The Senator McCarthy Blues
 Hal Kemp and His Orchestra - You're the Top
 Hank King with Bud Williams and His Smilin' Buddies - Your Atom Bomb Heart
@@ -609,12 +647,14 @@ Henry Hall & His Orchestra - Hush, Hush, Hush, Here Comes the Bogey Man
 Henry Mancini - Moon River
 High Gambino & Nada Por Nadie - All We Want Is
 Hive - Ultrasonic Sound
+HMR - Ñòàëêåð
 Hole - Drown Soda
 Homer Harris with Muddy Waters - Atomic Bomb Blues
 Hoosier Hot Shots - I Like Bananas (Because They Have No Bones)
 Horace Heidt & His Musical Knights - Dawn of a New Day (Song of the World's Fair)
 Howard Duff - Civil Defense Spot: Remember, 640-1240
 Human Device - Ïðåä÷óâñòâèå
+HUMANIZER - BEFORE THE BEACH
 Hybrid - Know Your Enemy
 Hybrid - Out of the Dark
 Hybrid - This Is What It Means
@@ -871,8 +911,6 @@ Juno Reactor and Don Davis - Mona Lisa Overdrive
 Juno Reactor and Don Davis - Navras
 Juno Reactor and Don Davis - Tetsujin
 Juno Reactor and Don Davis - The Trainman Cometh
-KMFDM - Hau Ruck
-KMFDM - WWIII
 Kai Walter - Be Alone
 Kai Walter - Deep See
 Kai Walter - Feary Canyon 3
@@ -891,20 +929,20 @@ Kay Kyser & His Orchestra - Jingle, Jangle, Jingle
 Kay Kyser & His Orchestra - Praise the Lord and Pass the Ammunition
 Kay Kyser - Jingle Jangle Jingle
 Kay Kyser and His Orchestra - Praise the Lord and Pass the Ammunition
+Kazuhiko Toyama - ankoku he no yochou
+Kazuhiko Toyama - ansatsusha
+Kazuhiko Toyama - chitsujo houkan
+Kazuhiko Toyama - Darkside arawaru
 Kazuhiko Toyama - Darkside Blues
 Kazuhiko Toyama - Darkside Power
-Kazuhiko Toyama - Darkside arawaru
+Kazuhiko Toyama - ikari wo koraete
+Kazuhiko Toyama - isshokusokuhatsu
 Kazuhiko Toyama - Katari arawaru
+Kazuhiko Toyama - kessen
 Kazuhiko Toyama - Mai no kako
 Kazuhiko Toyama - Mai to Selia
 Kazuhiko Toyama - Sadist
 Kazuhiko Toyama - Selia to Tatsuya
-Kazuhiko Toyama - ankoku he no yochou
-Kazuhiko Toyama - ansatsusha
-Kazuhiko Toyama - chitsujo houkan
-Kazuhiko Toyama - ikari wo koraete
-Kazuhiko Toyama - isshokusokuhatsu
-Kazuhiko Toyama - kessen
 Kazuhiko Toyama - shuusei suru
 Kazuhiko Toyama - wakare
 Keely Smith - Someone to Watch Over Me
@@ -921,13 +959,13 @@ Kelly Bailey - Biozeminade Fragment
 Kelly Bailey - Black Mesa Inbound
 Kelly Bailey - Brane Scan
 Kelly Bailey - Broken Symmetry
-Kelly Bailey - CP Violation
-Kelly Bailey - CP Violation (Submix 0)
-Kelly Bailey - CP Violation (Submix 4)
 Kelly Bailey - Calabi-Yau Model
 Kelly Bailey - Closing Theme (remix 3)
 Kelly Bailey - Combine Advisory
 Kelly Bailey - Combine Harvester
+Kelly Bailey - CP Violation
+Kelly Bailey - CP Violation (Submix 0)
+Kelly Bailey - CP Violation (Submix 4)
 Kelly Bailey - Credits / Closing Theme (Tracking Device)
 Kelly Bailey - Dark Energy
 Kelly Bailey - Dark Interval
@@ -947,11 +985,11 @@ Kelly Bailey - Eon Trap
 Kelly Bailey - Escape Array
 Kelly Bailey - Extinction Event Horizon
 Kelly Bailey - Guard Down
-Kelly Bailey - HL1_stinger_song28
-Kelly Bailey - HL1_stinger_song8
 Kelly Bailey - Hard Fought (long)
 Kelly Bailey - Headhumper
 Kelly Bailey - Highway 17
+Kelly Bailey - HL1_stinger_song28
+Kelly Bailey - HL1_stinger_song8
 Kelly Bailey - Hunter Down
 Kelly Bailey - Hunting Party
 Kelly Bailey - Hurricane Strings (Neutrino Trap)
@@ -960,10 +998,10 @@ Kelly Bailey - Inhuman Frequency
 Kelly Bailey - Jungle Drums
 Kelly Bailey - Kaon
 Kelly Bailey - Klaxon Beat
-Kelly Bailey - LG Orbifold
 Kelly Bailey - Lab Practicum
 Kelly Bailey - Lambda Core
 Kelly Bailey - Last Legs
+Kelly Bailey - LG Orbifold
 Kelly Bailey - Military Precision
 Kelly Bailey - Miscount Detected
 Kelly Bailey - Nectarium
@@ -1014,36 +1052,17 @@ Kelly Bailey - What Kind of Hospital Is This?
 Kelly Bailey - Xen Relay
 Kelly Bailey - You're Not Supposed to Be Here
 Kelly Bailey - Zero Point Energy Field
+keygen - even if you cry
+keygen - I am safe
+keygen - I wonder
 Killswitch Engage - My Last Serenade
 Killswitch Engage - Temple From the Within
 Killswitch Engage - The End of Heartache
 Klaus_Badelt - grammaton_clerics
+KMFDM - Hau Ruck
+KMFDM - WWIII
 Kristin Chenoweth - Popular
 L7 - Shitlist
-LORDH3LL - Death
-LORDH3LL - Desolation
-LORDH3LL - Fact
-LORDH3LL - Fib
-LORDH3LL - Finesse
-LORDH3LL - Gracia
-LORDH3LL - Inside Your Mind
-LORDH3LL - Is That You?
-LORDH3LL - It's Not Easy 2
-LORDH3LL - Leisurely 2
-LORDH3LL - No Sun
-LORDH3LL - No Way Out 2
-LORDH3LL - Pain 2
-LORDH3LL - Reveal 2
-LORDH3LL - Rule
-LORDH3LL - Sneak 2
-LORDH3LL - Storm
-LORDH3LL - Story Of Desert 2
-LORDH3LL - Tactics 2
-LORDH3LL - Truth Is Cruel
-LORDH3LL - Vision?
-LORDH3LL - Warning
-LORDH3LL - Way They Live
-LORDH3LL - Way To Future
 Laibach - B Mashina
 Laibach - Das Spiel ist aus (Ouroborots mix)
 Led Zeppelin - Immigrant Song
@@ -1071,6 +1090,30 @@ Little Ceasar and The Red Callender Sextette - Atomic Love
 Little Richard - Keep a-Knockin'
 Little Richard - Long Tall Sally
 Lonnie Johnson - Jet Black Blues
+LORDH3LL - Death
+LORDH3LL - Desolation
+LORDH3LL - Fact
+LORDH3LL - Fib
+LORDH3LL - Finesse
+LORDH3LL - Gracia
+LORDH3LL - Inside Your Mind
+LORDH3LL - Is That You?
+LORDH3LL - It's Not Easy 2
+LORDH3LL - Leisurely 2
+LORDH3LL - No Sun
+LORDH3LL - No Way Out 2
+LORDH3LL - Pain 2
+LORDH3LL - Reveal 2
+LORDH3LL - Rule
+LORDH3LL - Sneak 2
+LORDH3LL - Storm
+LORDH3LL - Story Of Desert 2
+LORDH3LL - Tactics 2
+LORDH3LL - Truth Is Cruel
+LORDH3LL - Vision?
+LORDH3LL - Warning
+LORDH3LL - Way They Live
+LORDH3LL - Way To Future
 Loreena McKennitt - Night Ride Across the Caucasus
 Lost Horizon - Transdimensional Revelation
 Lost Tribe - Under the Red Sea
@@ -1078,8 +1121,8 @@ Louis Armstrong & His All-Stars - Dream a Little Dream of Me
 Louis Armstrong - A Kiss to Build a Dream On
 Louis Armstrong - Big Butter and Egg Man From the West
 Louis Armstrong - Hotter Than That
-Louis Armstrong - What A Wonderful World
 Louis Armstrong - What a Wonderful World
+Louis Armstrong - What A Wonderful World
 Louis Jordan & His Tympany Five - Choo Choo Ch'boogie
 Louis Jordan and His Tympany Five - 40s: Delta Radio: Ration Blues
 Louis Jordan and His Tympany Five - Ain't That Just Like a Woman (They'll Do It Every Time)
@@ -1114,9 +1157,9 @@ Marco Beltrami - More Deep Thoughts
 Marco Beltrami - Radio
 Marco Beltrami - Starting T1
 Marco Beltrami - T3
-Marco Beltrami - TX's Hot Tail
 Marco Beltrami - Termina-Tricks
 Marco Beltrami - Terminator Tangle
+Marco Beltrami - TX's Hot Tail
 Marco Beltrami - What Do You Want on Your Tombstone?
 Marilyn Manson - Cleansing
 Marilyn Manson - Great Big White World
@@ -1198,13 +1241,13 @@ Michal "Mirrored" Cielecki - The Wasteland Sands part 4
 Michal "Mirrored" Cielecki - The Wasteland Sands part 5
 Middle of the Road - Sacramento (A Wonderful Town)
 Midnight Wolf - The War Is Not Over
+Mike and Bernie Winters - Fallout Shelter
 Mike Fernandez with the Del Royals Orchestra - A Bomb Bop
 Mike Morasky - Playing With Danger
 Mike Morasky - Stop What You Are Doing
 Mike Morasky - Team Fortress 2
 Mike Morasky - You Can't Escape, You Know
 Mike Morasky - You're Not a Good Person
-Mike and Bernie Winters - Fallout Shelter
 Mills Blue Rhythm Band - Minnie the Moocher's Wedding Day
 Mina - Liza
 Ministry - Bad Blood
@@ -1233,15 +1276,37 @@ Mortaur - Nightfog
 Mott the Hoople - All the Way From Memphis
 Mr Brainpill - The Tripod Club
 Mr.ÍåêòÎ - Clear Sky
+muddasheep - absence (halfquake amen ost)
+muddasheep - ambience (halfquake amen ost)
+muddasheep - dead in your stead
+muddasheep - finally
+muddasheep - halfquake (blueberry hill cover)
+muddasheep - halfquake (feat. chappi and blackjack)
+muddasheep - halfquake (ingame intro version)
+muddasheep - halfquake (intro version)
+muddasheep - halfquake (victim remix)
+muddasheep - it never ends if you want it to
+muddasheep - madvertize
+muddasheep - offence (halfquake amen ost)
+muddasheep - pestilence (halfquake amen ost)
+muddasheep - rising son
+muddasheep - sapience (halfquake amen ost)
+muddasheep - shining darkly
+muddasheep - somos (acoustic version)
+muddasheep - somos (demo version)
+muddasheep - somos (halfquake amen ost)
+muddasheep - sunrise
+muddasheep - vain attempt
+muddasheep - violence (halfquake amen ost)
 Muddy Waters - Got My Mojo Working
 Mudvayne - Dig (Everything and Nothing remix)
 Murder - Nuclear War Cocksucker
 Muse - Forced In
 Muse - Hyper Chondriac Music
 N-ICE - Ñòðåëîê
-NON - Arka
-NaRick - Nuclear Power Station
+n40 - U-boot Propagandakompanie
 Nancy Sinatra - Bang Bang (My Baby Shot Me Down)
+NaRick - Nuclear Power Station
 Nasopharyngeal - A Funeral Dirge for B.R.
 Nat King Cole - Unforgettable
 Neither/Neither World - Montage One
@@ -1277,6 +1342,7 @@ Nine Inch Nails - The Mark Has Been Made
 Nino Rota - Amarcord
 Noise Unit - Submerged (feat. J. Filipchuk)
 Noise Unit - Surveillance (feat. J. Filipchuk and R. Holland)
+NON - Arka
 Norm Burns & The Five Stars - Atom Bomb Baby
 Northaunt - Until Dawn Do Us Part
 Northaunt - With the Stars as Witness
@@ -1320,16 +1386,16 @@ Perry Como - Papa Loves Mambo
 Perry Rhodan - Track 10
 Philip Glass - Pruit Igoe & Prophecies
 Pilgrim Travelers - Jesus Hits Like the Atom Bomb
-Piotr Koczewski - Holy City
-Piotr Koczewski - Holy City - Southern Sector (Church)
-Piotr Koczewski - Silesia - Library
 Piotr Koczewski - bukhta dream
 Piotr Koczewski - dark fall intro music
 Piotr Koczewski - end game
 Piotr Koczewski - fallout bet ween good evil theme
 Piotr Koczewski - harmont theme
+Piotr Koczewski - Holy City
+Piotr Koczewski - Holy City - Southern Sector (Church)
 Piotr Koczewski - outcast theme
 Piotr Koczewski - presov airfield
+Piotr Koczewski - Silesia - Library
 Piotr Koczewski - survivors
 Pixies - Where Is My Mind?
 Portishead - Roads
@@ -1360,6 +1426,12 @@ R.L. Burnside - It's Bad You Know
 Radio Moscow - Luckydutch
 Rage Against the Machine - Calm Like a Bomb
 Rage Against the Machine - Wake Up
+raison d'être - Death Pit of Ur
+raison d'être - Deep Enshrouded
+raison d'être - In Abscence of Light
+raison d'être - Metamorphe
+raison d'être - The External World
+raison d'être - The Well of Sadness
 Raison Varner - Assaulting Krom's Canyon
 Raison Varner - Battling Krom's Minions
 Raison Varner - Enter Skag Gully
@@ -1418,6 +1490,7 @@ Ron Grainer - Surprise Party
 Ron Grainer - Swinging at Neville's
 Ron Grainer - The Omega Man
 Ron Grainer - The Spirits Still Linger
+Ron Grainer - Where Did Lisa Go?
 Ron Grainer - Zachary Makes His Move
 Roosevelt Sykes - Sputnik Baby
 Rosemary Clooney - 50s: Empire Classic: Mambo Italiano
@@ -1431,14 +1504,12 @@ Roy Rogers - Don't Fence Me In
 Rudy Gaddis - Uranium Fever
 Ruth Etting - Ten Cents a Dance
 Röyksopp - What Else Is There?
-SPK - Cry From the Sanatorium
-SPK - Desolation
-SPK - Genetic Transmission
 Saint Augustine of Hippo - Track 4
 Saliva - 800
 Sam Butera and the Witnesses - Let the Good Times Roll
 Sam Hinton - Old Man Atom (Talking Atomic Blues)
 Sammy Salvo - A Mushroom Cloud
+samsas traum - dies_ist_kein_traum(adversus_interpretation
 Sander Nelson - Teen Beat
 Santana feat. Eric Clapton - The Calling
 Santana feat. Everlast - Put Your Lights On
@@ -1451,6 +1522,7 @@ Sheldon Allman - Crawl Out Through the Fallout
 Sheldon Allman - Radioactive Mama
 Shinjuku Thief - The Procession of Souls
 Shirley Walker & John Carpenter - Beverly Hills Surgeon General (alternate)
+Shirley Walker - [untitled]
 Shirley Walker - Crash Landing
 Shirley Walker - Decapitation
 Shirley Walker - Defense Lab
@@ -1473,7 +1545,6 @@ Shirley Walker - The Black Box
 Shirley Walker - The Future Is Right Now (extended)
 Shirley Walker - The Game
 Shirley Walker - Weapons
-Shirley Walker - [untitled]
 Shulman - New Paradigm
 Simon & Garfunkel - El Condor Pasa (If I Could)
 Simon & Garfunkel - The Sound of Silence
@@ -1518,15 +1589,18 @@ Skinnay Ennis & Hal Kemp and His Orchestra - You're the Top
 Skip Stanley - Satellite Baby
 Slavland - Intro
 Slim Gaillard Quartette - Atomic Cocktail
-SlipKnoT - Vermilion
 Slipknot - My Plague (New Abuse mix)
 Slipknot - People = Shit
 Slipknot - The Heretic Anthem
+SlipKnoT - Vermilion
 Sonny Russell - Fifty Megatons
 Sonny Til & The Orioles - Crying in the Chapel
 Sons of the Pioneers - Old Man Atom
 Spencer & Spencer with the Sonia Pryor Choir - Russian Band Stand
 Spiritual Front - Jesus Died in Las Vegas
+SPK - Cry From the Sanatorium
+SPK - Desolation
+SPK - Genetic Transmission
 Static-X - Anything but This
 Stealers Wheel - Stuck in the Middle With You
 Stephen King - Track 2
@@ -1553,6 +1627,9 @@ Targem Games, A.Popov - Sadness
 Targem Games, A.Popov - Shop theme
 Targem Games, Chekster A. - Distortion
 Tarmvred - Process
+taskbeenden - emperor of death
+taskbeenden - eye of the storm
+taskbeenden and thenameless - insane migraine
 Team Sleep - The Passportal
 Tempo King and his Kings of Tempo - Swingin' the Jinx Away
 Teresa Brewer - Satellite
@@ -1683,6 +1760,8 @@ The Talbot Brothers of Bermuda - Atomic Nightmare
 The Tempos - See You in September
 The Velvet Underground - The Oh! Sweet Nuthin'
 The White Stripes - Good to Me
+thenameless - escapism
+thenameless - just for you
 Thomas Dorcey - The Dipsy Doodle
 Till Lindemann & Richard Kruspe - Schtiel
 Tim Larkin - Exploring the Mine
@@ -1730,8 +1809,6 @@ V.A - Ñàðêîôàã
 VA - Job Karma - Black Hole In Olbi
 VA - Wasteland Radio - BoS Hymn
 VA - Wasteland Radio - Игра реальностью
-VNV Nation - 4AM
-VNV Nation - Intro
 Van Halen - Everybody Wants Some!!
 Vanargandr - Unknown III
 Varetta Dillard - 40s: Delta Radio: Mercy Mr. Percy
@@ -1739,6 +1816,9 @@ Vera Lynn - A Kiss to Build A Dream On
 Veruca Salt - Aurora
 Vetrophonia - Appassionata
 Vetrophonia - S.O. Maschinen
+vino - clarity
+VNV Nation - 4AM
+VNV Nation - Intro
 W.G. "Snuffy" Walden - "Ain't She Beautiful"
 W.G. "Snuffy" Walden - "One Will Fall by the Way"
 W.G. "Snuffy" Walden - "Sorry Mister, I Don't Understand" (Tom & Nick Meet)
@@ -1773,8 +1853,8 @@ Xcentric Noizz - Cluster Decay
 Xcentric Noizz - D.S.Brudge
 Xcentric Noizz - Dystopian Dreams
 Xcentric Noizz - Echelon
-Xcentric Noizz - FO Main Theme
 Xcentric Noizz - Face To Face
+Xcentric Noizz - FO Main Theme
 Xcentric Noizz - Into The Dust
 Xcentric Noizz - Kill Klesk
 Xcentric Noizz - No Fate No Fear
@@ -1787,89 +1867,10 @@ Xcentric Noizz - Trinity
 Xenomorph - Nuclear Winter
 Yo La Tengo - Nuclear War
 Youthmovies - Certainly If Anything Is Going to Be Falling From the Sky It Ought to Be Rain
-ZZ Top - La Grange
 Zoar - Ghosts and Molecules
 Zoar - In the Bloodlit Dark
 Zoar - Secrets of the Dead
-[-A-Decay-] - My Post-Apocalyptic Dream, Part II
-[Zeta Uranium] - ßäåðíàÿ âîéíà
-[dialogue] & Brian Tyler - Bend Before the Ways of Heavy Metal / Dueling Guitars
-[dialogue] & Brian Tyler - Bring His Guitar to Me / Sahara Burn
-[dialogue] & Brian Tyler - Fly Away Little Butterfly
-[dialogue] & Brian Tyler - Nice Tuxedo / Showdown At Not Okay Corral
-[dialogue] & Red Elvises - Follow the Yellow Brick Road / Leech
-[dialogue] & Red Elvises - If You Were Me, You'd Be Good-looking / Surfing In Siberia
-[dialogue] & Red Elvises - Lonely Highway of Love / Scorchi Chornie
-[dialogue] & Red Elvises - Rock n' Rolling Ourselves to Death / Jerry's Got The Squeeze Box
-[dialogue] & Red Elvises - See You Around Kid / Siberia
-[dialogue] - "'Snake' Plissken"
-[dialogue] - "Don't Go Down There!"
-[dialogue] - "I Heard You Were Dead!"
-[dialogue] - "Prison Introduction"
-[dialogue] - "Tell Him"
-[dialogue] - "The Name Is Plissken"
-[dialogue] - "Who Are You?"
-[dialogue] - "You Are the Duke of New York"
-[dialogue] - Arrowed Kid / Bowlers On The Floor
-[dialogue] - I Do Not Like Rock And Roll
-[dialogue] - Kill 200 Men
-[dialogue], Red Elvises & Brian Tyler - United States of Russia
-[unknown] - Civil Defense Spot: Alert Today, Alive Tomorrow
-[unknown] - Civil Defense Spot: CONELRAD, Sounds Pretty Complicated
-[unknown] - Civil Defense Spot: How Much Time Do We Have (Disaster on a Big Scale)
-[unknown] - Civil Defense Spot: How Much Time Do We Have (Keep Working)
-[unknown] - Civil Defense Spot: In Time of Emergency (Brilliant Nuclear Flash)
-[unknown] - Civil Defense Spot: In Time of Emergency (Not Contagious)
-[unknown] - Civil Defense Spot: In Time of Emergency (Take Notice of Fallout Shelter Signs)
-[unknown] - Civil Defense Spot: Psychiatrist (Shelter Signs)
-[unknown] - Civil Defense Spot: Take the Step (Grandma's Pantry)
-[unknown] - If the Bomb Falls, Part 1
-[unknown] - If the Bomb Falls, Part 2
-[unknown] - Intro: CONELRAD Radio Alert "Real Thing"
-[unknown] - Laura
-[unknown] - The Big Country: Main Title
-[unknown] - The Complacent Americans, Part 1
-[unknown] - The Complacent Americans, Part 2
-[ÐÕÁÇ] - ßäåðíûé Ôàíòîì
-keygen - I am safe
-keygen - I wonder
-keygen - even if you cry
-muddasheep - absence (halfquake amen ost)
-muddasheep - ambience (halfquake amen ost)
-muddasheep - dead in your stead
-muddasheep - finally
-muddasheep - halfquake (blueberry hill cover)
-muddasheep - halfquake (feat. chappi and blackjack)
-muddasheep - halfquake (ingame intro version)
-muddasheep - halfquake (intro version)
-muddasheep - halfquake (victim remix)
-muddasheep - it never ends if you want it to
-muddasheep - madvertize
-muddasheep - offence (halfquake amen ost)
-muddasheep - pestilence (halfquake amen ost)
-muddasheep - rising son
-muddasheep - sapience (halfquake amen ost)
-muddasheep - shining darkly
-muddasheep - somos (acoustic version)
-muddasheep - somos (demo version)
-muddasheep - somos (halfquake amen ost)
-muddasheep - sunrise
-muddasheep - vain attempt
-muddasheep - violence (halfquake amen ost)
-n40 - U-boot Propagandakompanie
-raison d'être - Death Pit of Ur
-raison d'être - Deep Enshrouded
-raison d'être - In Abscence of Light
-raison d'être - Metamorphe
-raison d'être - The External World
-raison d'être - The Well of Sadness
-samsas traum - dies_ist_kein_traum(adversus_interpretation
-taskbeenden - emperor of death
-taskbeenden - eye of the storm
-taskbeenden and thenameless - insane migraine
-thenameless - escapism
-thenameless - just for you
-vino - clarity
+ZZ Top - La Grange
 |n.e.e.d.[le].w.i.r.e| - After The Noise
 |n.e.e.d.[le].w.i.r.e| - Canalysation
 |n.e.e.d.[le].w.i.r.e| - Crawling Mutations
@@ -1882,11 +1883,11 @@ vino - clarity
 ÃÄÐ - Ãèìí ÑÑÑÐ
 Äåòñêèé õîð - Àâèàìàðø
 Édith Piaf - No Regrets
+Êèíî - ß îáúÿâëÿþ ñâîé äîì (ac)
 Êèíî - Âîéíà
 Êèíî - Ãåíåðàë
 Êèíî - Çâåçäà ïî èìåíè ñîëíöå
 Êèíî - Ïîñëåäíèé ãåðîé
-Êèíî - ß îáúÿâëÿþ ñâîé äîì (ac)
 Êîððîçèÿ ìåòàëëà - Ðèòóàë ñîææåíèÿ òðóïîâ
 Ëåîíèä Ñìåòàííèêîâ - Àâèàìàðø
 Ìàíåâðû - Ìåòðî 2033
@@ -1904,6 +1905,7 @@ vino - clarity
 Ìèõàèë Ìàêñóðîâ - The Chasm
 Ìèõàèë Ìàêñóðîâ - The Sense (Demo-version)
 Ìèõàèë Ìàêñóðîâ - The World is Dead (Synth Demo-Version)
+Ìèõàèë Ìàêñóðîâ - ×èñòîå Íåáî
 Ìèõàèë Ìàêñóðîâ - Áîëüøîå Ñåðäöå
 Ìèõàèë Ìàêñóðîâ - Âäàëü
 Ìèõàèë Ìàêñóðîâ - Âåòåð
@@ -1920,19 +1922,18 @@ vino - clarity
 Ìèõàèë Ìàêñóðîâ - Òåíè
 Ìèõàèë Ìàêñóðîâ - Òÿæ¸ëàÿ Çåìëÿ
 Ìèõàèë Ìàêñóðîâ - Óòðåííÿÿ çâåçäà
-Ìèõàèë Ìàêñóðîâ - ×èñòîå Íåáî
 Ìèõàèë Ìàêñóðîâ - Ýíåðãèÿ òüìû
 Ìîíãîë Øóóäàí - Ìîñêâà
 Ìîíãîë Øóóäàí - Òðóñ
 Íîëü - Ïóøêè - â çàä!
 Ñàìîäåÿòåëüíîñòü - Ãèìí ÑÑÑÐ
+ñò. Ëàøêîâ, Ìàëêîâ - Ïåñíÿ ðàêåò÷èêîâ
 Ñòàëêåð - Ïóñêàÿ Ñîê
 Òðàíñïëàíòàíò - 035
 Õàëèê Çàèìîâ, Ë.Íåêðàñîâà - Ýòî Ëåíèí íàø ðîäíîé
 Ünloco - Bruises
 Ýëü-Ðåãèñòàí-Ïîëü Ðîáñîí - Ãèìí ÑÑÑÐ
 Þðèé Âèçáîð - Ðàêåòíûé ÷àñîâîé
-ñò. Ëàøêîâ, Ìàëêîâ - Ïåñíÿ ðàêåò÷èêîâ
 Агата Кристи - Дорога паука
 Академический ансамбль песни и пляски Российской армии - The Red Army Is the Strongest
 Алексей Рыбников & Dmitry Rybnikov - Death of Dessa

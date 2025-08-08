@@ -1,3 +1,4 @@
+338th and 392 U.S. Army Bands - Declaration
 338th U.S. Army Band - Bombasto
 338th U.S. Army Band - Four Five Six
 338th U.S. Army Band - In All It's Glory
@@ -12,7 +13,6 @@
 338th U.S. Army Band - Tribute To Lionel
 338th U.S. Army Band - Two O'Clock Jump
 338th U.S. Army Band - Woodwind Polka
-338th and 392 U.S. Army Bands - Declaration
 Aaron Neville - Over You
 Aaron Neville - Tell It Like It Is
 Ac Dc - Highway To Hell
@@ -79,42 +79,42 @@ Amy Sky - Let It Snow
 Amy Winehouse - Back To Black
 Amy Winehouse - You Know I'm No Good
 Andrews Sisters - A Jitterburg lullaby
-Andrews Sisters - Ac-Cent-Tchu-Ate The Positive
 Andrews Sisters - Ac-Cent-Tchu-Ate the Positive
-Andrews Sisters - Beat Me Daddy, Eight To The Bar
-Andrews Sisters - Beat Me Daddy, Eight to the Ba
-Andrews Sisters - Beat Me Daddy,Eight To The Bar
+Andrews Sisters - Ac-Cent-Tchu-Ate The Positive
 Andrews Sisters - Beat me daddy eight to the bar
+Andrews Sisters - Beat Me Daddy, Eight to the Ba
+Andrews Sisters - Beat Me Daddy, Eight To The Bar
+Andrews Sisters - Beat Me Daddy,Eight To The Bar
 Andrews Sisters - Beer barrel polka
 Andrews Sisters - Begin The Beguine
 Andrews Sisters - Bei Mir Bist Du Schoen
 Andrews Sisters - Bei Mir Bist Du Schoen (Means You're Grand)
-Andrews Sisters - Bei Mir Bist Du Schon
 Andrews Sisters - Bei mir bist du schon
+Andrews Sisters - Bei Mir Bist Du Schon
 Andrews Sisters - Billy Boy
 Andrews Sisters - Bounce Me Brother with A Solid
 Andrews Sisters - Chatanooga Choo Choo
-Andrews Sisters - Chico's Love Song
 Andrews Sisters - Chico's love song
+Andrews Sisters - Chico's Love Song
 Andrews Sisters - Ciribiribin
 Andrews Sisters - Corns for my country
 Andrews Sisters - Daddy
 Andrews Sisters - Don't Fence Me In
-Andrews Sisters - Don't Sit Under The Apple Tree (With Anyone Else But Me)
-Andrews Sisters - Don't Sit Under the Apple Tree
 Andrews Sisters - Don't sit under the apple tree
+Andrews Sisters - Don't Sit Under the Apple Tree
+Andrews Sisters - Don't Sit Under The Apple Tree (With Anyone Else But Me)
 Andrews Sisters - Down By The O-Hi-O
 Andrews Sisters - Elmer's Tune
-Andrews Sisters - Hit The Road
 Andrews Sisters - Hit the road
+Andrews Sisters - Hit The Road
 Andrews Sisters - Hold Tight (Want Some Sea Food)
-Andrews Sisters - Hold Tight,Hold Tight
 Andrews Sisters - Hold tight, hold tight (Sea food mama)
+Andrews Sisters - Hold Tight,Hold Tight
 Andrews Sisters - I Can Dream, Can't I?
 Andrews Sisters - I Love You Much Too Much
 Andrews Sisters - I Wanna Be Loved
-Andrews Sisters - I'll Be With You In Apple Blossom Time
 Andrews Sisters - I'll be with you in apple blossom time
+Andrews Sisters - I'll Be With You In Apple Blossom Time
 Andrews Sisters - I've Got A Guy In Kalamazoo
 Andrews Sisters - In the mood
 Andrews Sisters - Is You Is,Or Is You Ain't, My Baby
@@ -133,8 +133,8 @@ Andrews Sisters - Ooooo-Oh Boom
 Andrews Sisters - Pagan Love Song
 Andrews Sisters - Rhumboogie
 Andrews Sisters - Rum & Coca Cola
-Andrews Sisters - Rum And Coca-Cola
 Andrews Sisters - Rum and Coca Cola
+Andrews Sisters - Rum And Coca-Cola
 Andrews Sisters - Rumors Are Flying
 Andrews Sisters - Say 'Si Si'
 Andrews Sisters - Say si si
@@ -146,11 +146,11 @@ Andrews Sisters - Shoo-Shoo Baby
 Andrews Sisters - Shortnin' Bread
 Andrews Sisters - Sonny Boy
 Andrews Sisters - South American way
-Andrews Sisters - Straighten Up And Fly Right
 Andrews Sisters - Straighten Up and Fly Right
 Andrews Sisters - Straighten up and fly right
-Andrews Sisters - Strip Polka (Take It Off! Take It Off!)
+Andrews Sisters - Straighten Up And Fly Right
 Andrews Sisters - Strip polka
+Andrews Sisters - Strip Polka (Take It Off! Take It Off!)
 Andrews Sisters - The Beer Barrel Polka
 Andrews Sisters - The Cock-eyed Mayor Of Kaunakakai
 Andrews Sisters - The Ferryboat Serenade
@@ -212,8 +212,8 @@ Art Farmer - Up In Quincy's Room
 Art Farmer - When Your Lover Has Gone
 Art Farmer - Wildwood
 Art Farmer - Work Of Art
-Art Kassel Casa Loma Orchestra, Lee Wiley - A Hundred Years From Today
 Art Kassel and his Castles in the Air Orch - I'll String along with You
+Art Kassel Casa Loma Orchestra, Lee Wiley - A Hundred Years From Today
 Art Pepper - Apropos
 Art Pepper - Art Pepper
 Art Pepper - Art's Oregano
@@ -379,36 +379,36 @@ Beach Boys - Papa-Oom-Mow-Mow
 Beach Boys - The Litlle Old Lady From Pasadena
 Beach Boys - The Wanderer
 Beach Boys, The - 409
+Beach Boys, the - alley oop
+Beach Boys, the - barbara ann
 Beach Boys, The - Chug-A-Lug
 Beach Boys, The - County Fair
 Beach Boys, The - Cuckoo Clock
+Beach Boys, the - devoted to you
 Beach Boys, The - Farmer's Daughter
 Beach Boys, The - Finders Keepers
 Beach Boys, The - Heads You Win - Tales I Lose
 Beach Boys, The - Honky Tonk
+Beach Boys, the - hully gully
+Beach Boys, the - i should have known better
 Beach Boys, The - Lana
 Beach Boys, The - Let's Go Tippin'
 Beach Boys, The - Little Miss America
 Beach Boys, The - Lonely Sea
+Beach Boys, the - medley: i get around and little deuce coupe
 Beach Boys, The - Misirlou
 Beach Boys, The - Moon Dawg
+Beach Boys, the - mountain of love
 Beach Boys, The - Noble Surfer
+Beach Boys, the - papa-oom-mow-mow
 Beach Boys, The - Shut Down
 Beach Boys, The - Stoked
 Beach Boys, The - Summertime Blues
 Beach Boys, The - Surf Jam
 Beach Boys, The - Surfin' USA
+Beach Boys, the - tell me why
 Beach Boys, The - Ten Little Indians
 Beach Boys, The - The Shift
-Beach Boys, the - alley oop
-Beach Boys, the - barbara ann
-Beach Boys, the - devoted to you
-Beach Boys, the - hully gully
-Beach Boys, the - i should have known better
-Beach Boys, the - medley: i get around and little deuce coupe
-Beach Boys, the - mountain of love
-Beach Boys, the - papa-oom-mow-mow
-Beach Boys, the - tell me why
 Beach Boys, the - the times they are a-changin'
 Beach Boys, the - there's no other (like my baby)
 Beach Boys, the - you've got to hide your love away
@@ -505,9 +505,10 @@ Benny Goodman - Body And Soul (Take 2)
 Benny Goodman - Bugle Call Rag
 Benny Goodman - China Boy
 Benny Goodman - Christopher Columbus
-Benny Goodman - DIXIELAND BAND 1935
 Benny Goodman - Darn That Dream 1940
+Benny Goodman - dearest
 Benny Goodman - Dinah
+Benny Goodman - DIXIELAND BAND 1935
 Benny Goodman - Don't Be That Way
 Benny Goodman - Down South Camp Meeting
 Benny Goodman - Downhill Special
@@ -520,10 +521,12 @@ Benny Goodman - Goody Moody
 Benny Goodman - Happy Session Blues
 Benny Goodman - He Ain't Got Rhythm
 Benny Goodman - Hooray For Hollywood 1936 (Soundtrack)
+Benny Goodman - house hop 1936
 Benny Goodman - I Want To Be Happy
 Benny Goodman - I'm Gonna Love That Guy 1945
 Benny Goodman - If I Could Be With You (One Hour Tonight)
 Benny Goodman - If I Had You
+Benny Goodman - if you haven't got a girl
 Benny Goodman - It Don't Mean a Thing (1932)
 Benny Goodman - It's Tight Like That
 Benny Goodman - King Porter Stomp [1935]
@@ -558,11 +561,8 @@ Benny Goodman - Too Good To Be True
 Benny Goodman - Topsy
 Benny Goodman - Vibraphone Blues
 Benny Goodman - Who?
-Benny Goodman - dearest
-Benny Goodman - house hop 1936
-Benny Goodman - if you haven't got a girl
-Benny Goodman And His Orchestra; Albert Ammons; Meade Lux Lewis - Roll
 Benny Goodman and his orchestra - Jersey Bounce
+Benny Goodman And His Orchestra; Albert Ammons; Meade Lux Lewis - Roll
 Benny Goodman, Art Lund - Tangerine
 Benny Goodman, Helen Forrest - Deep in a dream (1939)
 Benny Goodman, Helen Ward - Dixieland Band
@@ -686,12 +686,12 @@ Billie Holiday - A Sunbonnet Blue
 Billie Holiday - Do Nothing till you hear from me
 Billie Holiday - Eeny Meeny Miney Mo
 Billie Holiday - How Deep is the Ocean
-Billie Holiday - I Get a Kick out of you
-Billie Holiday - I Thought abouth you
-Billie Holiday - I Wished on the Moon
 Billie Holiday - I can't Face the Music
 Billie Holiday - I cried for you
+Billie Holiday - I Get a Kick out of you
 Billie Holiday - I got a ritht to sing the Blues
+Billie Holiday - I Thought abouth you
+Billie Holiday - I Wished on the Moon
 Billie Holiday - I'm Painting the Town Red
 Billie Holiday - If You Were Mine
 Billie Holiday - It's A Sin To Tell A Lie
@@ -715,9 +715,9 @@ Billie Holiday - These 'N' That 'N' Those
 Billie Holiday - These Foolish Things
 Billie Holiday - Too Marvelous for Words
 Billie Holiday - Twenty-Four Hours a Day
+Billie Holiday - What a little Moonlight can do
 Billie Holiday - What a Little Moonlight Can Do
 Billie Holiday - What a Night, What a Moon, What a Girl
-Billie Holiday - What a little Moonlight can do
 Billie Holiday - Willow weep for me
 Billie Holiday - Yesterdays
 Billie Holiday - You Let Me Down
@@ -747,10 +747,10 @@ Billy Eckstine - Time On My Hands
 Billy Eckstine - Where Are You?
 Billy Myles - The Joker
 Bing Crosby & Grace Kelly - True Love
+Bing Crosby - dinah
 Bing Crosby - Dont Fence Me In (With The Andrews Sisters)
 Bing Crosby - Sweet Leilani
 Bing Crosby - Swinging On A Star
-Bing Crosby - dinah
 Bix Beiderbecke - At The Jazz Band Ball
 Bix Beiderbecke - Big Boy
 Bix Beiderbecke - Clementine
@@ -878,19 +878,19 @@ Boswell, Connie - My Lips Want Kisses
 Boyd Bennett & His Rockets - Seventeen
 Brent Spiner - Toot, Toot, Tootsie
 Brian Hyland - Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini
-Brownie Mcghee - I m calling daisy
-Brownie Mcghee - I'm a black woman's man
-Brownie Mcghee - Picking my tomatoes
 Brownie Mcghee - back door stranger
 Brownie Mcghee - be good to me
 Brownie Mcghee - born for bad luck
 Brownie Mcghee - dealing with the devil
 Brownie Mcghee - death of blind boy fuller
 Brownie Mcghee - got to find my little woman
+Brownie Mcghee - I m calling daisy
+Brownie Mcghee - I'm a black woman's man
 Brownie Mcghee - let me tell you 'bout my baby
 Brownie Mcghee - me and my dog blues
 Brownie Mcghee - my barkin bulldog blues
 Brownie Mcghee - not guilty blues
+Brownie Mcghee - Picking my tomatoes
 Brownie Mcghee - prison woman blues
 Brownie Mcghee - step it up and go
 Brownie Mcghee - step it up and go no. 2
@@ -1334,7 +1334,6 @@ Count Basie - Alright, Okay You Win
 Count Basie - Amoroso
 Count Basie - As I Love You
 Count Basie - Avenue C
-Count Basie - BROADWAY
 Count Basie - Backstage At Stuff's
 Count Basie - Basie Boogie
 Count Basie - Basie Strides Again
@@ -1350,8 +1349,8 @@ Count Basie - Bluebeard Blues
 Count Basie - Blues (I Still Think Of Her)
 Count Basie - Blues Backstage
 Count Basie - Blues For The Count And Oscat
-Count Basie - Blues Inside Out
 Count Basie - Blues in the Dark
+Count Basie - Blues Inside Out
 Count Basie - Boo Hoo
 Count Basie - Boo-Hoo (w/Jimmy Rushing)
 Count Basie - Boogie Woogie ( I May Be Wrong)
@@ -1359,6 +1358,7 @@ Count Basie - Boogie Woogie (I May Be Wrong)
 Count Basie - Boogie Woogie (w/Jimmy Rushing)
 Count Basie - Boogie Woogie I May Be Wrong
 Count Basie - Brand New Wagon
+Count Basie - BROADWAY
 Count Basie - Brodway
 Count Basie - Bubbles
 Count Basie - Bugle Blues
@@ -1433,8 +1433,8 @@ Count Basie - Jive At Five
 Count Basie - Jive at Five
 Count Basie - John's Idea
 Count Basie - Jump For Johnny
-Count Basie - Jumpin' At The Woodside
 Count Basie - Jumpin' at the Woodside
+Count Basie - Jumpin' At The Woodside
 Count Basie - Just A Minute
 Count Basie - Just An Old Manuscript
 Count Basie - Kansas City Stride
@@ -1472,18 +1472,18 @@ Count Basie - Oh! Lady Be Good
 Count Basie - Oh! Red
 Count Basie - Oh, Lady Be Good
 Count Basie - One O'Clock Boogie
-Count Basie - One O'Clock Jump
 Count Basie - One O'clock Jump
-Count Basie - Our Love Was Meant To Be (w/Earl Warren)
+Count Basie - One O'Clock Jump
 Count Basie - Our Love Was Meant to Be
+Count Basie - Our Love Was Meant To Be (w/Earl Warren)
 Count Basie - Out The Window
 Count Basie - Out the Window
 Count Basie - Panassie Stomp
 Count Basie - Paradise Sqaut (Take 2)
 Count Basie - Paradise Squat
 Count Basie - Pennies From Heaven
-Count Basie - Pennies From Heaven (w/Jimmy Rushing)
 Count Basie - Pennies from Heaven
+Count Basie - Pennies From Heaven (w/Jimmy Rushing)
 Count Basie - Please Be Kind
 Count Basie - Please Send Me Someone To Love
 Count Basie - Plymouth Rock
@@ -1499,16 +1499,16 @@ Count Basie - Rock-A-Bye-Basie
 Count Basie - Rockinq The Blues
 Count Basie - Rocky Moutain Blues
 Count Basie - Roll 'Em Pete
-Count Basie - Roll 'Em Petk
 Count Basie - Roll 'em Pete
+Count Basie - Roll 'Em Petk
 Count Basie - Roseland Shuffle
 Count Basie - Royal Garden Blues
-Count Basie - ST. Louis Baby
+count basie - satin doll
 Count Basie - Secrets
 Count Basie - Senator Whitehead
+Count Basie - Sent for You Yesterday
 Count Basie - Sent For You Yesterday
 Count Basie - Sent For You Yesterday And Her
-Count Basie - Sent for You Yesterday
 Count Basie - Seventh A Venue Express
 Count Basie - Seventh Avenue Express
 Count Basie - She's A Wine-o
@@ -1535,10 +1535,11 @@ Count Basie - Softl, With Feelingy
 Count Basie - Sophisticated Swing
 Count Basie - South
 Count Basie - Splanky
+Count Basie - ST. Louis Baby
 Count Basie - St. Louis Boogie
 Count Basie - Stompin' And Jumpin'
-Count Basie - Stop Beatin' Around The Mulberry Bush (2nd Take)
 Count Basie - Stop Beatin' Around the Mulberry Bush (1st Take)
+Count Basie - Stop Beatin' Around The Mulberry Bush (2nd Take)
 Count Basie - Stop! Don't
 Count Basie - Sugar Blues
 Count Basie - Super Chief
@@ -1546,10 +1547,10 @@ Count Basie - Sure Thing
 Count Basie - Sweets
 Count Basie - Swingin' At Newport
 Count Basie - Swingin' At The Daisy Chain
-Count Basie - Swingin' The Blues
 Count Basie - Swingin' the Blues
-Count Basie - Swinging The Blues
+Count Basie - Swingin' The Blues
 Count Basie - Swinging at the Daisy Chain
+Count Basie - Swinging The Blues
 Count Basie - Take Me Back Baby
 Count Basie - Tally Ho, Mr. Basie!
 Count Basie - Tally-Ho, Mr. Basie!
@@ -1909,13 +1910,13 @@ Eddie Condon - Oh, Lady Be Good
 Eddie Condon - Somebody Loves Me (Sidney Bechet & Jack Teagarden)
 Eddie Condon - Someday, Sweetheart
 Eddie Condon - Someone to Watch Over Me
+Eddie Condon - stars Fell On Alabama
 Eddie Condon - Swanee
 Eddie Condon - The Man I Love
 Eddie Condon - The Sheik of Araby
 Eddie Condon - There'll Be some Changes Made
 Eddie Condon - When Your Lover Has Gone
 Eddie Condon - Wherever There's Love
-Eddie Condon - stars Fell On Alabama
 Eddie Cooley & The Dimples - Priscilla
 Eddie Fontaine - Nothin' Shakin'
 Eddie Quinteros - Come Dance With Me
@@ -1995,8 +1996,8 @@ Elvis Presley - Are you lonesome tonight
 Elvis Presley - As long as I have you
 Elvis Presley - Beach boy blues
 Elvis Presley - Big boots
-Elvis Presley - Blue Suede Shoes
 Elvis Presley - Blue moon
+Elvis Presley - Blue Suede Shoes
 Elvis Presley - Blue suede shoes
 Elvis Presley - Can't Help Falling In Love
 Elvis Presley - Can't help falling in love
@@ -2006,8 +2007,8 @@ Elvis Presley - Danny
 Elvis Presley - Didja ever
 Elvis Presley - Dirty, dirty feeling
 Elvis Presley - Doin' the best I can
-Elvis Presley - Don't Be Cruel
 Elvis Presley - Don't ask me why
+Elvis Presley - Don't Be Cruel
 Elvis Presley - Fame and fortune
 Elvis Presley - Fever
 Elvis Presley - Frankfort special
@@ -2394,7 +2395,6 @@ Freddy Cannon - Tallahassee Lassie
 Freddy Cannon - Way Down Yonder in New Orleans
 Freddy Martin and his orchestra - Tonight We Love
 Fredo Gardoni, Manuel Puig Et Leur Ensemble - Who's Afraid Of Big Bad Wolf?
-GET YOUR KICKS ON - ROUTE 66
 Gabriel & The Angels - That's Life (That's Tough)
 Gary "U.S." Bonds - New Orleans
 Gene Ammons - Baby, Won't You Please Say Yes
@@ -2512,6 +2512,7 @@ Gerry Mulligan - Taking A Chance On Love
 Gerry Mulligan - Varsity Drag
 Gerry Mulligan - Walkin' Shoes
 Gerry Mulligan - Westwood Walk
+GET YOUR KICKS ON - ROUTE 66
 Glen Campbell - By The Time I Get To Phoenix
 Glen Campbell - Wichita Lineman
 Glen Gray & The Casa Loma Orchestra - Desert Skies
@@ -2530,12 +2531,13 @@ Glenn Miller - Glen Island Special
 Glenn Miller - I Dream I Dwelt In Harlem
 Glenn Miller - I Dreamt I Dwelt in Harlem
 Glenn Miller - I Want To Be Happy
-Glenn Miller - In The Mood [1939]
 Glenn Miller - In the Mood
+Glenn Miller - In The Mood [1939]
 Glenn Miller - Johnson Bag
 Glenn Miller - Keep 'em Flying
 Glenn Miller - King Porter Stomp
 Glenn Miller - Little Brown Jug
+Glenn Miller - love love love 1944(rare)
 Glenn Miller - Moonlight Serenade
 Glenn Miller - My Blue Heaven
 Glenn Miller - On a Little Street in Singapore
@@ -2557,7 +2559,6 @@ Glenn Miller - Wham (Re-Bop-Boom-Bam)
 Glenn Miller - What's Your Story Morning Glory
 Glenn Miller - When That Man Is Dead And Gone
 Glenn Miller - Yes, My Darling Daughter
-Glenn Miller - love love love 1944(rare)
 Glenn Miller, (Tex Beneke) - A gal in Calico 1947
 Glenn Miller, (Tex Beneke) - Chattanooga Choo Choo (1941)
 Glenn Miller, (Tex Beneke) - Hey Ba-Ba-R 1946
@@ -2793,9 +2794,9 @@ Harry James - Two O'clock Jump
 Harry James - When We're Alone
 Harry James - Woo - Woo
 Harry James - Wrap Your Troubles In Dreams (And Dream Your Troubles Away)
+Harry James and his Music Makers - A Sleepy Lagoon
 Harry James And His Music Makers - It's Been A Long, Long Tim
 Harry James And His Orchestra - Back Beat Boogie
-Harry James and his Music Makers - A Sleepy Lagoon
 Harry Roy - La Cucaracha
 Harry Roy - Smoke Gets In Your Eyes
 Harvey & The Moonglows - Ten Commandments of Love
@@ -3024,8 +3025,8 @@ Jack Teagarden - She's a Great Great Girl
 Jack Teagarden - Stars Fell on Alabama
 Jack Teagarden - Tailspin Blues
 Jack Teagarden - Texas Tea Party
-Jack Teagarden - That's What I Like About You
 Jack Teagarden - That's a Serious Thing
+Jack Teagarden - That's What I Like About You
 Jack Teagarden And His Orchestra - Boogie Woogie
 Jackie Brensten - Trouble Up The Road
 Jackie McLean & Donald Byrd - Blue Doll
@@ -3083,18 +3084,18 @@ Jazz Cafe - A NIGHT IN TUNISIA
 Jazz Cafe - A WHEEL WITHIN A WHEEL
 Jazz Cafe - AIN'T MISBEHAVIN'
 Jazz Cafe - AND THE ANGELS SING
-Jazz Cafe - AS TIME GOES BY
 Jazz Cafe - Angel Eyes
 Jazz Cafe - April In Paris
+Jazz Cafe - AS TIME GOES BY
 Jazz Cafe - BEGIN THE BEGUINE
 Jazz Cafe - BLOW MR DEXTER
+Jazz Cafe - Blow Top Blues
 Jazz Cafe - BLUE 'N' BOOGIE
 Jazz Cafe - BLUE MOON
-Jazz Cafe - Blow Top Blues
 Jazz Cafe - DO YOU KNOW WHAT IT MEANS TO MISS NEW ORLEANS_
-Jazz Cafe - EXACTLY LIKE YOU
 Jazz Cafe - Embraceable You
 Jazz Cafe - Ev'ry Time We Say Goodbye
+Jazz Cafe - EXACTLY LIKE YOU
 Jazz Cafe - Far Away
 Jazz Cafe - HEARTPLACE
 Jazz Cafe - HOW HIGH THE MOON
@@ -3107,13 +3108,13 @@ Jazz Cafe - IF YOU WERE MINE
 Jazz Cafe - IT'S A SIN TO TELL A LIE
 Jazz Cafe - IT'S ONLY A PAPER MOON
 Jazz Cafe - JERSEY BOUNCE
-Jazz Cafe - LOVE ME OR LEAVE ME
 Jazz Cafe - Laura
+Jazz Cafe - LOVE ME OR LEAVE ME
 Jazz Cafe - Lover Man
 Jazz Cafe - MISTY
-Jazz Cafe - MY OLD FLAME
 Jazz Cafe - Moments Notice
 Jazz Cafe - My Foolish Heart
+Jazz Cafe - MY OLD FLAME
 Jazz Cafe - NIGHT AND DAY
 Jazz Cafe - OH LADY BE GOOD
 Jazz Cafe - ON THE SUNNY SIDE OF THE STREET
@@ -3123,17 +3124,17 @@ Jazz Cafe - Out Of Nowhere
 Jazz Cafe - PERDIDO
 Jazz Cafe - ROUND MIDNIGHT
 Jazz Cafe - S'posin_
+Jazz Cafe - Stormy Weather
 Jazz Cafe - STRING OF PEARLS
 Jazz Cafe - SUMMERTIME
 Jazz Cafe - SWEET LORRAINE FRANK SINATRA
-Jazz Cafe - Stormy Weather
+Jazz Cafe - Take Five
 Jazz Cafe - TAKE THE 'A' TRAIN
 Jazz Cafe - TENDERLY
 Jazz Cafe - THE MASQUERADE IS OVER
 Jazz Cafe - THE PEANUT VENDOR
-Jazz Cafe - TUXEDO JUNCTION
-Jazz Cafe - Take Five
 Jazz Cafe - These Foolish Things
+Jazz Cafe - TUXEDO JUNCTION
 Jazz Cafe - WHAT A DIFFERENCE A DAY MADE
 Jazz Cafe - WHEN I FALL IN LOVE
 Jazz Cafe - YOU GO TO MY HEAD
@@ -3552,20 +3553,21 @@ L.Armstrong - It's Been A Long, Long Time
 L.Armstrong - La Cucaracha
 L.Prima - Jump, Jive, An' Wail
 L`accordeoniste Deprince - Il Pleut Sur La Route
-LaVern Baker - I CRIED A TEAR 1958
-LaVern Baker - Jim Dandy
-LaVern Baker - Saved
-LaVern Baker - TWEEDLE DEE 1955
 Ladi Geisler & Seine Solisten - Zwei Gitarren
+larry adler - caravan
 Larry Adler - Hora Staccato 1955
 Larry Adler - Smoke Gets In Your Eyes
 Larry Bright - Mojo Workout (Dance)
 Larry Finnegan - I Like It Like That
 Larry Verne - Mr. Custer
 Larry Williams - LAWDY MISS CLAUDY
-Larry Williams - SHORT FAT FANNY
 Larry Williams - Short Fat Fannie
+Larry Williams - SHORT FAT FANNY
+LaVern Baker - I CRIED A TEAR 1958
 Lavern Baker - Jim Dandy
+LaVern Baker - Jim Dandy
+LaVern Baker - Saved
+LaVern Baker - TWEEDLE DEE 1955
 Leadbelly - Black Snake Moan
 Leadbelly - Fort Worth And Dallas Blues
 Leadbelly - Four Day Worry Blues
@@ -3661,8 +3663,8 @@ Lennon Sisters - CALYPSO MEDLY
 Lennon Sisters - Can't Help Falling In Love
 Lennon Sisters - Dedicated to the One I Love
 Lennon Sisters - EVERY DAY
-Lennon Sisters - FOR EVER AND EVER
 Lennon Sisters - Fascination
+Lennon Sisters - FOR EVER AND EVER
 Lennon Sisters - GOODNIGHT SWEETHEART
 Lennon Sisters - GREEN LEAVES
 Lennon Sisters - HARBOR LIGHTS
@@ -3676,19 +3678,19 @@ Lennon Sisters - MOONGLOW
 Lennon Sisters - MY TWO EMPTY ARMS
 Lennon Sisters - ONLY FOOLS RUSH IN
 Lennon Sisters - Our Day Will Come
-Lennon Sisters - SENTIMENTAL JOURNEY
-Lennon Sisters - SWEET KENTUCKY DAYS
 Lennon Sisters - Sad Movies
+Lennon Sisters - SENTIMENTAL JOURNEY
 Lennon Sisters - Shake Me I Rattle (Squeeze Me I Cry)
 Lennon Sisters - Something Stupid
-Lennon Sisters - TIL THE END OF THE WORLD
+Lennon Sisters - SWEET KENTUCKY DAYS
 Lennon Sisters - The End Of The World
 Lennon Sisters - There's A Kind Of Hush
 Lennon Sisters - This Is My Song
+Lennon Sisters - TIL THE END OF THE WORLD
 Lennon Sisters - Twilight Time
+Lennon Sisters - Wedding Song
 Lennon Sisters - WHERE HAVE ALL THE FLOWERS GONE
 Lennon Sisters - WISEMEN
-Lennon Sisters - Wedding Song
 Lennon Sisters - You Are My Special Angel
 Lenny Welch - Since I Fell For You
 Leo Kottle - TIME GOES BY SO SLOWLY
@@ -3733,10 +3735,10 @@ Lightnin Hopkins - You're Gonna Miss Me
 Lightnin Hopkins - You're Not Goin' To Worry My Life Anymore
 Linda Laurie - Ambrose Part 5
 Link Wray - Rumble
-Link Wray And The Raymen - Bo Diddley
-Link Wray And The Raymen - Mr. Guitar
 Link Wray and his Raymen - Pancho Villa
+Link Wray And The Raymen - Bo Diddley
 Link Wray and the Raymen - Honky Tonk
+Link Wray And The Raymen - Mr. Guitar
 Lionel Hampton - After You`ve Gone
 Lionel Hampton - Beulah's Boogie
 Lionel Hampton - Blow Top Blues
@@ -3781,14 +3783,16 @@ Lionel Hampton - Two Finger Boogie
 Lionel Hampton - Vibe Boogie
 Lionel Hampton And His Orchestra - Hamp's Boogie Woogie No. 2
 Little Anthony & The Imperials - Tears On My Pillow
+little Anthony & the imperials - TEARS ON MY PILLOW-in stereo(1963)
+little Anthony and the Teenagers - TELL ME WHY
 Little Bill & The Bluenotes - I Love an Angel
 Little Caesar & The Romans - Those Oldies But Goodies (Remind Me of You)
 Little Joe & The Thrillers - Peanuts
 Little Joey & The Flips - Bongo Stomp
 Little Richard - Good Golly Miss Molly
 Little Richard - Keep A Knockin' 1956
-Little Richard - LONG TALL SALLY
 Little Richard - Long Tall Sally
+Little Richard - LONG TALL SALLY
 Little Richard - Ready Teddy
 Little Richard - The Girl Can't Help It
 Little Richard - Tutti Frutti
@@ -3924,8 +3928,8 @@ Louis Armstrong - Introduction
 Louis Armstrong - It Takes Two To Tango
 Louis Armstrong - It's All In The Game
 Louis Armstrong - Jeannine (I Dream Of Lilac Time)
-Louis Armstrong - Keepin' Out Of Mischief Now (Bonus)
 Louis Armstrong - Keepin' Out of Mischief Now
+Louis Armstrong - Keepin' Out Of Mischief Now (Bonus)
 Louis Armstrong - King Of The Zulus
 Louis Armstrong - Kiss Of Fire
 Louis Armstrong - Knockin' A Jug
@@ -4173,7 +4177,6 @@ Luis Russell - Sweet Mumtaz
 Luis Russell - The Way He Loves Me Is Just Too Bad
 Luis Russell - You Rascal You
 Lynn Anderson - Rose Garden
-MAD MAGAZINE - IT'S A GAS
 Ma Rainey - Army Camp Harmony Blues
 Ma Rainey - Booze And Blues
 Ma Rainey - Cell Bound Blues
@@ -4190,17 +4193,21 @@ Ma Rainey - See See Rider Blues
 Ma Rainey - Shave 'Em Dry Blues
 Ma Rainey - Stormy Sea Blues
 Ma Rainey - Toad Frog Blues
+MAD MAGAZINE - IT'S A GAS
 Mae West - Great Balls Of Fire
 Mairzy Doats - The Pied Pipers
 Marek Weber & His Orchestra - Ach, Otto, Otto
 Marek Weber & His Orchestra - Bella Rossa
+Marek Weber & his orchestra - C'est pas comme sa
 Marek Weber & His Orchestra - Crazy Words - Crazy Tune
 Marek Weber & His Orchestra - Das Gibts Nur Einmal
 Marek Weber & His Orchestra - Das Model Hat Sex-Appearl
 Marek Weber & His Orchestra - Denk Bloss Mal An, Mutti
 Marek Weber & His Orchestra - Ich Hab Dich Lieb, Braune Mado
+Marek Weber & his orchestra - Ich will ja nichts als deine liebe
 Marek Weber & His Orchestra - In Venezuela
 Marek Weber & His Orchestra - Japanese Latern Dance
+Marek Weber & his orchestra - Liebling, mein Herz lдЯt dich
 Marek Weber & His Orchestra - Mein Papagei Frisst Keine Hart
 Marek Weber & His Orchestra - Nachtelang Hab Ich Getraumnt
 Marek Weber & His Orchestra - One Step To Heaven
@@ -4208,16 +4215,13 @@ Marek Weber & His Orchestra - Russische Liebeslieder
 Marek Weber & His Orchestra - Schlaf, Mein Liebling
 Marek Weber & His Orchestra - Skadatin-De
 Marek Weber & His Orchestra - Soloadito Espanol
+Marek Weber & his orchestra - Sous le touts de Paris
+Marek Weber & his orchestra - Sweetheart I have dreamed of you
+Marek Weber & his orchestra - Tonight
 Marek Weber & His Orchestra - Vaya Veronicas
 Marek Weber & His Orchestra - Was Ist Los
 Marek Weber & His Orchestra - Weil ich Dich So Leib Hab
 Marek Weber & His Orchestra - Weisst Du, Was Du Kannst
-Marek Weber & his orchestra - C'est pas comme sa
-Marek Weber & his orchestra - Ich will ja nichts als deine liebe
-Marek Weber & his orchestra - Liebling, mein Herz lдЯt dich
-Marek Weber & his orchestra - Sous le touts de Paris
-Marek Weber & his orchestra - Sweetheart I have dreamed of you
-Marek Weber & his orchestra - Tonight
 Marek Weber - C`est Pas Comme Ca
 Marek Weber - Chinese Street Serenade
 Marek Weber - Die Moritat von Mackie Messer
@@ -4257,16 +4261,16 @@ Marilyn Monroe - Happy Birthday, Mr President
 Marilyn Monroe - Heat Wave
 Marilyn Monroe - Heatwave
 Marilyn Monroe - I Found A Dream
-Marilyn Monroe - I WANT TO BE LOVED
-Marilyn Monroe - I Wanna Be Loved By You
 Marilyn Monroe - I Wanna Be Loved by You
+Marilyn Monroe - I Wanna Be Loved By You
+Marilyn Monroe - I WANT TO BE LOVED
 Marilyn Monroe - I'm Gonna Find My Claim
-Marilyn Monroe - I'm Throught With Love
 Marilyn Monroe - I'm through with love
+Marilyn Monroe - I'm Throught With Love
 Marilyn Monroe - Kiss
-Marilyn Monroe - LETS MAKE LOVE
 Marilyn Monroe - Ladies Of The Chorus
 Marilyn Monroe - Lazy
+Marilyn Monroe - LETS MAKE LOVE
 Marilyn Monroe - Love Happy
 Marilyn Monroe - Marilyn Meets The Press
 Marilyn Monroe - My Heart Belongs To Daddy
@@ -4290,22 +4294,24 @@ Marilyn Monroe - When Love Goes Wrong, Nothing Goes Right
 Marilyn Monroe - You'd Be Surprised
 Marilyn Monroe, Yves Montrand - Incurably Romantic
 Marilyn Monroe, Yves Montrand - Till Then
+Mario Lanza - And This Is My Beloved
 Mario Lanza - ARIVA DIRCHY ROMA
 Mario Lanza - AWAY IN A MANGER
-Mario Lanza - And This Is My Beloved
 Mario Lanza - BE MY LOVE
 Mario Lanza - Because
 Mario Lanza - Begin The Beguine
 Mario Lanza - Bela Jubal
 Mario Lanza - Catari Catari
+Mario Lanza - come let us adore him
 Mario Lanza - Come Prima
-Mario Lanza - DRINK DRINK DRINK
 Mario Lanza - Deep In My Heart Dear (The Student Prince)
+Mario Lanza - DRINK DRINK DRINK
 Mario Lanza - ETERNAL VOW
 Mario Lanza - FIRST NOEL
 Mario Lanza - For You Alone
 Mario Lanza - Gaudeamus Igitur
 Mario Lanza - Great Caruso 1951
+mario lanza - guardian angels
 Mario Lanza - HARK THE HERALD ANGLES SING
 Mario Lanza - I Saw Three Ships
 Mario Lanza - I'll Be Seeing You
@@ -4316,32 +4322,35 @@ Mario Lanza - Look for the Silver Lining
 Mario Lanza - Lords Prayer
 Mario Lanza - Love Is A Many Splendored Thing
 Mario Lanza - Love Is the Sweetest Thing
-Mario Lanza - MOONLIGHT SERENADE
 Mario Lanza - Marcheta
 Mario Lanza - Marionatta (in Italian)
 Mario Lanza - Memories
+Mario Lanza - MOONLIGHT SERENADE
 Mario Lanza - More Than you Know
 Mario Lanza - My Wild Irish Rose
-Mario Lanza - ONLY A ROSE
+mario lanza - Nessun Dorma
+Mario Lanza - noel
+mario lanza - Non Ti Scordar Di Me
 Mario Lanza - On The Street Where You Live
 Mario Lanza - One Alone
+Mario Lanza - ONLY A ROSE
 Mario Lanza - Santa Lucia
+mario lanza - September Song
 Mario Lanza - Sole Mio
 Mario Lanza - Song Of India
 Mario Lanza - Summertime In Heidelberg
 Mario Lanza - THE LOVLIEST NIGHT OF THE YEAR 1951
-Mario Lanza - THE STUDENT PRINTZ 1954
 Mario Lanza - The Rosary
 Mario Lanza - The Song Is You
+Mario Lanza - THE STUDENT PRINTZ 1954
+mario lanza - They Didn't Believe Me
 Mario Lanza - Through The Years
 Mario Lanza - WALK ON
 Mario Lanza - With a Song in My Heart
+Mario Lanza - without a song
 Mario Lanza - You Are Love (Showboat)
 Mario Lanza - You Do Something To Me
 Mario Lanza - Younger Than Spring Time (South Pacific)
-Mario Lanza - come let us adore him
-Mario Lanza - noel
-Mario Lanza - without a song
 Mario Lanza, Katherine Grayson - Oh Sweet Mystery of Life
 Mario Lanza, Kathryn Grayson - Be My Love
 Mark Denning - TEEN ANGEL ver1
@@ -4388,21 +4397,21 @@ Mc Kinney's Cotten Pickers - Some Sweet Day
 Mc Kinney's Cotten Pickers - Stop Kidding
 Mc Kinney's Cotten Pickers - There's A Rainbow
 Mc Kinney's Cotten Pickers - Will You, Won't You Be My Baby?
+McGuire sisters - goodnight sweetheart goodnight
 McGuire Sisters - HE
+McGuire Sisters - hokey pokey
 McGuire Sisters - I'll Be Seeing You (1942)
 McGuire Sisters - I'm In The Mood For Love
 McGuire Sisters - Just Because
 McGuire Sisters - Little Things Mean A Lot
+Mcguire Sisters - Love And Marriage
 McGuire Sisters - NO MORE
 McGuire Sisters - Pennies From Heaven
-McGuire Sisters - SUGARTIME
 McGuire Sisters - Something's Gotta Give 1955
+McGuire Sisters - SUGARTIME
 McGuire Sisters - The Ding Dong 1958
 McGuire Sisters - Tip Toe Through The Tulips With Me
 McGuire Sisters - WE GO TOGETHER (1955)
-McGuire Sisters - hokey pokey
-McGuire sisters - goodnight sweetheart goodnight
-Mcguire Sisters - Love And Marriage
 Mcguire Sisters - You're Driving Me Crazy
 Meade Lux Lewis - Bass On Top
 Meade Lux Lewis - Blues Whistle
@@ -4512,8 +4521,8 @@ Miles Davis - Bluing
 Miles Davis - Boplicity
 Miles Davis - Budo
 Miles Davis - Bye Bye Blackbird
-Miles Davis - CTA
 Miles Davis - Conception
+Miles Davis - CTA
 Miles Davis - Dear Old Stockholm
 Miles Davis - Deception
 Miles Davis - Dig
@@ -4557,8 +4566,8 @@ Miles Davis - Woody 'n' You
 Miles Davis - Yesterdays
 Millie Small - LOLYPOP
 Miss Toni Fisher - The Big Hurt
-Mississippi John Hurt - AValon Blues
 Mississippi John Hurt - Ain't No Tellin'
+Mississippi John Hurt - AValon Blues
 Mississippi John Hurt - Big Leg Blues
 Mississippi John Hurt - Blessed Be The Name
 Mississippi John Hurt - Candy Man Blues
@@ -4593,10 +4602,10 @@ Mitch Miller - MEDLY
 Mitch Miller - ON TOP OF OLD SMOKEY
 Mitch Miller - PEG OF MY HEART fast ver
 Mitch Miller - PEG OF MY HEART slow ver
+Mitch Miller - Shine on Harvest moon, For me and my gal
 Mitch Miller - SLEEPY LAGOON
 Mitch Miller - SOUTH OF THE BORDER
 Mitch Miller - SWEET ADOLINE
-Mitch Miller - Shine on Harvest moon, For me and my gal
 Mitch Miller - THE YELLOW ROSE OF TEXAS
 Mitch Miller - THEY CALL HER FRIVOLOUS SAL
 Mitch Miller - THIS OLD MAN
@@ -4660,10 +4669,77 @@ Muggsy Spanier - That's A Plenty
 Muggsy Spanier - Whistlin' the Blues
 Murry Kellum - Long Tall Texan
 Mystearians - TEARS
+Napoleon XIV - They're Coming To Take Me Away, Ha-Haa!
+Nappy Brown - Don't Be Angry
+Nappy Brown - Little By Little
+Naragansett Bay Chorus - Patriotic Medley
+Nat Kendricks & The Swans - (Do The) Mashed Potatoes (Part 1)
+Nat King Cole & Ella Fitzgerald - Stormy Weather
+Nat King Cole - A Media Luz
+Nat King Cole - ALL IN THE GAME
+Nat King Cole - Ansiedad
+Nat King Cole - ANSWER ME MY LOVE
+Nat King Cole - AUTUMN LEAVES
+Nat King Cole - Baby, Baby All The Time
+Nat King Cole - BESA ME MUCHO
+Nat King Cole - BLUE MOON
+Nat King Cole - BRAHAMS LULLABY
+Nat King Cole - Could-'Ja
+Nat King Cole - DARLIN JE VOUS AMIE BOUCAMP
+Nat King Cole - Don't Blame Me
+Nat King Cole - Embraceable You
+Nat King Cole - Everyone Is Sayin' Hello Again
+Nat King Cole - Fascination
+Nat King Cole - I Don't Know Why
+Nat King Cole - I Just Can't See For Looking
+Nat King Cole - I Love Your For Sentimental Reasons
+Nat King Cole - I Realize Now
+Nat King Cole - I'd Love To Make Love To You
+Nat King Cole - I'm In The Mood For Love
+Nat King Cole - I'm Thru With You
+Nat King Cole - IF I GIVE MY HEART TO YOU
+Nat King Cole - It Only Happens Once
+Nat King Cole - IT'S ONLY A PAPER MOON
+Nat King Cole - It's Only A Papermoon
+Nat King Cole - Katusha
+Nat King Cole - Look What You Have Done To Me
+Nat King Cole - LOVE
+Nat King Cole - LOVE LETTERS
+Nat King Cole - MISTY
+Nat King Cole - Mona Lisa
+Nat King Cole - MONA LISA-ver1
+Nat King Cole - MONA LISA-ver2
+Nat King Cole - MY FOOLISH HEART
+Nat King Cole - Nature Boy
+Nat King Cole - PAPA LOVES MAMBO
+Nat King Cole - PRETEND
+Nat King Cole - Red Sails In The Sunset 1951
+Nat King Cole - Route 66
+Nat King Cole - SAVING MY LOVE FOR YOU
+Nat King Cole - STARDUST
+Nat King Cole - STRAIGHTEN UP AND FLY RIGHT
+Nat King Cole - Sweet Lorraine
+Nat King Cole - THE GREATEST THING
+Nat King Cole - The More I See You
+Nat King Cole - THERE WILL NEVER BE ANOTHER YOU
+Nat King Cole - THIS CAN'T BE LOVE
+Nat King Cole - TIL THE END OF TIME
+Nat King Cole - TO LOVE AND BE LOVED
+Nat King Cole - UNFORGETABLE
+Nat King Cole - Unforgettable
+Nat King Cole - WE'RE TOO YOUNG
+Nat King Cole - What Can I Say After I Say I'm Sorry
+Nat King Cole - What'll I Do
+Nat King Cole - When I Grow Too Old To Dream
+Nat King Cole - When You Wish Upon A Star
+Nat King Cole - You Are My Sunshine
+Nat King Cole - You Call It Madness
+Nat King Cole - You STEPPED OUT OF A DREAM
+Nat King Cole - You're Nobody 'Till Somebody Loves You
 NAT KING COLE TRIO - 'Deed I do
 NAT KING COLE TRIO - (Everyone has someone) but all I've got is me
-NAT KING COLE TRIO - (Get Your Kicks On) Route 66
 NAT KING COLE TRIO - (Get your kicks on) Route 66
+NAT KING COLE TRIO - (Get Your Kicks On) Route 66
 NAT KING COLE TRIO - (Go to sleep) my sleepy head
 NAT KING COLE TRIO - (Here is my heart) Nalanie
 NAT KING COLE TRIO - (I Call My Papa) Fla-Ga-La-Pa
@@ -4675,10 +4751,10 @@ NAT KING COLE TRIO - A little bit independent
 NAT KING COLE TRIO - A little yellow ribbon (in her hair)
 NAT KING COLE TRIO - A robin and a rainbow and a red, red rose
 NAT KING COLE TRIO - A woman always understands
-NAT KING COLE TRIO - After You Get What You Want, You Don't Want It
 NAT KING COLE TRIO - After my laughter came tears
-NAT KING COLE TRIO - All For You
+NAT KING COLE TRIO - After You Get What You Want, You Don't Want It
 NAT KING COLE TRIO - All aboard
+NAT KING COLE TRIO - All For You
 NAT KING COLE TRIO - Almost like being in love
 NAT KING COLE TRIO - An old piano plays the blues
 NAT KING COLE TRIO - Baby I need you
@@ -4689,26 +4765,27 @@ NAT KING COLE TRIO - Barcarolle
 NAT KING COLE TRIO - Beautiful Moons Ago
 NAT KING COLE TRIO - Blame it on my youth
 NAT KING COLE TRIO - Blue and sentimental
+Nat King Cole Trio - Blues in My Shower
 NAT KING COLE TRIO - Blues in my shower
 NAT KING COLE TRIO - Body And Soul
 NAT KING COLE TRIO - Bop-kick
 NAT KING COLE TRIO - Boulevard of broken dreams
 NAT KING COLE TRIO - Bring Another Drink
 NAT KING COLE TRIO - But She's My Buddy's Chick
-NAT KING COLE TRIO - But She's My Buddy's Chick (alt)
 NAT KING COLE TRIO - But she's my buddy's chick
+NAT KING COLE TRIO - But She's My Buddy's Chick (alt)
 NAT KING COLE TRIO - Calico Sal
 NAT KING COLE TRIO - Calypso blues
 NAT KING COLE TRIO - Can I come in for a second-
 NAT KING COLE TRIO - Can you look me in the eyes (and say we're through)
 NAT KING COLE TRIO - Candy
 NAT KING COLE TRIO - Caravan
-NAT KING COLE TRIO - Chant Of The Blues (Dog-gone Unlucky Blues)
 NAT KING COLE TRIO - Chant of the blues (Dog-gone unlucky blues)
-NAT KING COLE TRIO - Cole Slaw
+NAT KING COLE TRIO - Chant Of The Blues (Dog-gone Unlucky Blues)
 NAT KING COLE TRIO - Cole capers
-NAT KING COLE TRIO - Come To Baby, Do
+NAT KING COLE TRIO - Cole Slaw
 NAT KING COLE TRIO - Come in out of the rain
+NAT KING COLE TRIO - Come To Baby, Do
 NAT KING COLE TRIO - Confess
 NAT KING COLE TRIO - Could-'Ja
 NAT KING COLE TRIO - Could-'Ja (alt)
@@ -4724,8 +4801,8 @@ NAT KING COLE TRIO - Don't shove, I'm leaving
 NAT KING COLE TRIO - Down by the old mill stream
 NAT KING COLE TRIO - Dream a little dream of me
 NAT KING COLE TRIO - Easy Listening Blues
-NAT KING COLE TRIO - Embraceable You (alt)
 NAT KING COLE TRIO - Embraceable you
+NAT KING COLE TRIO - Embraceable You (alt)
 NAT KING COLE TRIO - Ethymology (The language of love)
 NAT KING COLE TRIO - Everyone Is Sayin' Hello Again (Why Must We Say Goodbye-)
 NAT KING COLE TRIO - Exactly like you
@@ -4746,35 +4823,35 @@ NAT KING COLE TRIO - Got A Penny
 NAT KING COLE TRIO - Harmony
 NAT KING COLE TRIO - Homeward Bound
 NAT KING COLE TRIO - Homeward bound
-NAT KING COLE TRIO - Honeysuckle Rose
 NAT KING COLE TRIO - Honeysuckle rose
+NAT KING COLE TRIO - Honeysuckle Rose
 NAT KING COLE TRIO - How Deep Is The Ocean
 NAT KING COLE TRIO - How Does It Feel
 NAT KING COLE TRIO - How Does It Feel-
-NAT KING COLE TRIO - How High The Moon
 NAT KING COLE TRIO - How high the moon
+NAT KING COLE TRIO - How High The Moon
 NAT KING COLE TRIO - How lonely can you get
+NAT KING COLE TRIO - I almost lost my mind
+NAT KING COLE TRIO - I can't be bothered
 NAT KING COLE TRIO - I Don't Know Why (I Just Do)
 NAT KING COLE TRIO - I Don't Know Why (I Just Do) (alt)
+NAT KING COLE TRIO - I feel so smoochie
+NAT KING COLE TRIO - I get sentimental over nothing
 NAT KING COLE TRIO - I Got Rhythm
 NAT KING COLE TRIO - I Just Can't See For Lookin'
 NAT KING COLE TRIO - I Know That You Know
-NAT KING COLE TRIO - I Realize Now
-NAT KING COLE TRIO - I Tho't You Ought To Know
-NAT KING COLE TRIO - I Want To Be Happy
-NAT KING COLE TRIO - I almost lost my mind
-NAT KING COLE TRIO - I can't be bothered
-NAT KING COLE TRIO - I feel so smoochie
-NAT KING COLE TRIO - I get sentimental over nothing
 NAT KING COLE TRIO - I know that you know
 NAT KING COLE TRIO - I miss you so
 NAT KING COLE TRIO - I never had a chance
+NAT KING COLE TRIO - I Realize Now
 NAT KING COLE TRIO - I see by the papers
 NAT KING COLE TRIO - I surrender Dear (alt. take)
 NAT KING COLE TRIO - I think you get what I mean
+NAT KING COLE TRIO - I Tho't You Ought To Know
 NAT KING COLE TRIO - I used to love you (but it's all over now)
 NAT KING COLE TRIO - I wake up screaming dreaming of you
 NAT KING COLE TRIO - I wanna be a friend of yours
+NAT KING COLE TRIO - I Want To Be Happy
 NAT KING COLE TRIO - I want to thank your folks
 NAT KING COLE TRIO - I was a little too lonely and you were a little too late
 NAT KING COLE TRIO - I wish I had the blues again
@@ -4783,15 +4860,15 @@ NAT KING COLE TRIO - I'd Love To Make Love To You
 NAT KING COLE TRIO - I'll never be the same
 NAT KING COLE TRIO - I'll never say 'never again' again
 NAT KING COLE TRIO - I'll string along with you
+NAT KING COLE TRIO - I'm a little ashamed
 NAT KING COLE TRIO - I'm A Shy Guy
 NAT KING COLE TRIO - I'm An Errand Boy For Rhythm
+NAT KING COLE TRIO - I'm gonna spank my heart
 NAT KING COLE TRIO - I'm In The Mood For Love
 NAT KING COLE TRIO - I'm Lost
 NAT KING COLE TRIO - I'm Thru With Love
-NAT KING COLE TRIO - I'm a little ashamed
-NAT KING COLE TRIO - I'm gonna spank my heart
-NAT KING COLE TRIO - I've Got The World On A String
 NAT KING COLE TRIO - I've got a way with women
+NAT KING COLE TRIO - I've Got The World On A String
 NAT KING COLE TRIO - I've only myself to blame
 NAT KING COLE TRIO - If I had you
 NAT KING COLE TRIO - If I should lose you
@@ -4801,22 +4878,22 @@ NAT KING COLE TRIO - If you don't like my apples
 NAT KING COLE TRIO - If you stub your toe on the moon
 NAT KING COLE TRIO - In a mellow tone
 NAT KING COLE TRIO - In the cool of evening
+NAT KING COLE TRIO - It could happen to you
 NAT KING COLE TRIO - It Is Better To Be By Yourself
 NAT KING COLE TRIO - It Only Happens Once
-NAT KING COLE TRIO - It could happen to you
 NAT KING COLE TRIO - It only happens once
 NAT KING COLE TRIO - It was so good while it lasted
-NAT KING COLE TRIO - It's Only A Paper Moon
 NAT KING COLE TRIO - It's kind of lonesome out tonight
 NAT KING COLE TRIO - It's like taking candy from a baby
+NAT KING COLE TRIO - It's Only A Paper Moon
 NAT KING COLE TRIO - It's only a paper moon
 NAT KING COLE TRIO - It's so hard to laugh (it's so easy to cry)
 NAT KING COLE TRIO - It's the sentimental thing to do
 NAT KING COLE TRIO - Jam-bo
 NAT KING COLE TRIO - Jumpin' At Capitol
+NAT KING COLE TRIO - Just you just me
 NAT KING COLE TRIO - Just You, Just Me
 NAT KING COLE TRIO - Just You, Just Me (alt tk)
-NAT KING COLE TRIO - Just you just me
 NAT KING COLE TRIO - Katusha
 NAT KING COLE TRIO - Ke mo ki mo (the magic song)
 NAT KING COLE TRIO - Laguna mood
@@ -4844,9 +4921,9 @@ NAT KING COLE TRIO - Moday again
 NAT KING COLE TRIO - Money is honey
 NAT KING COLE TRIO - Moonlight in Vermont
 NAT KING COLE TRIO - Mule train
+NAT KING COLE TRIO - My baby just cares for me
 NAT KING COLE TRIO - My Baby likes to be-bop (and I like to be-bop too)
 NAT KING COLE TRIO - My Lips Remember Your Kisses
-NAT KING COLE TRIO - My baby just cares for me
 NAT KING COLE TRIO - My mother told me
 NAT KING COLE TRIO - Nature boy
 NAT KING COLE TRIO - Naughty Angeline
@@ -4868,8 +4945,8 @@ NAT KING COLE TRIO - Pigtails and freckles
 NAT KING COLE TRIO - Pitchin' Up A Boogie
 NAT KING COLE TRIO - Please Consider Me
 NAT KING COLE TRIO - Polka dots and moonbeams
-NAT KING COLE TRIO - Poor Jenny is a weepin'
 NAT KING COLE TRIO - Poor butterfly
+NAT KING COLE TRIO - Poor Jenny is a weepin'
 NAT KING COLE TRIO - Portrait of Jennie
 NAT KING COLE TRIO - Prelude In C Sharp Minor
 NAT KING COLE TRIO - Put 'em in a box, tie 'em with a ribbon (and throw 'em in the deep blue sea)
@@ -4881,8 +4958,8 @@ NAT KING COLE TRIO - Rock-A-Bye Basie
 NAT KING COLE TRIO - Rose room
 NAT KING COLE TRIO - Save the bones for Henry Jones (cause Henry don't eat no meat)
 NAT KING COLE TRIO - Smoke gets in your eyes
-NAT KING COLE TRIO - Somebody Loves Me
 NAT KING COLE TRIO - Somebody loves me
+NAT KING COLE TRIO - Somebody Loves Me
 NAT KING COLE TRIO - Straighten Up And Fly Right
 NAT KING COLE TRIO - Straighten up and fly right
 NAT KING COLE TRIO - Summer is a comin' in
@@ -4896,39 +4973,39 @@ NAT KING COLE TRIO - That's my girl
 NAT KING COLE TRIO - That's the beginning of the end
 NAT KING COLE TRIO - That's the kind of girl I dream o
 NAT KING COLE TRIO - That's what
-NAT KING COLE TRIO - The Frim Fram Sauce
-NAT KING COLE TRIO - The Man I Love
 NAT KING COLE TRIO - The best man
+NAT KING COLE TRIO - The Frim Fram Sauce
 NAT KING COLE TRIO - The geek
 NAT KING COLE TRIO - The greatest inventor of them all
 NAT KING COLE TRIO - The horse told me
 NAT KING COLE TRIO - The lighthouse is in the sky
 NAT KING COLE TRIO - The lonely one
+NAT KING COLE TRIO - The Man I Love
 NAT KING COLE TRIO - The three trees
 NAT KING COLE TRIO - Then I'll be tired of you
 NAT KING COLE TRIO - There I've said it again
 NAT KING COLE TRIO - There's a train out for dreamland
 NAT KING COLE TRIO - These foolish things
 NAT KING COLE TRIO - Third finger, left hand
-NAT KING COLE TRIO - This Way Out
 NAT KING COLE TRIO - This can't be love
 NAT KING COLE TRIO - This is my night to dream
+NAT KING COLE TRIO - This Way Out
 NAT KING COLE TRIO - Those things money can't buy
 NAT KING COLE TRIO - Three little words
 NAT KING COLE TRIO - Time out for tears
 NAT KING COLE TRIO - Tiny's Exercise
 NAT KING COLE TRIO - To A Wild Rose (alt)
-NAT KING COLE TRIO - Too Marvelous For Words
 NAT KING COLE TRIO - Too marvelous for words
+NAT KING COLE TRIO - Too Marvelous For Words
 NAT KING COLE TRIO - Top hat bop
 NAT KING COLE TRIO - Twisted stockings
 NAT KING COLE TRIO - Two loves have I
 NAT KING COLE TRIO - Vom, Vim, Veedle
 NAT KING COLE TRIO - What Can I Say After I Say I'm Sorry
 NAT KING COLE TRIO - What Can I Say After I Say I'm Sorry (alt)
-NAT KING COLE TRIO - What Is This Thing Called Love
 NAT KING COLE TRIO - What have you got in those eyes
 NAT KING COLE TRIO - What is there to say
+NAT KING COLE TRIO - What Is This Thing Called Love
 NAT KING COLE TRIO - What'll I do
 NAT KING COLE TRIO - Whatcha'gonna do
 NAT KING COLE TRIO - When I grow too old to dream
@@ -4937,98 +5014,30 @@ NAT KING COLE TRIO - When you walked out with shoes on
 NAT KING COLE TRIO - Where or when
 NAT KING COLE TRIO - Where were you
 NAT KING COLE TRIO - Who do you know in heaven (that made you the angel that you are)
+NAT KING COLE TRIO - who's telling you lies
 NAT KING COLE TRIO - Who's who
 NAT KING COLE TRIO - Wildroot Charlie
 NAT KING COLE TRIO - Yes sir, that's my baby
-NAT KING COLE TRIO - You Call It Madness (But I Call It Love)
-NAT KING COLE TRIO - You Must Be Blind
-NAT KING COLE TRIO - You Name It
 NAT KING COLE TRIO - You be you (but let me be me)
+NAT KING COLE TRIO - You Call It Madness (But I Call It Love)
 NAT KING COLE TRIO - You call it madness (But I call it love)
 NAT KING COLE TRIO - You can depend on me
 NAT KING COLE TRIO - You can't lose a broken heart
 NAT KING COLE TRIO - You can't make me love you
 NAT KING COLE TRIO - You can't make money dreamin'
 NAT KING COLE TRIO - You don't leave that in school
+NAT KING COLE TRIO - You Must Be Blind
+NAT KING COLE TRIO - You Name It
 NAT KING COLE TRIO - You should have told me
 NAT KING COLE TRIO - You stepped out of a dream
-NAT KING COLE TRIO - You're Nobody 'Til Somebody Loves You
 NAT KING COLE TRIO - You're lookin' at me
+NAT KING COLE TRIO - You're Nobody 'Til Somebody Loves You
 NAT KING COLE TRIO - You're the cream in my coffee
 NAT KING COLE TRIO - You've changed
 NAT KING COLE TRIO - You've got another heart on your hands
 NAT KING COLE TRIO - Your voice
-NAT KING COLE TRIO - who's telling you lies
-Napoleon XIV - They're Coming To Take Me Away, Ha-Haa!
-Nappy Brown - Don't Be Angry
-Nappy Brown - Little By Little
-Naragansett Bay Chorus - Patriotic Medley
-Nat Kendricks & The Swans - (Do The) Mashed Potatoes (Part 1)
-Nat King Cole & Ella Fitzgerald - Stormy Weather
-Nat King Cole - A Media Luz
-Nat King Cole - ALL IN THE GAME
-Nat King Cole - ANSWER ME MY LOVE
-Nat King Cole - AUTUMN LEAVES
-Nat King Cole - Ansiedad
-Nat King Cole - BESA ME MUCHO
-Nat King Cole - BLUE MOON
-Nat King Cole - BRAHAMS LULLABY
-Nat King Cole - Baby, Baby All The Time
-Nat King Cole - Could-'Ja
-Nat King Cole - DARLIN JE VOUS AMIE BOUCAMP
-Nat King Cole - Don't Blame Me
-Nat King Cole - Embraceable You
-Nat King Cole - Everyone Is Sayin' Hello Again
-Nat King Cole - Fascination
-Nat King Cole - I Don't Know Why
-Nat King Cole - I Just Can't See For Looking
-Nat King Cole - I Love Your For Sentimental Reasons
-Nat King Cole - I Realize Now
-Nat King Cole - I'd Love To Make Love To You
-Nat King Cole - I'm In The Mood For Love
-Nat King Cole - I'm Thru With You
-Nat King Cole - IF I GIVE MY HEART TO YOU
-Nat King Cole - IT'S ONLY A PAPER MOON
-Nat King Cole - It Only Happens Once
-Nat King Cole - It's Only A Papermoon
-Nat King Cole - Katusha
-Nat King Cole - LOVE
-Nat King Cole - LOVE LETTERS
-Nat King Cole - Look What You Have Done To Me
-Nat King Cole - MISTY
-Nat King Cole - MONA LISA-ver1
-Nat King Cole - MONA LISA-ver2
-Nat King Cole - MY FOOLISH HEART
-Nat King Cole - Mona Lisa
-Nat King Cole - Nature Boy
-Nat King Cole - PAPA LOVES MAMBO
-Nat King Cole - PRETEND
-Nat King Cole - Red Sails In The Sunset 1951
-Nat King Cole - Route 66
-Nat King Cole - SAVING MY LOVE FOR YOU
-Nat King Cole - STARDUST
-Nat King Cole - STRAIGHTEN UP AND FLY RIGHT
-Nat King Cole - Sweet Lorraine
-Nat King Cole - THE GREATEST THING
-Nat King Cole - THERE WILL NEVER BE ANOTHER YOU
-Nat King Cole - THIS CAN'T BE LOVE
-Nat King Cole - TIL THE END OF TIME
-Nat King Cole - TO LOVE AND BE LOVED
-Nat King Cole - The More I See You
-Nat King Cole - UNFORGETABLE
-Nat King Cole - Unforgettable
-Nat King Cole - WE'RE TOO YOUNG
-Nat King Cole - What Can I Say After I Say I'm Sorry
-Nat King Cole - What'll I Do
-Nat King Cole - When I Grow Too Old To Dream
-Nat King Cole - When You Wish Upon A Star
-Nat King Cole - You Are My Sunshine
-Nat King Cole - You Call It Madness
-Nat King Cole - You STEPPED OUT OF A DREAM
-Nat King Cole - You're Nobody 'Till Somebody Loves You
-Nat King Cole Trio - Blues in My Shower
-Nat King Cole, Billy May Orch - Send For Me
 Nat King Cole, Billy May Orch - cold cold heart
+Nat King Cole, Billy May Orch - Send For Me
 Nat King Cole, Kitty Kalen - When I fall In Love
 Nat King Cole, Marilyn Monroe - WHEN I FALL IN LOVE
 Nathaniel Mayer & The Fabulous Twilights - Village Of Love
@@ -5060,7 +5069,6 @@ Nino & The Ebb Tides - Juke Box Saturday Night
 No Love, No Nothing - Ella May Morse
 Noble "Thin Man" Watts & His Rhythm Sparks - Hard Times (The Slop)
 Norman Greenbaum - Spirit In The Sky
-ORIOLES - AT NIGHT
 Odeon-Tanz-Orchester Mit Gesang: Die Metropol-Vokalisten - Abends, Wenn Die Lichter Gluehn
 Odeon-Tanz-Orchester Mit Gesang: Die Metropol-Vokalisten - Halli! Hallo!
 Omar & The Howlers - Burn It To The Ground
@@ -5079,6 +5087,7 @@ Orchester Will Glahe - Spanische Dorfmusik
 Orchestra Mirador Dellembassy Club Di Milano - Nitouche
 Orchestre Nullo Romani - Nuits Napolitaines
 Orchestre Nullo Romani - Valse De Minuit
+ORIOLES - AT NIGHT
 Orlons - CRYING IN THE CHAPEL
 Oscar Benton - Busted
 Oscar Benton - I Can't Leave You
@@ -5090,7 +5099,6 @@ Oskar Joost - Hu-o-ho, Alter Schimmel, Hu-o-ho!
 Oskar Joost - Oh! Muki, Muki Oh!
 Otis Redding - (Sittin' On) The Dock Of The Bay
 Otis Redding - I've Been Loving You Too Long
-PEGGY LEE - IT COULD HAPPEN TO YOU
 Paris Sisters - Sincerely
 Pat Boone - Speedy Gonzales
 Patriotic - Battle Hymn of the Republic
@@ -5102,6 +5110,7 @@ Patti Page & Rex Allen - Broken Down Merry Go Round
 Patti Page - A Poor Man's Roses (Or A Rich Man's Gold) 1957
 Patti Page - ALL MY LOVE
 Patti Page - ALLEGHNEY MOON
+patti page - Amazing Grace
 Patti Page - AND SO TO SLEEP
 Patti Page - As Time Goes By
 Patti Page - Autumn Leaves
@@ -5117,11 +5126,12 @@ Patti Page - CONQUSET
 Patti Page - Cross over the bridge 1954
 Patti Page - DEAR HEARTS AND GENTLE PEOPLE
 Patti Page - DETOUR
+patti page - Down in the valley
 Patti Page - DREAM A LITTLE DREAM OF ME
 Patti Page - EVER TRUE EVERMORE
 Patti Page - Excuse Me
-Patti Page - GOLDEN EAR RINGS
 Patti Page - Go On With The Wedding
+Patti Page - GOLDEN EAR RINGS
 Patti Page - HOW MUCH IS THAT DOGGIE IN THE WINDOW
 Patti Page - Hush Hush Sweet Charlotte
 Patti Page - I DON'T CARE IF THE SUN DON'T SHINE
@@ -5130,57 +5140,59 @@ Patti Page - I'll remember today
 Patti Page - IF I GIVE MY HEART TO YOU
 Patti Page - It's A Sin To Tell A Lie
 Patti Page - Jealous Heart
-Patti Page - LITTLE THINGS MEAN A LOT
-Patti Page - LONELY
 Patti Page - La La La (If I Had You)
 Patti Page - Left right out of your Heart
 Patti Page - Let Me Call You Sweetheart
 Patti Page - Let Me Go Lover
 Patti Page - Let The Rest Of The World Go By (With Someone Like You)
+Patti Page - LITTLE THINGS MEAN A LOT
+Patti Page - LONELY
 Patti Page - Long, Long Ago
 Patti Page - Love For Sale
-Patti Page - MOCKINGBIRD HILL
-Patti Page - MR AND MISSISSIPPI
 Patti Page - Mama From The Train
+Patti Page - MOCKINGBIRD HILL
 Patti Page - Moon River
+Patti Page - MR AND MISSISSIPPI
 Patti Page - My Wild Irish Rose
 Patti Page - Nevertheless
 Patti Page - Nobody's Darlin' But Mine
 Patti Page - O Danny Boy
-Patti Page - OLD CAPE COD
 Patti Page - Oh What It seemed To Be
+Patti Page - OLD CAPE COD
 Patti Page - On The Inside
 Patti Page - On The Other Side
 Patti Page - Once In A While
+patti page - one of us will weep tonight 1960
 Patti Page - Please Release Me
 Patti Page - Red Sails In The Sunset
 Patti Page - Scarlet Ribbons
 Patti Page - Shake Me I Rattle
 Patti Page - Steam Heat 1954
 Patti Page - Stranger On The Shore
-Patti Page - THE DOGGIE IN THE WINDOW
 Patti Page - Tenderly
 Patti Page - Tennessee Waltz
+Patti Page - THE DOGGIE IN THE WINDOW
 Patti Page - The Man I Love
 Patti Page - The Sound Of Music
 Patti Page - This is my song
+patti page - Those Were the Days, My Friend
 Patti Page - Till I waltz again with you
 Patti Page - Toy Balloon
 Patti Page - Try To Remember
 Patti Page - Walking The Floor Over You 1961
 Patti Page - Whispering
+Patti page - WHISPERING WIND
+Patti page - WHY DON'T YOU LOVE ME
 Patti Page - With My Eyes Wide Open I'm Dreaming 1950
+Patti page - WITH MY EYES WIDE OPEN-ver1
+Patti page - With My Eyes Wide Open-ver2
+Patti page - WOULD I LOVE YOU LOVE YOU LOVE YOU
+Patti page - YOU BELONG TO ME
 Patti Page - You Can't Be True Dear
 Patti Page - You Don't Know Me
 Patti Page, Glen Campbell - Little Green Apples
 Patti Page, Vic Damone - YES, YES, YES!
 Patti Page[not] - MOCKING BIRD HILL
-Patti page - WHISPERING WIND
-Patti page - WHY DON'T YOU LOVE ME
-Patti page - WITH MY EYES WIDE OPEN-ver1
-Patti page - WOULD I LOVE YOU LOVE YOU LOVE YOU
-Patti page - With My Eyes Wide Open-ver2
-Patti page - YOU BELONG TO ME
 Paul Anka - PUPPY LOVE
 Paul Anka - PUT YOUR HEAD ON MY SHOULDER
 Paul Anka - You Are My Destiny
@@ -5189,21 +5201,21 @@ Paul Chaplain & His Emeralds - Shortnin' Bread
 Paul Gayten - The Hunch
 Paul Quinichette - Birdland jump
 Paul Quinichette - Bot Bot
-Paul Quinichette - I'll always be in love with you
-Paul Quinichette - P.Q. Blues
-Paul Quinichette - Paul's bunion
-Paul Quinichette - Samie
 Paul Quinichette - bustin' suds
 Paul Quinichette - crew cut
 Paul Quinichette - cross fire
 Paul Quinichette - galoshes and rubbers
 Paul Quinichette - green's blues
+Paul Quinichette - I'll always be in love with you
 Paul Quinichette - let's make it
 Paul Quinichette - no parking
 Paul Quinichette - no time
+Paul Quinichette - P.Q. Blues
+Paul Quinichette - Paul's bunion
 Paul Quinichette - people will say we're in love
 Paul Quinichette - prevue
 Paul Quinichette - rose of Bidland
+Paul Quinichette - Samie
 Paul Quinichette - sandstone
 Paul Quinichette - seepy time gal
 Paul Quinichette - sequel
@@ -5228,6 +5240,7 @@ Pearl Bailey - The Gypsy Goofed
 Pearl Bailey - The Physician
 Pearl Bailey - Tired
 Pearl Bailey - To Keep My Love Alive
+pearl bailey - You Got It Made
 Pee Wee Russell - (I Ain't Give Nobody) None Of My Jelly Roll
 Pee Wee Russell - D.A. Blues
 Pee Wee Russell - Deuces Wild
@@ -5249,9 +5262,9 @@ Pee Wee Russell - The Last Time I Saw Chicago
 Pee Wee Russell - There'll Be Some Changes Made
 Pee Wee Russell - Wailin' D.A. Blues
 Peggy Lee - (When I Dance With You) I Get Ideas
-Peggy Lee - A Woman Alone With The Blues
 Peggy Lee - A doodlin' song
 Peggy Lee - A tribute to ray charles
+Peggy Lee - A Woman Alone With The Blues
 Peggy Lee - Ain't Goin' No Place
 Peggy Lee - Ain't We Got Fun
 Peggy Lee - Bali ha'i
@@ -5266,11 +5279,13 @@ Peggy Lee - C'est Magnifique
 Peggy Lee - Day in, Day out
 Peggy Lee - Days of Wine And Roses 1963
 Peggy Lee - Fly Me To The Moon
+Peggy Lee - folks who live on the hill
 Peggy Lee - Fools Rush In
 Peggy Lee - For Every Man There's A Woman
 Peggy Lee - Ghost Riders In The Sky
 Peggy Lee - Hallelujah I Love Him So
 Peggy Lee - Happiness Is A Thing Called Joe 1957
+peggy lee - He's A Tramp
 Peggy Lee - Help Me Make It Through the Night
 Peggy Lee - Here's That Rainy Day
 Peggy Lee - How Deep Is The Ocean
@@ -5278,13 +5293,15 @@ Peggy Lee - I Can't Give You Anything But Love
 Peggy Lee - I Didn't Know What Time It Was
 Peggy Lee - I Don't Know Enough About You
 Peggy Lee - I Enjoy Being A Girl
+Peggy Lee - I got a man
 Peggy Lee - I Let A Song Go Out Of My Heart
 Peggy Lee - I Wish I Didn't Love You So
-Peggy Lee - I got a man
 Peggy Lee - I'll Get By
-Peggy Lee - I'm Beginning To See The Light
 Peggy Lee - I'm a Woman
+Peggy Lee - I'm Beginning To See The Light
+peggy lee - I'm Gonna Wash That Man Right Outta My Hair
 Peggy Lee - I've Got The World On A String
+PEGGY LEE - IT COULD HAPPEN TO YOU
 Peggy Lee - JUST IN TIME
 Peggy Lee - L.o.v.e
 Peggy Lee - Lover 1952
@@ -5293,30 +5310,32 @@ Peggy Lee - Mambo In Miami
 Peggy Lee - Medley (One kiss,My romance,The vagabond king)
 Peggy Lee - Misty
 Peggy Lee - Moments like this
+Peggy lee - Mr. Wonderful
 Peggy Lee - My Man
 Peggy Lee - My Silent Love
 Peggy Lee - Old Black Magic
-Peggy Lee - SIAMESE CAT SONG
 Peggy Lee - Senza Fine
 Peggy Lee - September In The Rain
+Peggy Lee - SIAMESE CAT SONG
 Peggy Lee - So In Love
 Peggy Lee - So What's New
 Peggy Lee - Somebody Loves Me
 Peggy Lee - Sugar
 Peggy Lee - Sweet Happy Life
 Peggy Lee - Swing Low Sweet Chariot
-Peggy Lee - THESE FOOLISH THINGS
+peggy lee - Tain't Nobody's Bizness
 Peggy Lee - That Old Feeling
 Peggy Lee - The Alley Cat Song
 Peggy Lee - The Freedom Train
 Peggy Lee - The Man I Love
-Peggy Lee - The Very Thought of You
 Peggy Lee - The party's over
 Peggy Lee - The second time around
-Peggy Lee - Them There Eyes
+Peggy Lee - The Very Thought of You
 Peggy Lee - Them there eyes
+Peggy Lee - Them There Eyes
 Peggy Lee - Then Was Then
 Peggy Lee - There'll Be Some Changes Made
+Peggy Lee - THESE FOOLISH THINGS
 Peggy Lee - They Can't Take That Away From Me
 Peggy Lee - Things Are Swinging
 Peggy Lee - Till There Was You
@@ -5332,16 +5351,14 @@ Peggy Lee - Yes indeed
 Peggy Lee - You Gotta Have Heart
 Peggy Lee - You're Driving Me Crazy
 Peggy Lee - You're Easy To Dance With
-Peggy Lee - folks who live on the hill
 Peggy Lee, Frank Sinatra - Something Stupid
 Peggy Lee, George Shearing - DO I LOVE YOU
-Peggy lee - Mr. Wonderful
 Percy Faith - Carol of the bells
 Percy Faith - Delicado
 Percy Faith - La Golondrina
-Percy Faith - THEME FROM A SUMMER PLACE
 Percy Faith - The Song From Moulin Rouge (1953)
 Percy Faith - The Syncopated Clock
+Percy Faith - THEME FROM A SUMMER PLACE
 Percy Sledge - When A Man Loves A Woman
 Perry Como - Dont Let The Stars Get In Your Eyes
 Perry Como - IF
@@ -5361,8 +5378,8 @@ Pete Johnson - Hollywood boogie
 Pete Johnson - Kaycee feeling
 Pete Johnson - Lights out mood
 Pete Johnson - Minuet boogie
-Pete Johnson - Mr. Freddy blues
 Pete Johnson - Mr. drums meets Mr. piano
+Pete Johnson - Mr. Freddy blues
 Pete Johnson - Mutiny in the doghouse
 Pete Johnson - Pete Kay boogie
 Pete Johnson - Pete's lonesome blues
@@ -5372,8 +5389,8 @@ Pete Johnson - Yancy Street boogie
 Pete Johnson - Zero hours
 Phil Harris - Muskrat Ramble
 Phil Harris - Old Master Painter 1950
-Phil Harris - The Darktown Poker Club
 Phil Harris - smoke that cigarette (1952)
+Phil Harris - The Darktown Poker Club
 Phil Harris band, Louis Prima - THE JUNGLE BOOK (Disney)
 Phil Woods - Back And Blow
 Phil Woods - Be My Love
@@ -5410,10 +5427,10 @@ Pointer Sisters - We Are Family
 Preston Epps - Bongo Rock
 Procol Harum - A Whiter Shade Of Pale
 Question Mark & The Mysterians - 96 Tears
-RAY ANTHONY - HARBOUR LIGHTS (1950)
 Ral Donner - I Got Burned
 Randy & the Rainbows - Denise
 Ray & Bob - Air Travel
+RAY ANTHONY - HARBOUR LIGHTS (1950)
 Ray Anthony. Tommy Mercer, Marcie Miller Vocal - The Bunny Hop
 Ray Charles - (Turn Out The Light And) Love Me Tonight
 Ray Charles - 34 Time
@@ -5422,8 +5439,8 @@ Ray Charles - A Fool For You
 Ray Charles - A Girl I Used To Know
 Ray Charles - A Little Bit Of Heaven
 Ray Charles - A Sentimental Blues
-Ray Charles - AIN'T THAT FINE
 Ray Charles - Abraham, Martin And John
+Ray Charles - AIN'T THAT FINE
 Ray Charles - Ain't That Love
 Ray Charles - Ain't Your Memory Got No Pride At All
 Ray Charles - All I Ever Need Is You
@@ -5511,9 +5528,9 @@ Ray Charles - It's Alright
 Ray Charles - Jumpin' In The Morning
 Ray Charles - Just A Little Lovin' (Will Go A Long Way)
 Ray Charles - Kissa Me Baby
-Ray Charles - LET ME HEAR YOU CALL MY NAME
 Ray Charles - Leave My Woman Alone
 Ray Charles - Let It Be
+Ray Charles - LET ME HEAR YOU CALL MY NAME
 Ray Charles - Let The Good Times Roll
 Ray Charles - Let Your Love Flow
 Ray Charles - Lift Every Voice And Sing
@@ -5742,6 +5759,7 @@ Rosemary Clooney - As Time Goes By
 Rosemary Clooney - BOTCHA ME
 Rosemary Clooney - BROWN EYES
 Rosemary Clooney - BUTTONS AND BOWS
+Rosemary Clooney - dear hearts and gentle people
 Rosemary Clooney - HALF AS MUCH
 Rosemary Clooney - HEY THERE
 Rosemary Clooney - HOW MUCH IS THAT DOGGY IN THE WINDOW
@@ -5751,9 +5769,8 @@ Rosemary Clooney - MAMBO ITALIANO
 Rosemary Clooney - Oh, You Beautiful Doll
 Rosemary Clooney - Sentimental Journey
 Rosemary Clooney - TENDERLY
-Rosemary Clooney - TOO OLD TO CUT THE MUSTARD
 Rosemary Clooney - The Anniversary Song
-Rosemary Clooney - dear hearts and gentle people
+Rosemary Clooney - TOO OLD TO CUT THE MUSTARD
 Rosemary Clooney, Doris Day - SISTERS
 Rosie & The Originals - Angel Baby
 Roy Brown - Let The Four Winds Blow
@@ -5785,22 +5802,17 @@ Roy Rogers, Spade Cooley - On the Old Spanish Trail
 Royal Teens - SHORT SHORTS 1958
 Rudy Valee - Ha-cha-cha
 Rudy Valee - Orchids In The Moonlight
+Russ a milton - Rainbow 1957
 Russ Hamilton - We Will Make Love 1957
 Russ Morgan Orch - CRUISING DOWN THE RIVER
 Russ Morgan Orch - DOES YOUR HEART BEAT FOR ME
 Russ Morgan Orch - PRISIONER 'O DEL MAR
-Russ a milton - Rainbow 1957
 Rusty & Doug - Louisiana Man
 Rusty York - Sugaree
 Ruth Brown - LUCKY LIPS
 Ruth Brown - This Little Girl's Gone Rockin'
 Ruth Brown - Tough Lover
 Ruth Brown - Wild Wild Young Men (1953)
-SKEETER DAVIS - NOBODY'S CHILD
-SPANIELS - GOODNIGHT, WELL IT'S TIME TO GO
-SPANIELS - HUNDRED YEARS FROM TODAY
-SPANIELS - PLEASE DONT TEASE
-SPANIELS - YOU GAVE ME PEACE OF MIND 1956
 Safaris - Image Of A Girl
 Sal Mineo - Start Movin' (In My Direction)
 Sam & Dave - Soul Man
@@ -5941,8 +5953,8 @@ Sarah Vaughan - Summertime
 Sarah Vaughan - Thanks For The Ride
 Sarah Vaughan - The Nearness Of You
 Sarah Vaughan - They All Laughed
-Sarah Vaughan - They Can'T Take That Away From Me
 Sarah Vaughan - They Can't Take That Away From Me
+Sarah Vaughan - They Can'T Take That Away From Me
 Sarah Vaughan - Things Are Looking Up
 Sarah Vaughan - Thinking Of You
 Sarah Vaughan - This Can't Be Love
@@ -6040,12 +6052,13 @@ Sidney Bechet - Summertime
 Sidney Bechet - Sweetie Dear
 Sidney Bechet - Tain't a Fit Night Out for Man or Beast
 Sidney Bechet - Weary Blues
-Sidney Bechet - When You and I Were Young, Maggie
 Sidney Bechet - When the Sun Sets Down South [Southern Sunset]
+Sidney Bechet - When You and I Were Young, Maggie
 Sidney Bechet - Winin' Boy Blues
 Silvana Mangano - Anna 1953
 Simon & Garfunkel - The Boxer
 Simon & Garfunkel - The Sounds Of Silence
+SKEETER DAVIS - NOBODY'S CHILD
 Skip & Flip - Cherry Pie
 Skip & Flip - It Was I
 Slam Stewart - Bell For Norvo
@@ -6198,6 +6211,10 @@ Sonny Terry - Walkin' And Lyin' Down
 Sonny Terry - You Got To Have Your Dollar
 South Pacific-movie ver - A DAME-1957
 South Pacific-movie ver - Happy Talk 1957
+SPANIELS - GOODNIGHT, WELL IT'S TIME TO GO
+SPANIELS - HUNDRED YEARS FROM TODAY
+SPANIELS - PLEASE DONT TEASE
+SPANIELS - YOU GAVE ME PEACE OF MIND 1956
 Spencer & Spencer - Russian Band Stand
 Spike Jones And His City Slickers - Chloe (Song Of The Swamp)
 Squires - Dreamy Eyes (1957)
@@ -6272,27 +6289,6 @@ T-Bone Walker - T-Bone Boogie
 T-Bone Walker - Trinity River Blues
 T-Bone Walker - Wichita Falls Blues
 T-Bone Walker - You Don't Love Me Blues
-TEX RITTER & JOHNNY BOND - GIT OFF MY HORSE
-TEX RITTER - JUST BEYOND THE MOON
-TUJA_CD06 - A Ghost Of A Chance
-TUJA_CD06 - Bug-A-Boo
-TUJA_CD06 - Dinah
-TUJA_CD06 - Going! Going! Gone
-TUJA_CD06 - Happy As The Day Is Long
-TUJA_CD06 - Hard Corn
-TUJA_CD06 - Hot Nuts
-TUJA_CD06 - Hustlin' And Bustlin' For Baby
-TUJA_CD06 - I Want To Ring Bells
-TUJA_CD06 - I Would If I Could But I Can't
-TUJA_CD06 - Midnight Rythm
-TUJA_CD06 - Move Turtle
-TUJA_CD06 - My Pretty Girl
-TUJA_CD06 - Nobody's Sweetheart
-TUJA_CD06 - Shoutin' In The Amen Corner
-TUJA_CD06 - Shuffle Off To Buffalo
-TUJA_CD06 - Sophisticated Lady
-TUJA_CD06 - Swing Gate
-TUJA_CD06 - The Coming Home Of Hi-De-Hoo
 Tab Hunter - RED SAILS IN THE SUNSET
 Tal Farlow - And She Remembers Me
 Tal Farlow - Autumn In New York
@@ -6351,10 +6347,11 @@ Tenore Daniele Serra - Quando Canta Alla Radio Raimonda
 Tenore Renzo - Veronica... Senza Fisarmonica
 Teresa Brewer - Danny's song
 Tex Beneke, The Modernaires - Jukebox Saturday Night
+TEX RITTER & JOHNNY BOND - GIT OFF MY HORSE
 Tex Ritter - BIG ROCK CANDY MOUNTAIN
-Tex Ritter - BURY ME NOT ON THE LONE PRARIE
 Tex Ritter - Billy the kid
 Tex Ritter - Blood on the Saddle
+Tex Ritter - BURY ME NOT ON THE LONE PRARIE
 Tex Ritter - Cattle Call
 Tex Ritter - Do Not Forsake Me, Oh My Darling
 Tex Ritter - He's A Cowboy Auctioneer
@@ -6362,6 +6359,7 @@ Tex Ritter - High Noon (Film Version)
 Tex Ritter - I'm An Old Cowhand 1952
 Tex Ritter - I've Got Spurs That Jingle Jangle Jingle
 Tex Ritter - Johnny Yuma
+TEX RITTER - JUST BEYOND THE MOON
 Tex Ritter - Pecos Bill
 Tex Ritter - She Loved This House
 Tex Ritter - Streets of Laredo
@@ -6407,16 +6405,17 @@ The Andrews Sisters - (I'm Getting) Corns for My Country
 The Andrews Sisters - Ac-Cent-Tchu-Ate The Positive
 The Andrews Sisters - Alexander's Ragtime Band
 The Andrews Sisters - Beat Me Daddy, Eight To The Bar
-The Andrews Sisters - Beer Barrel Polka
 The Andrews Sisters - Beer barrel polka
+The Andrews Sisters - Beer Barrel Polka
 The Andrews Sisters - Bei Mir Bist Du Schon
 The Andrews Sisters - Bei Mir Bist Du Shon
 The Andrews Sisters - Boogie Woogie Bugle Boy
 The Andrews Sisters - Bounce Me Brother With A Solid Four
+The Andrews Sisters - chico's love song
 The Andrews Sisters - Corns for my contry
+The Andrews Sisters - Don't be that way
 The Andrews Sisters - Don't Blame Me
 The Andrews Sisters - Don't Sit Under The Apple Tree
-The Andrews Sisters - Don't be that way
 The Andrews Sisters - Down by the Ohio
 The Andrews Sisters - Down in the Valley
 The Andrews Sisters - Ferryboat Serenade
@@ -6436,6 +6435,7 @@ The Andrews Sisters - Medley of Andrews Sisters Hits
 The Andrews Sisters - Money Is The Root Of All Evil
 The Andrews Sisters - Money Is the Root of All Evil
 The Andrews Sisters - Near You
+The Andrews Sisters - nice work if you can get it
 The Andrews Sisters - Oh! Ma Ma (The Butcher Boy)
 The Andrews Sisters - Oh, Johnny! Oh Johnny! Oh!
 The Andrews Sisters - Pagan Love Song
@@ -6446,15 +6446,16 @@ The Andrews Sisters - Rhumboogie
 The Andrews Sisters - Rum & Coca Cola
 The Andrews Sisters - Rum And Coca Cola
 The Andrews Sisters - Rumors Are Flying
+The Andrews Sisters - say si si
 The Andrews Sisters - Says my heart
 The Andrews Sisters - Shoo Shoo Baby
 The Andrews Sisters - Shoo, Shoo Baby
 The Andrews Sisters - Sing a Tropical Song
 The Andrews Sisters - Sing, sing, sing
 The Andrews Sisters - South American Way
-The Andrews Sisters - Straighten Up And Fly Right
-The Andrews Sisters - Straighten up and Fly Right
 The Andrews Sisters - Straighten up and fly right
+The Andrews Sisters - Straighten up and Fly Right
+The Andrews Sisters - Straighten Up And Fly Right
 The Andrews Sisters - Strip polka
 The Andrews Sisters - The Blonde Sailor
 The Andrews Sisters - The Blue Tail Fly
@@ -6468,9 +6469,6 @@ The Andrews Sisters - Vict'ry Polka
 The Andrews Sisters - Well all right
 The Andrews Sisters - When A Prince Of A Fella Meets A Cinderella
 The Andrews Sisters - Yes My Darling Daughter
-The Andrews Sisters - chico's love song
-The Andrews Sisters - nice work if you can get it
-The Andrews Sisters - say si si
 The Animals - Don't Let Me Be Misunderstood
 The Animals - House Of The Rising Sun
 The Animals - We Gotta Get Out Of This Place
@@ -6589,6 +6587,7 @@ The Beatles - Yesterday
 The Beau-Marks - Clap Your Hands
 The Belmonts - Come On Little Angel
 The Belmonts - Tell Me Why
+the big bopper - CHANTILLY LACE
 The Blenders - Daughter
 The Blendtones - Lovers
 The Blue Jays - Lover's Island
@@ -6725,10 +6724,12 @@ The Flamingos - I Only Have Eyes For You
 The Flamingos - Lovers Never Say Goodbye
 The Flares - Foot Stomping (Part 1)
 The Fleetwoods - What'll I Do
+the Four Aces - South Of The Border
 The Four Freshmen - Charmaine
 The Four Freshmen - Graduation Day
 The Four Freshmen - I'LL BE SEEING YOU
 The Four Freshmen - Moonlight in Vermont
+the Four Lads - Let Me Call You Sweetheart 1958
 The Four Lads - The Mocking Bird -Okeh 78rpm
 The Four Preps - More Money For You And Me
 The Four Tops - Baby I Need Your Loving
@@ -6821,6 +6822,9 @@ The Jive Bombers - Bad Boy
 The Jive Five - My True Story
 The Kendall Sisters - Yea, Yea
 The Kingsmen - Louie Louie
+the Kingston Trio - HAWAIIAN
+the Kingston Trio - The Tijuana Jail (1959)
+the Kingston Trio - TOM DOOLEY
 The Kinks - Waterloo Sunset
 The Kinks - You Really Got Me
 The Knockouts - Darling Lorraine
@@ -6854,10 +6858,10 @@ The Mills Brothers - Dedicated to You [Ella Fitzgerald]
 The Mills Brothers - Diga Diga Doo
 The Mills Brothers - Dinah
 The Mills Brothers - Dirt Dishin' Daisy
-The Mills Brothers - Doin' The New Low Down
 The Mills Brothers - Doin' the New Low Down
-The Mills Brothers - Don't Be Afraid To Tell Your Mother
+The Mills Brothers - Doin' The New Low Down
 The Mills Brothers - Don't Be Afraid to Tell Your Mother
+The Mills Brothers - Don't Be Afraid To Tell Your Mother
 The Mills Brothers - Elder Eatmore's Sermon on Generosity
 The Mills Brothers - Elder Eatmore's Sermon on Throwing Stones
 The Mills Brothers - Fiddlin' Joe
@@ -6870,8 +6874,8 @@ The Mills Brothers - How'm I Doin'? (Hey, Hey!)
 The Mills Brothers - I Can't Give You Anything But Love
 The Mills Brothers - I Found the Thrill Again
 The Mills Brothers - I Heard
-The Mills Brothers - I've Found New Baby
 The Mills Brothers - I've Found a New Baby
+The Mills Brothers - I've Found New Baby
 The Mills Brothers - Ida! Sweet as Apple Cider
 The Mills Brothers - In the Shade of the Old Apple Tree
 The Mills Brothers - It Don't Mean A Thing
@@ -6907,8 +6911,8 @@ The Mills Brothers - Old Man of the Mountain
 The Mills Brothers - Old Man on the Mountain
 The Mills Brothers - Organ Grinder's Swing
 The Mills Brothers - Out for No Good
-The Mills Brothers - Pennies From Heaven
 The Mills Brothers - Pennies from Heaven
+The Mills Brothers - Pennies From Heaven
 The Mills Brothers - Put on Your Old Grey Bonnet
 The Mills Brothers - Rhythm Saved the World
 The Mills Brothers - Rockin' Chair Swing
@@ -6916,26 +6920,26 @@ The Mills Brothers - Shine
 The Mills Brothers - Shoe Shine Boy
 The Mills Brothers - Shuffle Your Feet, Bandanna Babies
 The Mills Brothers - Side Kick Joe
-The Mills Brothers - Since We Fell Out Of Love
 The Mills Brothers - Since We Fell Out of Love
+The Mills Brothers - Since We Fell Out Of Love
 The Mills Brothers - Sixty Seconds Got Together
 The Mills Brothers - Sleepy Head
 The Mills Brothers - Smoke Rings
 The Mills Brothers - Solitude
-The Mills Brothers - Some Of These Days
 The Mills Brothers - Some of These Days
+The Mills Brothers - Some Of These Days
 The Mills Brothers - Song Is Ended
 The Mills Brothers - St. Louis Blues
+The Mills Brothers - Sweet and Slow
 The Mills Brothers - Sweet Georgia Brown
 The Mills Brothers - Sweet Lucy Brown
 The Mills Brothers - Sweet Sue, Just You
-The Mills Brothers - Sweet and Slow
 The Mills Brothers - Sweeter Than Sugar
-The Mills Brothers - Swing For Sale
-The Mills Brothers - Swing Is The Thing
-The Mills Brothers - Swing Is the Thing
-The Mills Brothers - Swing It, Sister
 The Mills Brothers - Swing for Sale
+The Mills Brothers - Swing For Sale
+The Mills Brothers - Swing Is the Thing
+The Mills Brothers - Swing Is The Thing
+The Mills Brothers - Swing It, Sister
 The Mills Brothers - That's Georgia
 The Mills Brothers - There Goes My Headache
 The Mills Brothers - Tiger Rag
@@ -7089,13 +7093,19 @@ The Surfaris - Image Of A Girl
 The Teddy Bears - To Know Him Is To Love Him
 The Teen Queens - Eddie My Love
 The Temptations - Barbara
+the Temptations - IN THE STILL OF THE NIGHT
 The Temptations - My Girl
 The Temptations - Paradise
+the three Browns - LAMP LIGHTER
+the Three Browns - RED SAILS IN THE SUNSET
+the Three Browns - THE THREE BELLS
 The Three Friends - Dedicated (To The Songs I Love)
+the Three suns - TWILIGHT TIME
 The Timetones - In My Heart
 The Tokens - Tonight I Fell In Love
 The Tornadoes - Bustin' Surfboards
 The Troggs - Wild Thing
+the Tune Weavers - HAPPY HAPPY BIRTHDAY BABY
 The Tune Weavers - Happy, Happy Birthday Baby
 The Turbans - When You Dance
 The Van Dykes - Gift Of Love
@@ -7122,13 +7132,13 @@ The Ventures - Beyond The Reef
 The Ventures - Bird Rockers
 The Ventures - Bird Swingers
 The Ventures - Black sand beach
+The Ventures - Blue chateau
 The Ventures - Blue Moon (The Colorful Ventu
+The Ventures - Blue sanset
 The Ventures - Blue Skies
 The Ventures - Blue Star
 The Ventures - Blue Tail Fly
 The Ventures - Blue Tango
-The Ventures - Blue chateau
-The Ventures - Blue sanset
 The Ventures - Bluebird
 The Ventures - Bluer Than Blue
 The Ventures - Born To Be Wild
@@ -7178,8 +7188,8 @@ The Ventures - Genesis (bonus tracks)
 The Ventures - Georgy Girl
 The Ventures - Get Smart Theme
 The Ventures - Ginchy
-The Ventures - Ginza Lights
 The Ventures - Ginza lights
+The Ventures - Ginza Lights
 The Ventures - Go-Go Show
 The Ventures - Gone, Gone, Gone
 The Ventures - Good Lovin
@@ -7298,8 +7308,8 @@ The Ventures - Mr. Moto
 The Ventures - Music To Watch Girls By
 The Ventures - My Bonnie Lies
 The Ventures - My Own True Love
-The Ventures - Nagasaki Memories
 The Ventures - Nagasaki memories
+The Ventures - Nagasaki Memories
 The Ventures - Nagoya Express
 The Ventures - Naruto
 The Ventures - Needles And Pins
@@ -7317,6 +7327,7 @@ The Ventures - One Mint Julep
 The Ventures - Only The Young
 The Ventures - Opus Twist
 The Ventures - Orange Fire
+The Ventures - Out of Limits
 The Ventures - Out Of Limits (Bass Guitar Solo; Normal Speed)
 The Ventures - Out Of Limits (Bass Guitar Solo; Slow Speed)
 The Ventures - Out Of Limits (Bass Missing)
@@ -7326,10 +7337,8 @@ The Ventures - Out Of Limits (Lead Missing)
 The Ventures - Out Of Limits (Rhythm Guitar Solo; Normal Speed)
 The Ventures - Out Of Limits (Rhythm Guitar Solo; Slow Speed)
 The Ventures - Out Of Limits (Rhythm Missing)
-The Ventures - Out of Limits
 The Ventures - Over The Moutain Across The S
 The Ventures - Over The Rainbow
-The Ventures - PERFIDIA
 The Ventures - Panhandle Rag
 The Ventures - Paper Airplane
 The Ventures - Party In Laguna
@@ -7339,6 +7348,7 @@ The Ventures - Pedal Pusher (live)
 The Ventures - Penetration
 The Ventures - Percolator
 The Ventures - Perfidia
+The Ventures - PERFIDIA
 The Ventures - Pipeline
 The Ventures - Pipeline (Accompaniment Guitar Solo; Normal Speed)
 The Ventures - Pipeline (Accompaniment Guitar Solo; Slow)
@@ -7366,8 +7376,8 @@ The Ventures - Respect
 The Ventures - Road Runner
 The Ventures - Road to somewhere
 The Ventures - Runnin' Wild
-The Ventures - SAN ANTONIO ROSE
 The Ventures - Saihate Bojo
+The Ventures - SAN ANTONIO ROSE
 The Ventures - San Antonio Rose
 The Ventures - Scarborough Fair/Canticle
 The Ventures - Scratch
@@ -7477,6 +7487,7 @@ The Ventures - Wabash Cannonball
 The Ventures - Wack Wack
 The Ventures - Wailin'
 The Ventures - Wakareta-hito-to
+the Ventures - WALK DON'T RUN
 The Ventures - Walk Don't Run '64
 The Ventures - Walk Right Back
 The Ventures - Walk Right In
@@ -7519,6 +7530,8 @@ The Vibrations - Peanut Butter
 The Viceroys - Seagrams
 The Videls - Mister Lonely
 The Viscounts - Harlem Nocturne
+the Vogues - NO NOT MUCH
+the Vogues - You Are My Special Angel
 The Wailers - Tall Cool One
 The Who - I Can See For Miles
 The Who - I Can't Explain
@@ -7552,8 +7565,8 @@ Them - Gloria
 Thomas Wayne - TRAGEDY
 Thomas Wayne with The DeLons - Tragedy
 Three Sons - DAISY
-Three Sons - PEG OF MY HEART
 Three Sons - in the merry month of may
+Three Sons - PEG OF MY HEART
 Three Suns & Larry Green - Petite Waltz
 Three Suns - Arrivederci Roma
 Three Suns - Caravan
@@ -7606,9 +7619,30 @@ Tony Martin - Hear My Song, Violetta
 Tony Martin - La vie en rose (1950)
 Travis & Bob - Tell Him No
 Trio Los Panchos - Cielito Lindo
+TUJA_CD06 - A Ghost Of A Chance
+TUJA_CD06 - Bug-A-Boo
+TUJA_CD06 - Dinah
+TUJA_CD06 - Going! Going! Gone
+TUJA_CD06 - Happy As The Day Is Long
+TUJA_CD06 - Hard Corn
+TUJA_CD06 - Hot Nuts
+TUJA_CD06 - Hustlin' And Bustlin' For Baby
+TUJA_CD06 - I Want To Ring Bells
+TUJA_CD06 - I Would If I Could But I Can't
+TUJA_CD06 - Midnight Rythm
+TUJA_CD06 - Move Turtle
+TUJA_CD06 - My Pretty Girl
+TUJA_CD06 - Nobody's Sweetheart
+TUJA_CD06 - Shoutin' In The Amen Corner
+TUJA_CD06 - Shuffle Off To Buffalo
+TUJA_CD06 - Sophisticated Lady
+TUJA_CD06 - Swing Gate
+TUJA_CD06 - The Coming Home Of Hi-De-Hoo
 Turnier-Kapelle Dajos Bela - Der Arme Geiger (El Pobre Violinista)
 Turnier-Kapelle Dajos Bela - Rosen Und Frauen
 UC Cavalry - 7th Cavalry March
+United States Of America - USA National Anthem
+Unknown
 US Airborne - Screaming Eagles
 US Airborne Chorus - Blood Upon the Risers
 US Army - Field Artilery March
@@ -7632,12 +7666,6 @@ USAF Heritage of America Band - Semper Paratus
 USMC - Military Theme Marine Corps
 USMC - Patriotic Songs and Marches 12 Marines' Hymm
 USMC Choir - Patriotic Songs And Marches 12 Marines' Hymm
-United States Of America - USA National Anthem
-Unknown
-VICTOR SYLVESTER ORCH - BROADWAY MELODY
-VICTOR SYLVESTER ORCH - I DOUBLE DARE U
-VICTOR SYLVESTER ORCH - Victor Sylvester - The Merry Widow Waltz
-VICTOR SYLVESTER ORCH - YOU'RE DANCING
 Van Morrison - Brown Eyed Girl
 Various - Marek Weber mit seinem Orchester / My Little Boy
 Various Artists - (I Can Dream) Can't I ?
@@ -7711,6 +7739,11 @@ Vic Damone - YOU'RE BREAKING MY HEART
 Vic Dimone - AN AFFAIR TO REMEMBER
 Victor Silvester Orchestra - Tea for Two Fox Trot
 Victor Sylvester - Whispering
+VICTOR SYLVESTER ORCH - BROADWAY MELODY
+VICTOR SYLVESTER ORCH - I DOUBLE DARE U
+victor sylvester orch - kiss me much
+VICTOR SYLVESTER ORCH - Victor Sylvester - The Merry Widow Waltz
+VICTOR SYLVESTER ORCH - YOU'RE DANCING
 Victor Sylvester Orchestra - Sweet & Gentle - Tea For Two (Cha Cha)
 Vince Taylor & His Playboys - Brand New Cadillac
 Vito & The Salutations - Unchained Melody
@@ -7780,11 +7813,13 @@ Winifred Atwell - Flirtation Waltz (1953)
 Winifred Atwell - Golden Tango [1953]
 Winifred Atwell - Hamps Boogie WoogieINCOMPLETE
 Winifred Atwell - Honky tonk piano
+Winifred Atwell - if you were the only girl in the world-I don't know why-my foolish heart
 Winifred Atwell - Kitten On The Keys
 Winifred Atwell - Left bank
 Winifred Atwell - Let's Have A Ball
-Winifred Atwell - RACHMANINOV 2
+winifred atwell - poor people of paris
 Winifred Atwell - Rachmaninoff's Variation On A Theme
+Winifred Atwell - RACHMANINOV 2
 Winifred Atwell - Raggin' the Scale
 Winifred Atwell - Rhapsody rag
 Winifred Atwell - Summer Of The Seventeenth Doll
@@ -7795,7 +7830,6 @@ Winifred Atwell - The Entertainer
 Winifred Atwell - The Poor People of Paris (1956)
 Winifred Atwell - Tickle the Ivories Rag
 Winifred Atwell - Twelfth Street Rag
-Winifred Atwell - if you were the only girl in the world-I don't know why-my foolish heart
 Winifred Atwell, Frank Chacksfield Orch - Port Au Prince
 Woody Herman - Apple Honey
 Woody Herman - Cohn's Alley
@@ -7835,40 +7869,6 @@ Zoot Sims - Trotting
 Zoot Sims - While My Lady Sleeps
 Zoot Sims - Zoot And Zoot
 Zoot Sims - Zootcase
-count basie - satin doll
-larry adler - caravan
-little Anthony & the imperials - TEARS ON MY PILLOW-in stereo(1963)
-little Anthony and the Teenagers - TELL ME WHY
-mario lanza - Nessun Dorma
-mario lanza - Non Ti Scordar Di Me
-mario lanza - September Song
-mario lanza - They Didn't Believe Me
-mario lanza - guardian angels
-patti page - Amazing Grace
-patti page - Down in the valley
-patti page - Those Were the Days, My Friend
-patti page - one of us will weep tonight 1960
-pearl bailey - You Got It Made
-peggy lee - He's A Tramp
-peggy lee - I'm Gonna Wash That Man Right Outta My Hair
-peggy lee - Tain't Nobody's Bizness
-the Four Aces - South Of The Border
-the Four Lads - Let Me Call You Sweetheart 1958
-the Kingston Trio - HAWAIIAN
-the Kingston Trio - TOM DOOLEY
-the Kingston Trio - The Tijuana Jail (1959)
-the Temptations - IN THE STILL OF THE NIGHT
-the Three Browns - RED SAILS IN THE SUNSET
-the Three Browns - THE THREE BELLS
-the Three suns - TWILIGHT TIME
-the Tune Weavers - HAPPY HAPPY BIRTHDAY BABY
-the Ventures - WALK DON'T RUN
-the Vogues - NO NOT MUCH
-the Vogues - You Are My Special Angel
-the big bopper - CHANTILLY LACE
-the three Browns - LAMP LIGHTER
-victor sylvester orch - kiss me much
-winifred atwell - poor people of paris
 À. Âàðëàìîâ, äæàç-îðêåñòð ï; ó - Ëóíà (áëþç íà òåìó Ð. Ðîäæåðñà
 À. Âàðëàìîâ, äæàç-îðêåñòð ï; ó - Ïîé ìíå î ëþáâè, äîðîãàÿ
 À. Âàðëàìîâ, äæàç-îðêåñòð ï; ó - Ñ÷àñòüåì æèçíü ïîëíà
@@ -7889,6 +7889,7 @@ winifred atwell - poor people of paris
 Âëàäèìèð Áóí÷èêîâ - Øóìèò âîëíà, çâåíèò ñòðóíà
 Âëàäèìèð Áóí÷èêîâ è Âëàäèìèð Íå÷àåâ - Äîæäèê
 Âëàäèìèð Áóí÷èêîâ, Âëàäèìèð Íå÷àåâ - Òû äà ÿ, äà ìû ñ òîáîé
+Âëàäèìèð Âûñîöêèé - ×¸ðíûå áóøëàòû
 Âëàäèìèð Âûñîöêèé - Áðîñüòå ñêóêó, êàê êîðêó àðáóçíóþ
 Âëàäèìèð Âûñîöêèé - Â õîëîäà, â õîëîäà
 Âëàäèìèð Âûñîöêèé - Âñå óøëè íà ôðîíò
@@ -7899,9 +7900,9 @@ winifred atwell - poor people of paris
 Âëàäèìèð Âûñîöêèé - Îí íå âåðíóëñÿ èç áîÿ
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ Âàíè ó Ìàðèè
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ ë¸ò÷èêà
-Âëàäèìèð Âûñîöêèé - Ïåñíÿ î Çåìëå
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î ãîñïèòàëå
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î çâ¸çäàõ
+Âëàäèìèð Âûñîöêèé - Ïåñíÿ î Çåìëå
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î íîâîì âðåìåíè
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ î ïîãèáøåì ë¸ò÷èêå
 Âëàäèìèð Âûñîöêèé - Ïåñíÿ ñàìîë¸òà-èñòðåáèòåëÿ
@@ -7913,7 +7914,6 @@ winifred atwell - poor people of paris
 Âëàäèìèð Âûñîöêèé - Òàê ñëó÷èëîñü - ìóæ÷èíû óøëè
 Âëàäèìèð Âûñîöêèé - Òåìíîòà
 Âëàäèìèð Âûñîöêèé - Òîò, êîòîðûé íå ñòðåëÿë
-Âëàäèìèð Âûñîöêèé - ×¸ðíûå áóøëàòû
 Âëàäèìèð Ãîí÷àðîâ - Äàâàé ñåãîäíÿ âñòðåòèìñÿ
 Âëàäèìèð Ìàêàðîâ - Ïîñëåäíÿÿ ýëåêòðè÷êà
 Âëàäèìèð Íå÷àåâ - Â ãîðîäñêîì ñàäó
@@ -7965,8 +7965,8 @@ winifred atwell - poor people of paris
 Êëàâäèÿ Øóëüæåíêî - Òî÷íî
 Êðàñíîçíàì¸ííûé àíñàìáëü - Ïåñíÿ çàùèòíèêîâ Ìîñêâû
 Êðàñíîçíàì¸ííûé àíñàìáëü - Ñâÿùåííàÿ âîéíà
-Ë. Ãóð÷åíêî, Þ. Öåéòëèí, ñ¸ñòð - Ïåñåíêà î âëþáë¸ííîì ïàðåíüêå
 Ë. Ãóð÷åíêî, ýñòðàäíûé îðêåñòð - Ïåñåíêà î õîðîøåì íàñòðîåíèè (
+Ë. Ãóð÷åíêî, Þ. Öåéòëèí, ñ¸ñòð - Ïåñåíêà î âëþáë¸ííîì ïàðåíüêå
 Ë. Ìàðêîâè÷, Ãîñóäàðñòâåííûé ä - Òèðîëüñêàÿ ïåñíÿ
 Ë. Ìîíäóñ, ýñòðàäíûé îðêåñòð ï - Âñ¸ ðàâíî
 Ë. Ìîíäóñ, ýñòðàäíûé îðêåñòð ï - Êîëûáåëüíàÿ
