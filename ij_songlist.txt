@@ -49,6 +49,7 @@
 :wumpscut: - Churist Churist (by Brain Leisure)
 :wumpscut: - Churist Churist (by Recently Deceased)
 :wumpscut: - Clicks and Deaths
+:wumpscut: - Close Gate
 :wumpscut: - Close Gate (Untouched)
 :wumpscut: - Concrete Rage
 :wumpscut: - Corroded Breed
@@ -98,6 +99,7 @@
 :wumpscut: - Fuckit
 :wumpscut: - Funeral Diner (Red Tape version)
 :wumpscut: - God (A Tribute to Dive)
+:wumpscut: - Golgotha
 :wumpscut: - Gulag (Murmuring remix by Max Breit)
 :wumpscut: - Hang Him Higher
 :wumpscut: - Hard to Bear
@@ -195,6 +197,7 @@
 :wumpscut: - Spuuk (Now Is Over)
 :wumpscut: - Stillbirth
 :wumpscut: - Tell Me Why
+:wumpscut: - Tell Me Why (First Takes)
 :wumpscut: - Tempus Fugit
 :wumpscut: - The Boo (Freakshowmusic remix)
 :wumpscut: - The Boo (Yendri alternative remix)
@@ -274,6 +277,7 @@ Acylum - Raise Your Fist (Phosgore remix)
 Acylum - Raise Your Fist (Studio-X Hard Dance remix)
 Acylum - Raise Your Fist (Vigilante remix)
 Acylum - Rape
+Acylum - Ruthless Aggressions
 Acylum - Ruthless Aggressions (Cold Hands version)
 Acylum - SchmerzPervers
 Acylum - Torture Tactics (PreEmptive Strike 0.1 remix)
@@ -368,11 +372,13 @@ Ark Sano - The Mark Has Been Made
 Ark Sano - The Wretched
 ASC - The Rain
 Ataraxia - Etretat
+Ataraxia - Le marchand de nuages
 Atavist / Nadja - [Closed Curve]
 Atavist / Nadja - twentyfour:sixteen
 Atavist / Nadja - twentynine:thirtyseven
 Atomine Elektrine - Entrance Mirage
 Atomine Elektrine - Plasmoid Detection
+Atomine Elektrine - Voices of Trinity
 Atrium Carceri - 3 Holy Spires
 Atrium Carceri - At the End of Time
 Atrium Carceri - Atmosfear
@@ -490,6 +496,7 @@ Cyclotimia - Lament
 D.A.R.P.A. - Hi-land-lo-tech
 Das Ich - Aura (:W: remix)
 davaNtage - Is Mars Waiting? (remixed by Dismantled)
+davaNtage - Translate My Heart
 Dead Man's Hill - ... And Back to What Happened in 2012
 Dead Man's Hill - ... Of Friends and Believers
 Dead Man's Hill - Ave Satani
@@ -520,6 +527,7 @@ Der Blaue Reiter - Main Titles: The Children of Chernobyl
 Der Blaue Reiter - Regret
 Der Blaue Reiter - The Fall of Light
 Der Blaue Reiter - The Return of the Light
+Der Blutharsch - Achtung (:w: remix)
 Der Blutharsch - Hail, the Philosopher's Stone (:wumpscut: remix)
 Der Blutharsch - Iron Rain (remix by :wumpscut:)
 Des Esseintes - To Be Detuned
@@ -731,6 +739,7 @@ Henrik Nordvargr Björkk - DB // Thursday
 Henrik Nordvargr Björkk - FA // Saturday
 Henrik Nordvargr Björkk - FB // Saturday
 Henrik Nordvargr Björkk - FC // Saturday
+Henrik Nordvargr Björkk - Khon
 Henrik Nordvargr Björkk - Munus
 Henrik Nordvargr Björkk - Noma Klaw
 Henrik Nordvargr Björkk - Omega
@@ -894,6 +903,7 @@ Lustmord - COMAHON Q.Q. COMAHON
 Lustmord - Compassion
 Lustmord - Congregants Requests 1
 Lustmord - Congregants Requests 2
+Lustmord - Deep Calls to Deep
 Lustmord - Dog Star Descends
 Lustmord - Dub Awakening (Justin K. Broadrick Remix)
 Lustmord - Er Ub Us
@@ -925,6 +935,7 @@ m2 - 0.4.41
 m2 - 0.4.45
 m2 - 0.8.01
 m2 - 102.00:04:07,04
+m2 - 239.00:03:05,09
 m2 - 25.00:07:16,46
 m2 - 40.00:02:56,31
 m2 - 80.00:03:32,51
@@ -1055,6 +1066,7 @@ Muckrackers vs. White Dolls - Audio Slut Konkassor (First Flush version)
 Muhmood & Ego Ex Nihil - Surya
 Muhmood - Dream
 Muhmood - Predicted Epidemias
+My Own Private Alaska - Broken Army
 My Own Private Alaska - Ego Zero
 My Own Private Alaska - First Steps
 My Own Private Alaska - Ode to Silence
@@ -1202,6 +1214,7 @@ Nine Inch Nails - No Transmission (AATCHB Menu)
 Nine Inch Nails - No, You Don't
 Nine Inch Nails - Only (El-P mix)
 Nine Inch Nails - Only Screams
+Nine Inch Nails - Perfect Drug (Instrumental)
 Nine Inch Nails - Piggy
 Nine Inch Nails - Please
 Nine Inch Nails - Reptile
@@ -1241,6 +1254,7 @@ Noise Unit - Illicit Dreams
 Noise Unit - In Vain (12" version)
 Noise Unit - Monolith
 Noise Unit - No Soul, No Fear
+Noise Unit - Paradise (DIS)
 Noise Unit - Strapdown
 Noise Unit - Submerged
 Noise Unit - The Passage
@@ -1324,6 +1338,7 @@ Persona - Pro Patria
 Pimentola - Psychopompos
 Pimentola - Todessprache
 Pimentola - Tuoni Pauloo Tiukoin Sitein III. (remixed by Somnivore)
+Pimentola feat. Aprox. - Death Is a Secret
 Plastic Noise Experience - Kill The 6 (V2.006)
 Porcupine Defense - Reptile
 Portion Control - Chew You to Bits (version)
@@ -1416,6 +1431,7 @@ Raison Detre - Evocation
 Razed in Black - Sin
 Razed in Black - Starfuckers, Inc.
 Razorblade Smile - Head Like a Hole
+Resignation - VI
 Resignation - VII
 Robert Rich & B. Lustmord - A Point of No Return
 Robert Rich & B. Lustmord - Omnipresent Boundary
@@ -1537,6 +1553,7 @@ The Electric Hellfire Club - Heresy
 The Filmstrip - We're in This Together
 The Future Sound of London - Appendage
 The Future Sound of London - Herd Killing
+The Future Sound of London - High Tide on the Sea of Flesh
 The Future Sound of London - Slider
 The Future Sound of London - The Teeth of the Wind
 The Future Sound of London - Vit Drowning / Through Your Gills I Breathe
@@ -1610,8 +1627,8 @@ uRAn 0 - âåòåð ïóñòîøåé
 uRAn 0 - Âíóòðåííèé àä
 uRAn 0 - Âîäî¸ì Â-9
 uRAn 0 - âîðîíêà ñíà
-uRAn 0 - âñå îòòåíêè Òüìû(âàëüñ âåðñèÿ)
 uRAn 0 - Âñå îòòåíêè òüìû(âàëüñ âåðñèÿ)
+uRAn 0 - âñå îòòåíêè Òüìû(âàëüñ âåðñèÿ)
 uRAn 0 - íèæå ëèíèé ëüäà(dark wave remix)
 uRAn 0 - ïåïåë ëèñòîïàäîâ
 uRAn 0 - Ïîãðóæåíèå â ñîí
@@ -1637,6 +1654,7 @@ Velehentor - Metakosm (Ritual of Annihilation)
 Velehentor - New Sun Is Setting Over the World
 Velehentor - Otorten I
 Velehentor - Otorten IV
+Velehentor - Otorten IX
 Velehentor - Otorten VII
 Velehentor - Rehtaf Ruo (Ritual of Desecration)
 Velehentor - Stonewells of Æternity
@@ -1668,6 +1686,7 @@ Velvet Acid Christ - Exit (Diseased World)
 Velvet Acid Christ - Exquisite Stench
 Velvet Acid Christ - Faithless
 Velvet Acid Christ - Falling Snow
+Velvet Acid Christ - Fiction Friction
 Velvet Acid Christ - Fun With Drugs (Withdrawal Therapy album version)
 Velvet Acid Christ - Furless Freak
 Velvet Acid Christ - Futile (Resisted)
@@ -1694,6 +1713,7 @@ Velvet Acid Christ - Revolution 101
 Velvet Acid Christ - Satan Complex #42
 Velvet Acid Christ - Sex Disease (End of the World mix)
 Velvet Acid Christ - Side Ways Calculus
+Velvet Acid Christ - Silver
 Velvet Acid Christ - Slut
 Velvet Acid Christ - Suicide Picnic
 Velvet Acid Christ - The Art of Breaking Apart
@@ -1718,6 +1738,7 @@ Vishudha Kali - Monuments & Dust
 Vishudha Kali feat. Velehentor - Gopinath
 Vishudha Kali feat. Velehentor - Hallellujah!
 Vishudha Kali feat. Velehentor - We Got No Aim
+Vomir - Untitled
 Von Thronstahl - Northern Sons Under Southern Skies (Cover by Acylum)
 Wappenbund - Kinder des Lichtes
 Wormhole - Starfuckers inc.
@@ -1786,9 +1807,11 @@ Zoar - The Passing of a Plague
 Zoar - Wisteria
 Zoar feat. The Masai People of Lake Natron - The Coming Anarchy
 Белые флаги зажигайте медленно - 08.01.07
+Белые флаги зажигайте медленно - 15.05.07
 Белые флаги зажигайте медленно - 16.11.06
 Белые флаги зажигайте медленно - 19.08.06
 Белые флаги зажигайте медленно - Мы вооружены только тлеющими сигаретами и парой сотен стробоскопов
 Сны Моего Неба - 1.1
 Сны Моего Неба - 1.2
 Сны Моего Неба - Глубокое / Вечное / Чистое
+Сны Моего Неба - Между тысячей и одним
