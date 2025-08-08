@@ -132,6 +132,7 @@
 :wumpscut: - Lindbergh
 :wumpscut: - Line of Corpses
 :wumpscut: - Loyal to My Hate (Advent Resilience remix)
+:wumpscut: - Loyal to My Hate (Solar Fake remix)
 :wumpscut: - Moloch
 :wumpscut: - Mother (Oral Staircase)
 :wumpscut: - Muselmann
@@ -845,6 +846,7 @@ Jesu - Deflated (demo)
 Jesu - Don't Dream It
 Jesu - Heart Ache
 Jesu - Infinity, Part 2: Re-Interpretation
+Jesu - Mother Earth
 Jesu - Plans That Fade
 Jesu - Small Wonder
 Jesu - Star
@@ -978,6 +980,7 @@ Main - XI
 Main - XV
 Main - XVII
 Main - XX
+Main - XXV
 Manticle - The Proper Containment Of Offspring
 Marvargr - Apocalypse in D-Minor
 Marvargr - Crucified and Raped on the Cross
@@ -1623,6 +1626,7 @@ uRAn 0-øàìàí - ðóèíû ðàçðóøåííûõ çàìêîâ
 uRAn o - âñå îòòåíêè òüìû
 uRAn o - ãíèëîå ñåðäöå îñåíè
 V:28 feat. Coph Nia - All Lined Up
+Velehentor - 168-1
 Velehentor - a. Cremation Of Contagious Flesh
 Velehentor - b. Compound #19
 Velehentor - b. Sub Ipsum Funus
