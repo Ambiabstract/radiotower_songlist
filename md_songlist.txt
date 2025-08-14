@@ -14,6 +14,7 @@ A Perfect Circle - Freedom of Choice
 A Perfect Circle - Gimmie Gimmie Gimmie
 A Perfect Circle - Gravity
 A Perfect Circle - Imagine
+A Perfect Circle - Judith
 A Perfect Circle - Judith (Renholdër mix)
 A Perfect Circle - Let's Have a War
 A Perfect Circle - Lullaby
@@ -27,6 +28,7 @@ A Perfect Circle - Pet
 A Perfect Circle - Renholdër
 A Perfect Circle - Rose
 A Perfect Circle - Sleeping Beauty (Extended Intro)
+A Perfect Circle - The Hollow
 A Perfect Circle - The Hollow (Constantly Consuming mix)
 A Perfect Circle - The Noose
 A Perfect Circle - The Nurse Who Loved Me
@@ -83,6 +85,8 @@ AC/DC - Evil Walks
 AC/DC - Fire Your Guns
 AC/DC - First Blood
 AC/DC - Flick of the Switch
+AC/DC - Fly on the Wall
+AC/DC - For Those About to Rock (We Salute You)
 AC/DC - Get It Hot
 AC/DC - Gimme a Bullet
 AC/DC - Girls Got Rhythm
@@ -116,6 +120,7 @@ AC/DC - Jailbreak
 AC/DC - Kicked in the Teeth
 AC/DC - Kissin' Dynamite
 AC/DC - Landslide
+AC/DC - Let There Be Rock
 AC/DC - Let There Be Rock (live)
 AC/DC - Let's Get It Up
 AC/DC - Let's Make It
@@ -206,6 +211,7 @@ AC/DC - You Shook Me All Night Long
 After Forever - Transitory
 Agnostic Front - Warriors
 Alcest - Souvenirs d'un autre monde
+Alien Sex Fiend - Dead and Re-Buried
 All Shall Perish - Eradication
 All the Cold - Coldly to Heart
 Altar of Plagues - Earth: As a Womb
@@ -215,12 +221,14 @@ Amorphis - The White Swan
 An Autumn for Crippled Children - In Moonlight Blood Is Black
 Annihilator - Ambush
 Anthrax - One World
+Anthrax - What Doesnt Die
 Anti - Invocation
 Apati - I förträngda minnens sällskap
 Apocalyptica - Burn
 Apocalyptica - Dreamer
 Apocalyptica - Grace
 Apocalyptica - Helden
+Apocalyptica - I Don't Care
 Apocalyptica - I'm Not Jesus
 Apocalyptica - Ion
 Apocalyptica - Last Hope
@@ -301,6 +309,7 @@ Die Apokalyptischen Reiter - Ein Vöglein
 Die Apokalyptischen Reiter - Enslaved
 Die Apokalyptischen Reiter - Erhelle meine Seele
 Die Apokalyptischen Reiter - Eruption
+Die Apokalyptischen Reiter - Erwache
 Die Apokalyptischen Reiter - Es wird Nacht
 Die Apokalyptischen Reiter - Es wird schlimmer
 Die Apokalyptischen Reiter - Execute
@@ -316,6 +325,7 @@ Die Apokalyptischen Reiter - Gone
 Die Apokalyptischen Reiter - Hammer oder Amboss
 Die Apokalyptischen Reiter - Hate
 Die Apokalyptischen Reiter - Heavy Metal
+Die Apokalyptischen Reiter - Heimkehr
 Die Apokalyptischen Reiter - Heut' ist der Tag
 Die Apokalyptischen Reiter - Hey-Ho
 Die Apokalyptischen Reiter - Himmelskind
@@ -334,6 +344,7 @@ Die Apokalyptischen Reiter - Metal Will Never Die
 Die Apokalyptischen Reiter - Mmmh
 Die Apokalyptischen Reiter - Moral & Wahnsinn
 Die Apokalyptischen Reiter - Nach der Ebbe
+Die Apokalyptischen Reiter - No Questions
 Die Apokalyptischen Reiter - Northern Lights
 Die Apokalyptischen Reiter - Peace May Be With You
 Die Apokalyptischen Reiter - Peace of Mind
@@ -358,6 +369,7 @@ Die Apokalyptischen Reiter - Slaves of Hate
 Die Apokalyptischen Reiter - So fern
 Die Apokalyptischen Reiter - Soldaten dieser Erde
 Die Apokalyptischen Reiter - Sometimes
+Die Apokalyptischen Reiter - Terra Nola
 Die Apokalyptischen Reiter - Terra Nola (acoustic)
 Die Apokalyptischen Reiter - The Almighty
 Die Apokalyptischen Reiter - The Fire
@@ -375,6 +387,7 @@ Die Apokalyptischen Reiter - Warum?
 Die Apokalyptischen Reiter - Was bleibt bin ich
 Die Apokalyptischen Reiter - We Will Never Die
 Die Apokalyptischen Reiter - Wenn ich träume
+Die Apokalyptischen Reiter - Wir
 Die Apokalyptischen Reiter - Wir hoffen
 Die Apokalyptischen Reiter - Wir reiten
 Die Apokalyptischen Reiter - Wir sind das Licht
@@ -525,6 +538,7 @@ Fear Factory - Transgenic
 Fear Factory - Transgression
 Fear Factory - Ulceration
 Fear Factory - Undercurrent
+Fear Factory - W.O.E.
 Fear Factory - What Will Become?
 Fear Factory - Your Mistake
 Fear Factory - Zero Signal
@@ -547,10 +561,12 @@ Godflesh - Baby Blue Eyes
 Godflesh - Bigot
 Godflesh - Bittersweet
 Godflesh - Black Boned Angel
+Godflesh - Blind
 Godflesh - Body Dome Light
 Godflesh - Christbait Rising
 Godflesh - Christbait Rising (original Unreleased mix)
 Godflesh - Christbait Rising (rehearsal April 1989)
+Godflesh - Circle of Shit
 Godflesh - Circle of Shit (To the Point dub)
 Godflesh - Control Freak
 Godflesh - Crush My Soul
@@ -571,6 +587,7 @@ Godflesh - Empyreal 2
 Godflesh - Endgames
 Godflesh - Flowers
 Godflesh - For Life
+Godflesh - Frail
 Godflesh - Frail (Now Broken)
 Godflesh - Gift From Heaven
 Godflesh - Gift From Heaven (Breakbeat)
@@ -590,6 +607,7 @@ Godflesh - Kingdom Come (version)
 Godflesh - Life Is Easy
 Godflesh - Like Rats
 Godflesh - Like Rats (original Unreleased mix)
+Godflesh - Live to Lose
 Godflesh - Locust Furnace
 Godflesh - Love Is a Dog From Hell
 Godflesh - Love, Hate (Slugbaiting)
@@ -602,6 +620,7 @@ Godflesh - Newspite
 Godflesh - Paralyzed
 Godflesh - Perfect Skin Dub
 Godflesh - Predominance
+Godflesh - Pulp
 Godflesh - Pulp (original Unreleased mix)
 Godflesh - Pulp (Peel session)
 Godflesh - Pulp (rehearsal May 1989)
@@ -609,11 +628,13 @@ Godflesh - Pure
 Godflesh - Pure II
 Godflesh - Regal
 Godflesh - Slateman
+Godflesh - Slavestate
 Godflesh - Slavestate (radio Slave)
 Godflesh - Slavestate (Radioslave)
 Godflesh - Slavestate Total State Mix
 Godflesh - Someone Somewhere Scorned
 Godflesh - Spite
+Godflesh - Sterile Prophet
 Godflesh - Sterile Prophet (In dub)
 Godflesh - Sterile Prophet (version)
 Godflesh - Streetcleaner
@@ -706,6 +727,7 @@ Motörhead - Be My Baby
 Motörhead - Beer Drinkers and Hell Raisers
 Motörhead - Better Off Dead
 Motörhead - Bite the Bullet
+Motörhead - Blackheart
 Motörhead - Bomber
 Motörhead - Boogeyman
 Motörhead - Born to Lose
@@ -744,6 +766,7 @@ Motörhead - Doctor Rock
 Motörhead - Dog-Face Boy
 Motörhead - Dogs
 Motörhead - Dogs of War
+Motörhead - Don't Let Daddy Kiss Me
 Motörhead - Don't Lie to Me
 Motörhead - Don't Waste Your Time
 Motörhead - Down on Me
@@ -811,6 +834,7 @@ Motörhead - Limb From Limb
 Motörhead - Listen to Your Heart
 Motörhead - Live to Win
 Motörhead - Living in the Past
+Motörhead - Loser
 Motörhead - Lost in the Ozone
 Motörhead - Lost Johnny
 Motörhead - Lost Woman Blues
@@ -856,6 +880,7 @@ Motörhead - Paralyzed
 Motörhead - Poison
 Motörhead - Queen of the Damned
 Motörhead - R.A.M.O.N.E.S. (live)
+Motörhead - RAMONES
 Motörhead - Red Raw
 Motörhead - Remember Me, I'm Gone
 Motörhead - Ridin' With the Driver
@@ -869,6 +894,7 @@ Motörhead - Serial Killer
 Motörhead - Sex & Death
 Motörhead - Sex and Outrage
 Motörhead - Shake the World
+Motörhead - Sharpshooter
 Motörhead - Shine
 Motörhead - Shoot Out All of Your Lights
 Motörhead - Shoot You in the Back
@@ -939,6 +965,7 @@ Nile - The Language of the Shadows
 Nine Inch Nails - Closer
 Nocturnal Depression - Host
 Nuclear Assault - Sin
+Nyktalgia - Peisithanatos
 Overkill - Ironbound
 Pantera - Fucking Hostile
 Penis Flytrap - Cemetery Girl
@@ -974,6 +1001,7 @@ Rob Zombie - How to Make a Monster (Kitty's Purrrrformance mix)
 Rob Zombie - Iron Head
 Rob Zombie - Jesus Frankenstein
 Rob Zombie - Let It All Bleed Out
+Rob Zombie - Living Dead Girl
 Rob Zombie - Living Dead Girl (Subliminal Seduction mix)
 Rob Zombie - Mars Needs Women
 Rob Zombie - Meet the Creeper
@@ -1024,6 +1052,7 @@ Skinlab - Beneath the Surface
 Skinlab - Better Than Jesus
 Skinlab - Blacklist (Circle of Vengeance demo)
 Skinlab - Bloodclot
+Skinlab - Breathe
 Skinlab - Bullet With Butterfly Wings
 Skinlab - Come Get It (live 4-20)
 Skinlab - Come Get It (Steve Evetts mix)
@@ -1053,6 +1082,7 @@ Skinlab - No Sympathy (For the Devil)
 Skinlab - No Sympathy (For the Devil) (live 4-20)
 Skinlab - Noah
 Skinlab - Noah (demo)
+Skinlab - One of Us
 Skinlab - One of Us (Steve Evetts mix)
 Skinlab - Paleface
 Skinlab - Paleface (demo)
@@ -1065,9 +1095,11 @@ Skinlab - Promised (Roadrunner demo)
 Skinlab - Purify
 Skinlab - Purify (acoustic)
 Skinlab - Purify (live 4-20)
+Skinlab - Race of Hate
 Skinlab - Race of Hate (demo)
 Skinlab - Race of Hate (live) (demo)
 Skinlab - Raza Odiada (Pito Wilson)
+Skinlab - Scapegoat
 Skinlab - Scapegoat (live 4-20)
 Skinlab - Scream at the World
 Skinlab - Second Skin
