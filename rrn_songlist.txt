@@ -649,6 +649,7 @@ Frank Klepacki - Vector
 Frank Klepacki - Workmen
 Frank Sinatra - Blue Moon
 Frank Sinatra - It Was a Very Good Year
+Frank Sinatra - It's Only a Paper Moon
 Frank Sinatra - New York, New York
 Frank Sinatra - Please Be Kind
 Frank Sinatra - Three Coins in the Fountain
@@ -1237,8 +1238,8 @@ Louis Armstrong & His Orchestra - Old Man Mose
 Louis Armstrong - A Kiss to Build a Dream On
 Louis Armstrong - Big Butter and Egg Man From the West
 Louis Armstrong - Hotter Than That
-Louis Armstrong - What a Wonderful World
 Louis Armstrong - What A Wonderful World
+Louis Armstrong - What a Wonderful World
 Louis Jordan & His Tympany Five - Choo Choo Ch'boogie
 Louis Jordan and His Tympany Five - 40s: Delta Radio: Ration Blues
 Louis Jordan and His Tympany Five - Ain't That Just Like a Woman (They'll Do It Every Time)
@@ -1660,6 +1661,7 @@ Roy Rogers - Don't Fence Me In
 Rudy Gaddis - Uranium Fever
 Ruth Etting - Ten Cents a Dance
 Röyksopp - What Else Is There?
+s9948
 Saint Augustine of Hippo - Track 4
 Saliva - 800
 Sam Butera and the Witnesses - Let the Good Times Roll
@@ -1774,6 +1776,7 @@ Sting - Desert Rose
 Stomp - Ripper Sole
 Stone Sour - Get Inside
 Stone Temple Pilots - Big Empty
+Studio Arts Orchestra - Overture
 Success - Hard to Come Back
 Sun Ra and His Outer Space Arkestra - Nuclear War
 Swan's Silvertone Singers - Jesus Is God's Atomic Bomb
@@ -1862,6 +1865,7 @@ The Element - Nothing Else Matters (Elemental mix)
 The Everly Brothers - All I Have to Do Is Dream
 The Five Keys - Ling, Ting, Tong
 The Five Satins - In the Still of the Night
+The Five Satins - To the Aisle
 The Flamingos - I Only Have Eyes for You
 The Fleetwoods - (He's) The Great Imposter
 The Fleetwoods - 50s: Empire Central: Come Softly to Me
