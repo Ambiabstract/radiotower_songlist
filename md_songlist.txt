@@ -32,6 +32,7 @@ A Perfect Circle - Rose
 A Perfect Circle - Sleeping Beauty (Extended Intro)
 A Perfect Circle - The Hollow
 A Perfect Circle - The Hollow (Constantly Consuming mix)
+A Perfect Circle - The Hollow (The Bunk mix)
 A Perfect Circle - The Noose
 A Perfect Circle - The Nurse Who Loved Me
 A Perfect Circle - The Outsider
@@ -41,6 +42,7 @@ A Perfect Circle - The Package
 A Perfect Circle - Thinking of You
 A Perfect Circle - Thomas
 A Perfect Circle - Vanishing
+A Perfect Circle - Weak and Powerless
 A Perfect Circle - Weak and Powerless (Tilling My Grave mix)
 A Perfect Circle - What's Going On
 A Perfect Circle - When the Levee Breaks
@@ -62,6 +64,7 @@ AC/DC - Beating Around the Bush
 AC/DC - Bedlam in Belgium
 AC/DC - Big Balls
 AC/DC - Big Jack
+AC/DC - Black Ice
 AC/DC - Boogie Man
 AC/DC - Brain Shake
 AC/DC - Breaking the Rules
@@ -123,6 +126,7 @@ AC/DC - Jailbreak
 AC/DC - Kicked in the Teeth
 AC/DC - Kissin' Dynamite
 AC/DC - Landslide
+AC/DC - Let Me Put My Love Into You
 AC/DC - Let There Be Rock
 AC/DC - Let There Be Rock (live)
 AC/DC - Let's Get It Up
@@ -304,10 +308,12 @@ Die Apokalyptischen Reiter - Die Schönheit der Sklaverei
 Die Apokalyptischen Reiter - Die Sonne scheint
 Die Apokalyptischen Reiter - Die Wahrheit
 Die Apokalyptischen Reiter - Die Welt ist tief
+Die Apokalyptischen Reiter - Die Zeit (acoustic)
 Die Apokalyptischen Reiter - Dir gehört nichts
 Die Apokalyptischen Reiter - Dostulata
 Die Apokalyptischen Reiter - Downfall
 Die Apokalyptischen Reiter - Dr. Pest
+Die Apokalyptischen Reiter - Dragonheart
 Die Apokalyptischen Reiter - Du kleiner Wicht
 Die Apokalyptischen Reiter - Ein leichtes Mädchen
 Die Apokalyptischen Reiter - Ein Lichtlein
@@ -826,6 +832,7 @@ Motörhead - I Am the Sword
 Motörhead - I Don't Believe a Word
 Motörhead - I Got Mine
 Motörhead - I Know How to Die
+Motörhead - I Know What You Need
 Motörhead - I'll Be Your Sister
 Motörhead - I'm So Bad (Baby I Don't Care)
 Motörhead - I'm the Doctor
@@ -948,6 +955,7 @@ Motörhead - Suicide
 Motörhead - Sweet Revenge
 Motörhead - Sword of Glory
 Motörhead - Sympathy for the Devil
+Motörhead - Take the Blame
 Motörhead - Tales of Glory
 Motörhead - Talking Head
 Motörhead - Teach Them How to Bleed
@@ -1079,6 +1087,7 @@ Silencer - I Shall Lead, You Shall Follow
 Sirenia - The Other Side
 Skeletal Family - Promised Land (extended)
 Skinlab - Amphetamine Gods
+Skinlab - Anthem for a Fallen Star
 Skinlab - Anthem for a Fallen Star (radio edit)
 Skinlab - Beneath the Surface
 Skinlab - Better Than Jesus
