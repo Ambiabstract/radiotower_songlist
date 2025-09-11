@@ -563,6 +563,7 @@ Eat Static - Area 51 (Nucleonic mix)
 Ed Bogas - Angie's Theme
 Ed Bogas - Bertha's Theme
 Ed Bogas - Bo Diddley
+Ed Bogas - Duke's Theme
 Ed Bogas - Fritz the Cat
 Ed Bogas - Mamblues
 Ed Bogas - The Synagogue
@@ -1308,8 +1309,8 @@ Mark Morgan - Acolytes of the New God
 Mark Morgan - All-Clear Signal
 Mark Morgan - Arroyo
 Mark Morgan - Beyond the Canyon
-Mark Morgan - Biggest Little City in the World
 Mark Morgan - Biggest Little City In The World
+Mark Morgan - Biggest Little City in the World
 Mark Morgan - California Revisited
 Mark Morgan - Car
 Mark Morgan - City of Lost Angels
