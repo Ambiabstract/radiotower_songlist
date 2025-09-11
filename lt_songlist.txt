@@ -80,19 +80,19 @@ Amy Sky - Let It Snow
 Amy Winehouse - Back To Black
 Amy Winehouse - You Know I'm No Good
 Andrews Sisters - A Jitterburg lullaby
-Andrews Sisters - Ac-Cent-Tchu-Ate the Positive
 Andrews Sisters - Ac-Cent-Tchu-Ate The Positive
+Andrews Sisters - Ac-Cent-Tchu-Ate the Positive
 Andrews Sisters - Beat me daddy eight to the bar
 Andrews Sisters - Beat Me Daddy, Eight to the Ba
 Andrews Sisters - Beat Me Daddy, Eight To The Bar
 Andrews Sisters - Beat Me Daddy,Eight To The Bar
-Andrews Sisters - Beer Barrel Polka
 Andrews Sisters - Beer barrel polka
+Andrews Sisters - Beer Barrel Polka
 Andrews Sisters - Begin The Beguine
 Andrews Sisters - Bei Mir Bist Du Schoen
 Andrews Sisters - Bei Mir Bist Du Schoen (Means You're Grand)
-Andrews Sisters - Bei Mir Bist Du Schon
 Andrews Sisters - Bei mir bist du schon
+Andrews Sisters - Bei Mir Bist Du Schon
 Andrews Sisters - Billy Boy
 Andrews Sisters - Boogie Woogie Bugle Boy
 Andrews Sisters - Bounce Me Brother with A Solid
@@ -103,9 +103,9 @@ Andrews Sisters - Ciribiribin
 Andrews Sisters - Corns for my country
 Andrews Sisters - Daddy
 Andrews Sisters - Don't Fence Me In
-Andrews Sisters - Don't Sit Under the Apple Tree
-Andrews Sisters - Don't sit under the apple tree
 Andrews Sisters - Don't Sit Under The Apple Tree
+Andrews Sisters - Don't sit under the apple tree
+Andrews Sisters - Don't Sit Under the Apple Tree
 Andrews Sisters - Don't Sit Under The Apple Tree (With Anyone Else But Me)
 Andrews Sisters - Down By The O-Hi-O
 Andrews Sisters - Down by the Ohio
@@ -121,8 +121,8 @@ Andrews Sisters - I Can Dream, Can't I?
 Andrews Sisters - I Love You Much Too Much
 Andrews Sisters - I Wanna Be Loved
 Andrews Sisters - I Want My Mama
-Andrews Sisters - I'll Be With You In Apple Blossom Time
 Andrews Sisters - I'll be with you in apple blossom time
+Andrews Sisters - I'll Be With You In Apple Blossom Time
 Andrews Sisters - I've Got A Guy In Kalamazoo
 Andrews Sisters - In the mood
 Andrews Sisters - Is You Is,Or Is You Ain't, My Baby
@@ -131,8 +131,8 @@ Andrews Sisters - Just A Simple Melody
 Andrews Sisters - Let's Have Another One
 Andrews Sisters - Money is the Root of All Evil
 Andrews Sisters - Near You
-Andrews Sisters - Nice work if you can get it
 Andrews Sisters - Nice Work If You Can Get It
+Andrews Sisters - Nice work if you can get it
 Andrews Sisters - Oh Johnny Oh Johnny Oh
 Andrews Sisters - Oh Mama
 Andrews Sisters - Oh! Mama
@@ -157,16 +157,16 @@ Andrews Sisters - Sing, sing, sing
 Andrews Sisters - Sonny Boy
 Andrews Sisters - South American way
 Andrews Sisters - Straighten Up And Fly Right
-Andrews Sisters - Straighten up and fly right
 Andrews Sisters - Straighten Up and Fly Right
+Andrews Sisters - Straighten up and fly right
 Andrews Sisters - Strip polka
 Andrews Sisters - Strip Polka (Take It Off! Take It Off!)
 Andrews Sisters - The Beer Barrel Polka
 Andrews Sisters - The Cock-eyed Mayor Of Kaunakakai
 Andrews Sisters - The Ferryboat Serenade
 Andrews Sisters - The Jumpin' Jive
-Andrews Sisters - The Woodpecker Song
 Andrews Sisters - The woodpecker song
+Andrews Sisters - The Woodpecker Song
 Andrews Sisters - Ti pi tin
 Andrews Sisters - Ti-Pi-Tin
 Andrews Sisters - Tu-Li Tulip time
@@ -862,6 +862,7 @@ Bobby Darin - Mack The Knife
 Bobby Day - Rockin' Robin
 Bobby Day - The Bluebird, The Buzzard & The Oriole
 Bobby Edwards - You're The Reason
+Bobby Freeman - Betty Lou Got A New Pair Of Shoes
 Bobby Freeman - Do You Wanna Dance
 Bobby Fuller Four - I Fought The Law
 Bobby Gregg & His Friends - The Jam Part 1
@@ -1437,6 +1438,7 @@ Count Basie - Fantail
 Count Basie - Fare Thee Honey, Fare Thee Well (1st take)
 Count Basie - Fare Thee Honey, Fare Thee Well (2nd take)
 Count Basie - Fiesta In Blue
+Count Basie - Flight Of The Foo Birds
 Count Basie - Flute Juice
 Count Basie - Futile Frustration
 Count Basie - Georgiana (w/Jimmy Rushing)
@@ -1592,8 +1594,8 @@ Count Basie - Sure Thing
 Count Basie - Sweets
 Count Basie - Swingin' At Newport
 Count Basie - Swingin' At The Daisy Chain
-Count Basie - Swingin' The Blues
 Count Basie - Swingin' the Blues
+Count Basie - Swingin' The Blues
 Count Basie - Swinging at the Daisy Chain
 Count Basie - Swinging The Blues
 Count Basie - Take Me Back Baby
@@ -1609,8 +1611,8 @@ Count Basie - The Blues I Like to Hear
 Count Basie - The Comeback
 Count Basie - The Dirty Dozens
 Count Basie - The Fives
-Count Basie - The Glory of Love
 Count Basie - The Glory Of Love
+Count Basie - The Glory of Love
 Count Basie - The Golden Bullet
 Count Basie - The Jungle King
 Count Basie - The Kid From Red Bank
@@ -1630,8 +1632,8 @@ Count Basie - Time Out
 Count Basie - Too Close For Comfort
 Count Basie - Tootie
 Count Basie - Topsy
-Count Basie - Trey of Hearts
 Count Basie - Trey Of Hearts
+Count Basie - Trey of Hearts
 Count Basie - Turnabout
 Count Basie - Twelfth Street Rag
 Count Basie - Two For The Blues
@@ -1873,6 +1875,7 @@ Duke Ellington - Blue Skies
 Duke Ellington - Carnegie Blues
 Duke Ellington - Chelsea Boogie
 Duke Ellington - Choo Choo (Gotta Hurry Home)
+Duke Ellington - Do Nothin' Till You Hear From Me
 Duke Ellington - East St. Louis Toodle-Oo
 Duke Ellington - Georgia Grind
 Duke Ellington - Hop Head
@@ -2049,10 +2052,10 @@ Elvis Presley - As long as I have you
 Elvis Presley - Beach boy blues
 Elvis Presley - Big boots
 Elvis Presley - Blue moon
-Elvis Presley - Blue Suede Shoes
 Elvis Presley - Blue suede shoes
-Elvis Presley - Can't Help Falling In Love
+Elvis Presley - Blue Suede Shoes
 Elvis Presley - Can't help falling in love
+Elvis Presley - Can't Help Falling In Love
 Elvis Presley - Cotton Candy Land
 Elvis Presley - Crawfish
 Elvis Presley - Danny
@@ -2283,6 +2286,7 @@ Fletcher Henderson - Stealin' Apples
 Fletcher Henderson - Swamp BLues
 Fletcher Henderson - The St. Louis Blues
 Fletcher Henderson - The Wang-Wang Blues
+Fletcher Henderson - Until Today
 Fletcher Henderson - Variety Stomp
 Fletcher Henderson - Wabash Blues
 Fletcher Henderson - Whiteman Stomp
@@ -2428,6 +2432,7 @@ Frank Sinatra - To Love And Be Loved
 Frank Sinatra - Too Close For Comfort
 Frank Sinatra - Violets For Your Furs
 Frank Sinatra - Wait Till You See Her
+Frank Sinatra - What Is This Thing Called Love
 Frank Sinatra - What's New?
 Frank Sinatra - When Your Lover Has Gone
 Frank Sinatra - Where Or When
@@ -2712,6 +2717,7 @@ Hank Williams - I Don't Care (If Tomorrow Never Comes)
 Hank Williams - I Dreamed About Mama Last Night (Luke The Drifter)
 Hank Williams - I Heard My Mother Praying For Me
 Hank Williams - I Heard You Crying In Your Sleep (Last Night)
+Hank Williams - I Just Don't Like This Kind Of Livin'
 Hank Williams - I Just Don't Like This Kind Of Livin' (The Afrs Shows)
 Hank Williams - I Saw The Light
 Hank Williams - I Told A Lie To My Heart
@@ -3128,6 +3134,7 @@ James Moody - Bootsie
 James Moody - Faster James
 James Moody - I Got The Blues
 James Moody - I'm Gone
+James Moody - It Might As Well Be Spring (Take 1)
 James Moody - It Might As Well Be Spring (Take 2)
 James Moody - Jack Raggs
 James Moody - Keepin' Up With Jonesy
@@ -3658,8 +3665,8 @@ Larry Williams - LAWDY MISS CLAUDY
 Larry Williams - Short Fat Fannie
 Larry Williams - SHORT FAT FANNY
 LaVern Baker - I CRIED A TEAR 1958
-Lavern Baker - Jim Dandy
 LaVern Baker - Jim Dandy
+Lavern Baker - Jim Dandy
 LaVern Baker - Saved
 LaVern Baker - TWEEDLE DEE 1955
 Leadbelly - Black Snake Moan
@@ -3857,8 +3864,8 @@ Lionel Hampton - It Don't Mean A Thing
 Lionel Hampton - Jivin' With Jarvis
 Lionel Hampton - Memories Of You
 Lionel Hampton - Muskrat Ramble
-Lionel Hampton - On The Sunny Side Of The Street
 Lionel Hampton - On the Sunny Side of the Street
+Lionel Hampton - On The Sunny Side Of The Street
 Lionel Hampton - One Sweet Letter From You
 Lionel Hampton - Pinetop's Boogie Woogie
 Lionel Hampton - Playboy
@@ -4889,14 +4896,14 @@ NAT KING COLE TRIO - Barcarolle
 NAT KING COLE TRIO - Beautiful Moons Ago
 NAT KING COLE TRIO - Blame it on my youth
 NAT KING COLE TRIO - Blue and sentimental
-Nat King Cole Trio - Blues in My Shower
 NAT KING COLE TRIO - Blues in my shower
+Nat King Cole Trio - Blues in My Shower
 NAT KING COLE TRIO - Body And Soul
 NAT KING COLE TRIO - Bop-kick
 NAT KING COLE TRIO - Boulevard of broken dreams
 NAT KING COLE TRIO - Bring Another Drink
-NAT KING COLE TRIO - But She's My Buddy's Chick
 NAT KING COLE TRIO - But she's my buddy's chick
+NAT KING COLE TRIO - But She's My Buddy's Chick
 NAT KING COLE TRIO - But She's My Buddy's Chick (alt)
 NAT KING COLE TRIO - Calico Sal
 NAT KING COLE TRIO - Calypso blues
@@ -4915,8 +4922,8 @@ NAT KING COLE TRIO - Could-'Ja
 NAT KING COLE TRIO - Could-'Ja (alt)
 NAT KING COLE TRIO - Destination moon
 NAT KING COLE TRIO - Didn't I tell you so-
-NAT KING COLE TRIO - Don't blame me
 NAT KING COLE TRIO - Don't Blame Me
+NAT KING COLE TRIO - Don't blame me
 NAT KING COLE TRIO - Don't cry, cry baby
 NAT KING COLE TRIO - Don't hurt the girl
 NAT KING COLE TRIO - Don't let it go to your head
@@ -4948,8 +4955,8 @@ NAT KING COLE TRIO - Got A Penny
 NAT KING COLE TRIO - Harmony
 NAT KING COLE TRIO - Homeward Bound
 NAT KING COLE TRIO - Homeward bound
-NAT KING COLE TRIO - Honeysuckle Rose
 NAT KING COLE TRIO - Honeysuckle rose
+NAT KING COLE TRIO - Honeysuckle Rose
 NAT KING COLE TRIO - How Deep Is The Ocean
 NAT KING COLE TRIO - How Does It Feel
 NAT KING COLE TRIO - How Does It Feel-
@@ -5006,8 +5013,8 @@ NAT KING COLE TRIO - In a mellow tone
 NAT KING COLE TRIO - In the cool of evening
 NAT KING COLE TRIO - It could happen to you
 NAT KING COLE TRIO - It Is Better To Be By Yourself
-NAT KING COLE TRIO - It Only Happens Once
 NAT KING COLE TRIO - It only happens once
+NAT KING COLE TRIO - It Only Happens Once
 NAT KING COLE TRIO - It was so good while it lasted
 NAT KING COLE TRIO - It's kind of lonesome out tonight
 NAT KING COLE TRIO - It's like taking candy from a baby
@@ -5060,6 +5067,7 @@ NAT KING COLE TRIO - Oh, But I Do
 NAT KING COLE TRIO - Ohh kickeroonie
 NAT KING COLE TRIO - Old MacDonald had a farm
 NAT KING COLE TRIO - On The Sunny Side Of The Street
+NAT KING COLE TRIO - Once in a blue moon
 NAT KING COLE TRIO - One O'Clock Jump
 NAT KING COLE TRIO - Ooh, kickeroonie
 NAT KING COLE TRIO - Orange colored sky
@@ -5087,8 +5095,8 @@ NAT KING COLE TRIO - Smoke gets in your eyes
 NAT KING COLE TRIO - Somebody loves me
 NAT KING COLE TRIO - Somebody Loves Me
 NAT KING COLE TRIO - Sometimes I'm happy
-NAT KING COLE TRIO - Straighten Up And Fly Right
 NAT KING COLE TRIO - Straighten up and fly right
+NAT KING COLE TRIO - Straighten Up And Fly Right
 NAT KING COLE TRIO - Summer is a comin' in
 NAT KING COLE TRIO - Sweet Georgia Borwn
 NAT KING COLE TRIO - Sweet Lorraine
@@ -5124,8 +5132,8 @@ NAT KING COLE TRIO - Time out for tears
 NAT KING COLE TRIO - Tiny's Exercise
 NAT KING COLE TRIO - To A Wild Rose
 NAT KING COLE TRIO - To A Wild Rose (alt)
-NAT KING COLE TRIO - Too marvelous for words
 NAT KING COLE TRIO - Too Marvelous For Words
+NAT KING COLE TRIO - Too marvelous for words
 NAT KING COLE TRIO - Top hat bop
 NAT KING COLE TRIO - Twisted stockings
 NAT KING COLE TRIO - Two loves have I
@@ -5469,8 +5477,8 @@ Peggy Lee - The Man I Love
 Peggy Lee - The party's over
 Peggy Lee - The second time around
 Peggy Lee - The Very Thought of You
-Peggy Lee - Them There Eyes
 Peggy Lee - Them there eyes
+Peggy Lee - Them There Eyes
 Peggy Lee - Then Was Then
 Peggy Lee - There'll Be Some Changes Made
 Peggy Lee - THESE FOOLISH THINGS
@@ -5679,6 +5687,7 @@ Ray Charles - Let It Be
 Ray Charles - LET ME HEAR YOU CALL MY NAME
 Ray Charles - Let The Good Times Roll
 Ray Charles - Let Your Love Flow
+Ray Charles - Let's Go Get Stoned
 Ray Charles - Lift Every Voice And Sing
 Ray Charles - Light Out Of Darkness
 Ray Charles - Little Hotel Room
@@ -5686,6 +5695,7 @@ Ray Charles - Lonely Avenue
 Ray Charles - Losing Hand
 Ray Charles - Love Is Here To Stay
 Ray Charles - Love's Gonna Live Here (Swingova)
+Ray Charles - Makin' Whoopee
 Ray Charles - Makin' Whoopee (Live)
 Ray Charles - Making Believe
 Ray Charles - Margie
@@ -6058,6 +6068,7 @@ Sarah Vaughan - In A Sentimental Mood
 Sarah Vaughan - Invitation
 Sarah Vaughan - It Might As Well Be Spring
 Sarah Vaughan - It's Got To Be Love
+Sarah Vaughan - Just A Gigolo
 Sarah Vaughan - Just Friends
 Sarah Vaughan - Just Married Today
 Sarah Vaughan - Just One Of Those Things
@@ -6176,8 +6187,8 @@ Shorty Rogers - Morpo
 Shorty Rogers - Moton Swing
 Shorty Rogers - My Heart Stood Still
 Shorty Rogers - Not Really The Blues
-Shorty Rogers - Over the Rainbow
 Shorty Rogers - Over The Rainbow
+Shorty Rogers - Over the Rainbow
 Shorty Rogers - Pirouette
 Shorty Rogers - Popo
 Shorty Rogers - Sam And the Lady
@@ -6616,9 +6627,9 @@ The Andrews Sisters - Shoo, Shoo Baby
 The Andrews Sisters - Sing a Tropical Song
 The Andrews Sisters - Sing, sing, sing
 The Andrews Sisters - South American Way
-The Andrews Sisters - Straighten up and Fly Right
-The Andrews Sisters - Straighten Up And Fly Right
 The Andrews Sisters - Straighten up and fly right
+The Andrews Sisters - Straighten Up And Fly Right
+The Andrews Sisters - Straighten up and Fly Right
 The Andrews Sisters - Strip polka
 The Andrews Sisters - The Blonde Sailor
 The Andrews Sisters - The Blue Tail Fly
@@ -7027,8 +7038,8 @@ The Mills Brothers - Dedicated to You [Ella Fitzgerald]
 The Mills Brothers - Diga Diga Doo
 The Mills Brothers - Dinah
 The Mills Brothers - Dirt Dishin' Daisy
-The Mills Brothers - Doin' the New Low Down
 The Mills Brothers - Doin' The New Low Down
+The Mills Brothers - Doin' the New Low Down
 The Mills Brothers - Don't Be Afraid to Tell Your Mother
 The Mills Brothers - Don't Be Afraid To Tell Your Mother
 The Mills Brothers - Elder Eatmore's Sermon on Generosity
@@ -7063,8 +7074,8 @@ The Mills Brothers - Loveless Love
 The Mills Brothers - Lulu's Back In Town
 The Mills Brothers - Lulu's Back in Town
 The Mills Brothers - Miss Otis Regrets
-The Mills Brothers - Moanin' for You
 The Mills Brothers - Moanin' For You
+The Mills Brothers - Moanin' for You
 The Mills Brothers - Money in My Pockets
 The Mills Brothers - My Gal Sal
 The Mills Brothers - My Honey's Lovin' Arms
@@ -7080,8 +7091,8 @@ The Mills Brothers - Old Man of the Mountain
 The Mills Brothers - Old Man on the Mountain
 The Mills Brothers - Organ Grinder's Swing
 The Mills Brothers - Out for No Good
-The Mills Brothers - Pennies From Heaven
 The Mills Brothers - Pennies from Heaven
+The Mills Brothers - Pennies From Heaven
 The Mills Brothers - Put on Your Old Grey Bonnet
 The Mills Brothers - Rhythm Saved the World
 The Mills Brothers - Rockin' Chair
@@ -7090,14 +7101,14 @@ The Mills Brothers - Shine
 The Mills Brothers - Shoe Shine Boy
 The Mills Brothers - Shuffle Your Feet, Bandanna Babies
 The Mills Brothers - Side Kick Joe
-The Mills Brothers - Since We Fell Out of Love
 The Mills Brothers - Since We Fell Out Of Love
+The Mills Brothers - Since We Fell Out of Love
 The Mills Brothers - Sixty Seconds Got Together
 The Mills Brothers - Sleepy Head
 The Mills Brothers - Smoke Rings
 The Mills Brothers - Solitude
-The Mills Brothers - Some of These Days
 The Mills Brothers - Some Of These Days
+The Mills Brothers - Some of These Days
 The Mills Brothers - Song Is Ended
 The Mills Brothers - St. Louis Blues
 The Mills Brothers - Sweet and Slow
@@ -7105,10 +7116,10 @@ The Mills Brothers - Sweet Georgia Brown
 The Mills Brothers - Sweet Lucy Brown
 The Mills Brothers - Sweet Sue, Just You
 The Mills Brothers - Sweeter Than Sugar
-The Mills Brothers - Swing for Sale
 The Mills Brothers - Swing For Sale
-The Mills Brothers - Swing Is The Thing
+The Mills Brothers - Swing for Sale
 The Mills Brothers - Swing Is the Thing
+The Mills Brothers - Swing Is The Thing
 The Mills Brothers - Swing It, Sister
 The Mills Brothers - That's Georgia
 The Mills Brothers - There Goes My Headache
@@ -7273,6 +7284,7 @@ The Temptations - My Girl
 The Temptations - Paradise
 the three Browns - LAMP LIGHTER
 the Three Browns - RED SAILS IN THE SUNSET
+the Three Browns - SCARLET RIBONS
 the Three Browns - THE THREE BELLS
 The Three Friends - Dedicated (To The Songs I Love)
 the Three suns - TWILIGHT TIME
@@ -7524,8 +7536,8 @@ The Ventures - Pedal Pusher
 The Ventures - Pedal Pusher (live)
 The Ventures - Penetration
 The Ventures - Percolator
-The Ventures - PERFIDIA
 The Ventures - Perfidia
+The Ventures - PERFIDIA
 The Ventures - Pipeline
 The Ventures - Pipeline (Accompaniment Guitar Solo; Normal Speed)
 The Ventures - Pipeline (Accompaniment Guitar Solo; Slow)
@@ -7665,8 +7677,8 @@ The Ventures - Wabash Cannonball
 The Ventures - Wack Wack
 The Ventures - Wailin'
 The Ventures - Wakareta-hito-to
-The Ventures - Walk Don't Run
 the Ventures - WALK DON'T RUN
+The Ventures - Walk Don't Run
 The Ventures - Walk Don't Run '64
 The Ventures - Walk Right Back
 The Ventures - Walk Right In
