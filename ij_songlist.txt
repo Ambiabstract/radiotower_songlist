@@ -48,6 +48,7 @@
 :wumpscut: - Adonai, My Lord
 :wumpscut: - Adonai, My Lord (Angelspit remix)
 :wumpscut: - Adonai, My Lord (Yendri club mix)
+:wumpscut: - Against Decay
 :wumpscut: - Against Decay (No Better Safe Guard)
 :wumpscut: - Ain't It Mad Yet
 :wumpscut: - Ain't It Mad, Yet (B-mix)
@@ -91,8 +92,8 @@
 :wumpscut: - Broken
 :wumpscut: - Bunkertor 7 (German Texture)
 :wumpscut: - Bunkertor 7 (remix by :W:)
-:wumpscut: - Bunkertor 7 (Reprised)
 :wumpscut: - Bunkertor 7 (reprised)
+:wumpscut: - Bunkertor 7 (Reprised)
 :wumpscut: - C. B. T.
 :wumpscut: - Capital Punishment
 :wumpscut: - Capitolo finale
@@ -108,8 +109,8 @@
 :wumpscut: - Clinics
 :wumpscut: - Close Gate
 :wumpscut: - Close Gate (Untouched)
-:wumpscut: - Cold Cell (Remastered)
 :wumpscut: - Cold Cell (remastered)
+:wumpscut: - Cold Cell (Remastered)
 :wumpscut: - Concrete Rage
 :wumpscut: - Corroded Breed
 :wumpscut: - Corroded Breed (remix by Haujobb)
@@ -142,6 +143,7 @@
 :wumpscut: - Deliverance (Reminescing mix)
 :wumpscut: - Deliverance (Soldatengrab remix)
 :wumpscut: - Die in Winter
+:wumpscut: - Die in Winter (extended remix)
 :wumpscut: - Die in Winter (Haujobb edit 2)
 :wumpscut: - Die in Winter (original version)
 :wumpscut: - Die in Winter (Seasons Change: Springtime)
@@ -167,8 +169,8 @@
 :wumpscut: - Dried Blood (Nystagmacut)
 :wumpscut: - Dried Blood (Radical Cut)
 :wumpscut: - Dried Blood of Gomorrha (extended)
-:wumpscut: - Dried Blood of Gomorrha (Radical cut)
 :wumpscut: - Dried Blood of Gomorrha (Radical Cut)
+:wumpscut: - Dried Blood of Gomorrha (Radical cut)
 :wumpscut: - Dudek
 :wumpscut: - Dudek (Brain Leisure mix)
 :wumpscut: - Dying Culture
@@ -232,8 +234,8 @@
 :wumpscut: - In the Night (Enhanced Vision)
 :wumpscut: - In the Night (Full Range Track)
 :wumpscut: - In the Night (Haujobb remix)
-:wumpscut: - In the Night (Remastered)
 :wumpscut: - In the Night (remastered)
+:wumpscut: - In the Night (Remastered)
 :wumpscut: - In the Peace of Night
 :wumpscut: - Irak 1
 :wumpscut: - Irak 1 (first take)
@@ -246,8 +248,8 @@
 :wumpscut: - Is It You (Scintillating mix)
 :wumpscut: - Jesus Antichristus
 :wumpscut: - Jesus Antichristus (Advent Resilience remix)
-:wumpscut: - Jesus Antichristus (edit by :w:)
 :wumpscut: - Jesus Antichristus (edit by :W:)
+:wumpscut: - Jesus Antichristus (edit by :w:)
 :wumpscut: - Jesus Antichristus (edit by :wumpscut:)
 :wumpscut: - Jesus Antichristus (edit)
 :wumpscut: - Jesus Antichristus (Feindflug remix)
@@ -257,6 +259,7 @@
 :wumpscut: - Jetzt
 :wumpscut: - Jiddisch Is a Zwillink (PTT remix)
 :wumpscut: - Just a Tenderness
+:wumpscut: - Just a Tenderness (album version)
 :wumpscut: - Just a Tenderness (by Cynical Front)
 :wumpscut: - Just a Tenderness (f/a/v remix)
 :wumpscut: - Just a Tenderness (Nersoton remix)
@@ -354,8 +357,8 @@
 :wumpscut: - Rumpelkammer
 :wumpscut: - Run Like Hell, Part 1
 :wumpscut: - Run Like Hell, Part 2
-:wumpscut: - Running Killer (Remastered)
 :wumpscut: - Running Killer (remastered)
+:wumpscut: - Running Killer (Remastered)
 :wumpscut: - Rush
 :wumpscut: - Rush (by Dismantled)
 :wumpscut: - Rush (by Suicide Commando)
@@ -367,8 +370,8 @@
 :wumpscut: - Sag es jetzt (instrumental)
 :wumpscut: - Sag warum
 :wumpscut: - Scavenger
-:wumpscut: - Schaltet den Schmerz ab
 :wumpscut: - Schaltet den Schmerz Ab
+:wumpscut: - Schaltet den Schmerz ab
 :wumpscut: - Schlechter Mensch
 :wumpscut: - Schrekk & Grauss
 :wumpscut: - Schrekk & Grauss (Air Forge remix)
@@ -377,6 +380,7 @@
 :wumpscut: - Schrekk & Grauss (Cynical Front remix)
 :wumpscut: - Schrekk & Grauss (Splitter remix)
 :wumpscut: - Schrekk & Grauss (Unsinn remix)
+:wumpscut: - Schrekk & Grauss (Wumpscut Ear Bleed)
 :wumpscut: - Schwarzer Tod
 :wumpscut: - Schäbiger Lump
 :wumpscut: - Schäbiger Lump (ASL remix)
@@ -640,6 +644,7 @@ Airmen of Note - Silver 'n Blues
 Airmen of Note - The Brazilian Factor
 Airmen of Note - The Poet
 Airmen of Note - Theme
+Airmen of Note - This Is All I Ask
 Airmen of Note - Two Bass Error
 Airmen of Note - Yesterday
 Alan Lamb - Fragmented (Lustmord remix)
@@ -649,6 +654,7 @@ All Hail the Transcending Ghost - [untitled]
 All Hail the Transcending Ghost - Intornator
 All Hail the Transcending Ghost - We Break the Seals of Scattered Hopes
 All My Faith Lost ... - Absence
+All My Faith Lost ... - All Day I Hear Your Voice
 All My Faith Lost ... - An Early Fright
 All My Faith Lost ... - Angelike
 All My Faith Lost ... - Autumn
@@ -748,14 +754,15 @@ Arcana - ...for My Love
 Arcana - ...the Last Embrace
 Arcana - Aeterna doloris
 Arcana - Angel of Sorrow
-Arcana - Cantar de Procella
 Arcana - Cantar de procella
+Arcana - Cantar de Procella
 Arcana - Closure
 Arcana - Dark Age of Reason
 Arcana - Diadema
 Arcana - Eclipse of the Soul
 Arcana - Emperor of the Sun
 Arcana - Eternal Sleep
+Arcana - God of the Winds
 Arcana - Hymn of Absolute Deceit
 Arcana - Icons
 Arcana - La salva de profundis
@@ -768,6 +775,7 @@ Arcana - Our God Weeps
 Arcana - Repentance
 Arcana - Season of Thought
 Arcana - Serenity
+Arcana - Song of the Dead Sun
 Arcana - Sono la salva
 Arcana - Source of Light
 Arcana - Spirits of the Past
@@ -791,6 +799,7 @@ Archon Satani - Session III: Untitled
 Archon Satani - Session IX & X: Untitled
 Archon Satani - Session V: Exceeding Insalubrity
 Archon Satani - Session VI: Untitled
+Archon Satani - Session VII: Untitled
 Archon Satani - Session VIII: Heavenly Inoculation, Part II
 Archon Satani - Voices of Insanity
 Arditi / Toroidh - [untitled]
@@ -815,6 +824,7 @@ ArThRoPod - Biologic Death
 ASC - The Rain
 Asche - Wasted Hedon
 Asylum Party - Pictures
+Ataraxia - A votre guise !
 Ataraxia - Bienvenue à L'Enfer !
 Ataraxia - Etretat
 Ataraxia - Incabala
@@ -822,6 +832,7 @@ Ataraxia - La reine des hommes aux yeux verts
 Ataraxia - Le marchand de nuages
 Ataraxia - N'importe où !
 Ataraxia - Petite chanson lycanthrope
+Atavist - Certitude
 Atavist / Nadja - [Closed Curve]
 Atavist / Nadja - twentyfour:sixteen
 Atavist / Nadja - twentynine:thirtyseven
@@ -1040,8 +1051,8 @@ Brighter Death Now - Hipp Hipp Hurray (I Will Kill You Today)
 Brighter Death Now - I Can't Get No Sadistfaction (Oh, How I Try)
 Brighter Death Now - I Hate You
 Brighter Death Now - I Wanna Die
-Brighter Death Now - I Wish I Was A Little Girl
 Brighter Death Now - I Wish I Was a Little Girl
+Brighter Death Now - I Wish I Was A Little Girl
 Brighter Death Now - Impasse
 Brighter Death Now - In Circles (Psycho Circles)
 Brighter Death Now - In Formalin
@@ -1083,6 +1094,7 @@ Brighter Death Now - VI
 Brighter Death Now - VII
 Brighter Death Now - VIII
 Brighter Death Now - WAR
+Brighter Death Now - Washing Day
 Brighter Death Now - While You Sleep
 Brighter Death Now - Wilful
 Brighter Death Now - You Got Sperm on Your Jacket (I Know 'Caus It's Mine)
@@ -1096,6 +1108,7 @@ Cheerleader69 - King In Orange Prologue
 Cheerleader69 vs. Sonic Area - We'll Never Die
 Chrysalide - Black Bloc
 Chrysalide - Bollocks Stew
+Chrysalide - Generation Screen
 Chrysalide - Lifestyle (Remix By Amnesy)
 Chrysalide - March of Sheeps
 Chrysalide - Noize Guerilla
@@ -1125,6 +1138,7 @@ ConSono - Gear Wheeling
 ConSono - Insect Dawn
 ConSono - Nefarior
 ConSono - Onus Uteri
+ConSono - Remembrance
 ConSono - Satans Flute
 ConSono - Send Your Dreams
 ConSono - Unspeakable Life
@@ -1240,6 +1254,7 @@ Decadence - Sperm & Honey
 Decadence - With a Dream & A Gun
 Deep Frozen Lands - Mirage in ice desert
 Defekt - Intellekt: Kollaps
+Der Blaue Reiter - 1st of May
 Der Blaue Reiter - Abyssus abyssum vocat in voce
 Der Blaue Reiter - Ascension Part I
 Der Blaue Reiter - Ascension Part II
@@ -1322,6 +1337,7 @@ Desiderii Marginis - Why Are You Fearful?
 Desiderii Marginis - Worlds Apart
 Deutsch Amerikanische Freundschaft - Der Sheriff (Anti-Amerikanisches Lied)
 Deutsch Nepal - Angel Impact
+Deutsch Nepal - At the Court of Saba
 Deutsch Nepal - Auto Gamic Drummers
 Deutsch Nepal - Benevolence (Of the Fittest God)
 Deutsch Nepal - Benevolence-92
@@ -1401,6 +1417,7 @@ Eldar - Strange Madness
 Eldar - The Courtyard of Fools
 Eldar - The Grave of Mankind
 Eldar - The Insurgents Shot
+Eldar - The Powder Brought Sludge
 Eldar - The Sleep of Reason Create Monsters
 Eldar - The Truth, The History, The Time
 Eldar - Una Madre Reptil en el Nido
@@ -1468,6 +1485,7 @@ Eurocide - Im Lager Des Feindes
 Eurocide - In The Darkness
 Eurocide - Inside Our Fate
 Eurocide - Jenseits Der Leidenschaft (Buses Mudchen Mix)
+Eurocide - Lamentia
 Eurocide - Media Front
 Eurocide - Nod
 Eurocide - Patriot(ic) ACT (FBI, CIA, ...)
@@ -1496,6 +1514,7 @@ F.Y.D. - The Truth
 F.Y.D. - Things Never Stop Before They Reach Their Own Limit
 F.Y.D. - Useless
 F.Y.D. - Within
+Factor Agression - Terrorist
 FGFC820 - Killing Fields (remix by Acylum)
 Fire + Ice - Call Up the Four Winds
 First Law - Group Dynamics (Requiem for the Common Sense)
@@ -1558,6 +1577,7 @@ Folkstorm - Intro 2
 Folkstorm - IV
 Folkstorm - Leben Ohne Dasein
 Folkstorm - Legija
+Folkstorm - Lowlife
 Folkstorm - M. H. S. M.
 Folkstorm - No Name 2
 Folkstorm - Noisemaker (live backtrack)
@@ -1705,6 +1725,7 @@ Godspeed You! Black Emperor - 09-15-00, Part 1
 Godspeed You! Black Emperor - 09-15-00, Part 2
 Godspeed You! Black Emperor - Motherfucker=Redeemer, Part 1
 Godspeed You! Black Emperor - Motherfucker=Redeemer, Part 2
+Godspeed You! Black Emperor - Rockets Fall on Rocket Falls.
 Goteki - Suck
 Gothacoustic Ensemble - Burn
 Gothacoustic Ensemble - Closer to God
@@ -1759,6 +1780,7 @@ Henrik N Björkk - Transmission 10: Expanding Matter II
 Henrik N Björkk - Transmission 5: Transmitting Emptiness
 Henrik N Björkk - Transmission 6: Entering Abandoned Sector Cosmos 69
 Henrik N Björkk - Transmission 7: Kvasar
+Henrik N Björkk - Transmission 8: Ultra Deep Field
 Henrik N Björkk - Transmission 9: Barrier
 Henrik Nordvargr Bjorkk & BSE vs. Kenji Siratori - BSE Vs. Nordvargr And Kenji Siratori - Tragedy Cell
 Henrik Nordvargr Bjorkk & BSE vs. Kenji Siratori - Kenji Siratori Sound Monologue - Hypergenome666
@@ -1768,6 +1790,7 @@ Henrik Nordvargr Bjorkk - Behold The Most Unclean
 Henrik Nordvargr Bjorkk - Blood pure blood untainted
 Henrik Nordvargr Bjorkk - bring forth the ways of old
 Henrik Nordvargr Bjorkk - christ deflowered
+Henrik Nordvargr Bjorkk - Clean
 Henrik Nordvargr Bjorkk - Det Som En Gang Var (Burzum cover)
 Henrik Nordvargr Bjorkk - do what we say
 Henrik Nordvargr Bjorkk - Dogs, leather and steel
@@ -1815,8 +1838,8 @@ Henrik Nordvargr Bjorkk - Track 8
 Henrik Nordvargr Bjorkk - Vederbandigt Beflackad
 Henrik Nordvargr Bjorkk - Vril-1 Jdger
 Henrik Nordvargr Bjorkk - Vril-2 Zerstcrer
-Henrik Nordvargr Bjorkk - White as the newfallen snow
 Henrik Nordvargr Bjorkk - White As The Newfallen Snow
+Henrik Nordvargr Bjorkk - White as the newfallen snow
 Henrik Nordvargr Bjorkk - Winds of cleansing
 Henrik Nordvargr Björkk - Algenon
 Henrik Nordvargr Björkk - CA // Wednesday
@@ -1824,6 +1847,7 @@ Henrik Nordvargr Björkk - CB // Wednesday
 Henrik Nordvargr Björkk - CC // Wednesday
 Henrik Nordvargr Björkk - DA // Thursday
 Henrik Nordvargr Björkk - DB // Thursday
+Henrik Nordvargr Björkk - DC // Thursday
 Henrik Nordvargr Björkk - Death - Enter Dreamless Sleep
 Henrik Nordvargr Björkk - FA // Saturday
 Henrik Nordvargr Björkk - FB // Saturday
@@ -2065,6 +2089,7 @@ Iron Justice - Towards the Sun
 Isis - Not in Rivers, but in Drops (Melvins/Lustmord remix)
 Isolrubin BK - Cranio-Facial Absorption: Multiple Lacerations
 Isolrubin BK - Extensive Fissured Skull Fractures Produced by the Head Striking the Border of the Windshield
+Isolrubin BK - Motor Vehicle Collision Victim Removal Procedures
 Isolrubin BK - Resistance of the Human Head to Crash Impact
 Isolrubin BK - Return to the Scene of a Severe Road Traffic Accident for Detailed Investigation of Conditions Pending Reconstruction
 Isolrubin BK - The Dynamics Involved in an Injury by Mechanical Force
@@ -2083,6 +2108,7 @@ Jesu - Blind and Faithless (alternative version)
 Jesu - Brighteyes
 Jesu - Can I Go Now
 Jesu - Christmas
+Jesu - Christmas (Final remix)
 Jesu - Christmas (Pale Sketcher remix)
 Jesu - Dead Eyes
 Jesu - December
@@ -2154,6 +2180,7 @@ Körperwelten - My Heart Pumps Piss for You
 Körperwelten - The Forces of Chastity Are Massing Once Again
 Körperwelten - The Sun Destroyers
 L.E.A.K. - [untitled]
+L/A/B - Alla gamla
 L/A/B - Kaluli longhouse ceremony
 L/A/B - Klockan ar elva
 L/A/B - Magnetofonowa
@@ -2234,6 +2261,7 @@ Lithivm - City of Machines - Segment II
 Lithivm - Disturbed Asylum
 Lithivm - Last Sleep
 Lithivm - Monstrum
+Lithivm - The Dormant Urge
 Lithivm - The Entropy Within
 Lithivm - Threshold to Disharmony
 little-scale - The Day the World Went Away
@@ -2331,6 +2359,7 @@ Lustmord - The Eliminating Angel
 Lustmord - The Harrow
 Lustmord - The Outer Shadow
 Lustmord - Transitional Pathway
+Lustmord - Utterance
 Lustmord - Vault
 Lustmord - Words of Voice
 Lustmord vs. Metal Beast - Broadcast Frequencies Converge
@@ -2393,6 +2422,7 @@ m2 - Protect
 m2 - Reanimation Limit
 m2 - Reefer Spin
 m2 - Reign
+m2 - Relics of the Undefeated Guard
 m2 - Ru Con
 m2 - Second Angle
 m2 - Sifer
@@ -2422,6 +2452,7 @@ Main - Blown
 Main - Code Rays (Codex dub)
 Main - Core (Organic)
 Main - Corona, Part I
+Main - Corona, Part II
 Main - Crater Scar
 Main - Cypher
 Main - Dry Stone Feed
@@ -2468,12 +2499,15 @@ Main - Rotary Eclipse
 Main - Sever
 Main - Suspension
 Main - Terminus, Part I
+Main - Terminus, Part II
 Main - There Is Only Light
 Main - Thirst
+Main - VII
 Main - VIII
 Main - X
 Main - XI
 Main - XII
+Main - XIV
 Main - XIX
 Main - XV
 Main - XVI
@@ -2485,6 +2519,7 @@ Main - XXII
 Main - XXIII
 Main - XXV
 Main - XXVI
+Majdanek Waltz - Prayer
 Manticle - Fun In The Waterbath
 Manticle - The Proper Containment Of Offspring
 Marita Schreck - Panzerfick
@@ -2614,6 +2649,7 @@ Mind Necrosis Factor - Atman
 Mind Necrosis Factor - Djahane
 Mind Necrosis Factor - Dukkha
 Mind Necrosis Factor - EgOyst GeN
+Mind Necrosis Factor - Immanence
 Mind Necrosis Factor - Neurolyze
 Mind Necrosis Factor - No_Home
 Mind Necrosis Factor - ONTHO/LOGIKA
@@ -2639,6 +2675,7 @@ Morthond - Dwimordene
 Morthond - First Gate
 Morthond - Frames
 Morthond - Glaciers of Scandinavia
+Morthond - Shrivatsa
 Morthond - The Age of Crying
 Morthond - The Path of Death
 Morthond - Third Gate
@@ -2671,6 +2708,7 @@ Muhmood - Night
 Muhmood - Predicted Epidemias
 Muhmood - Sly (raw version)
 Muhmood - Wind In The Cords
+Muskel - Scars
 Muskel - Spoonfed Entrails
 Muskel - Svett Och Blod
 My Own Private Alaska - After You
@@ -2765,6 +2803,7 @@ Nadja & Galena - Lifelong
 Nadja & Galena - Tears
 Nadja & Galena - Trying
 Nadja & Netherworld - Ice to Magma
+Nadja - [untitled]
 Nadja - Absorbed in You
 Nadja - Absorbed in You (demo version)
 Nadja - Affective Fields
@@ -2838,6 +2877,7 @@ Nadja - Thaumoremix (By James Plotkin)
 Nadja - The
 Nadja - The Bungled & The Botched
 Nadja - The Bungled and the Botched (demo version)
+Nadja - The Sun Always Shines on TV
 Nadja - Time Is Our Disease
 Nadja - Tremble
 Nadja - Uneasy Desire
@@ -2897,6 +2937,7 @@ New Risen Throne - A Glance Thru the Mournful Remains
 New Risen Throne - Dead, Scourged Sun
 New Risen Throne - Heritage of the Emptiness
 New Risen Throne - Humani Nihil
+New Risen Throne - Withered Regions
 Nine Inch Nails - (Can't Stop) Me, I'm Not
 Nine Inch Nails - 1 Ghosts I
 Nine Inch Nails - 10 Miles High
@@ -2935,8 +2976,8 @@ Nine Inch Nails - 8 Ghosts I
 Nine Inch Nails - 9 Ghosts I
 Nine Inch Nails - 999,999
 Nine Inch Nails - A Warm Place
-Nine Inch Nails - Adrift and at Peace
 Nine Inch Nails - Adrift And At Peace
+Nine Inch Nails - Adrift and at Peace
 Nine Inch Nails - Alien Towers (AATCHB Menu)
 Nine Inch Nails - All the Love in the World
 Nine Inch Nails - All The Love In The World (So Lonely)
@@ -3113,6 +3154,7 @@ Nod - Another great time
 Nod - Girlish Eyes and Girlish Lies
 Nod - Hey Trolly Lolly Loo
 Nod - The Armies of the Earth
+Nod - The Beast in the Arms of God
 Nod - The girl and the giant
 Nod - The Story of the Three Little Pigs
 Nod - Well I Never!
@@ -3151,6 +3193,7 @@ Noise Unit - Paranoid Mass
 Noise Unit - Penance
 Noise Unit - Protector
 Noise Unit - Ritualistic
+Noise Unit - Seclusion
 Noise Unit - Silent Scream
 Noise Unit - Sloth
 Noise Unit - Strapdown
@@ -3188,6 +3231,7 @@ Nordvargr - I Helvetet I
 Nordvargr - I Helvetet II
 Nordvargr - Intro / I Put My Faith in the Lord
 Nordvargr - Inwards to Salvation
+Nordvargr - Lament
 Nordvargr - Leedskalnin
 Nordvargr - Masani
 Nordvargr - Moroii
@@ -3264,6 +3308,7 @@ Ordo Equilibrio - In the Grassy Fields Where the World Goes to Sleep (We Kissed 
 Ordo Equilibrio - In the Grassy Fields Where the World Goes to Sleep (We Kissed This World Goodbye) Again
 Ordo Equilibrio - Invocation ov Prosperity, Pleasure, Progress and Love
 Ordo Equilibrio - Living by the Sword. Dying by the Sword. The Lustrous Banquet
+Ordo Equilibrio - Man Always Forgets
 Ordo Equilibrio - Marching Across the Stupid and Ignorant
 Ordo Equilibrio - Mistress of Hourglass Figure
 Ordo Equilibrio - Nature Seeking Equilibrium / War for the Principle of Balance
@@ -3414,9 +3459,11 @@ Pouppée Fabrikk - Transformation
 Pouppée Fabrikk - Vidal (I) Sommarängen (II) Oväder (III) Mardrömmen
 Pouppée Fabrikk - Världens furste
 Pouppée Fabrikk - Watch Your Sex
+Pouppée Fabrikk - Weak Men
 Pouppée Fabrikk - What is Left/Love You Right
 Pouppée Fabrikk - What Is to Come
 Pouppée Fabrikk - Whatweare
+Pouppée Fabrikk - Whoregasm
 Pouppée Fabrikk - Wrong
 Pouppée Fabrikk - Youth
 Pragnavit - Popieł Hatyni
@@ -3426,6 +3473,7 @@ Proiekt Hat - [untitled]
 Proiekt Hat - A Corpse in the Desert
 Proiekt Hat - Bodies Brighten the Red Sea
 Proiekt Hat - Borderline Economics
+Proiekt Hat - Buying Time
 Proiekt Hat - Cadaver Equality
 Proiekt Hat - Death and Taxation
 Proiekt Hat - Dislocator of the Soul
@@ -3490,8 +3538,8 @@ raison d'être - Carnificina I
 raison d'être - Carnificina II
 raison d'être - Cenotaphium
 raison d'être - De Profundis
-raison d'être - Death Brightens With Sorrow
 raison d'être - Death Brightens with Sorrow
+raison d'être - Death Brightens With Sorrow
 raison d'être - Death in the Body but Made Alive by the Spirit
 raison d'être - Decalogue
 raison d'être - Decay II
@@ -3602,6 +3650,7 @@ Rome - A La Faveur De La Nuit (version One)
 Rome - Beasts of Prey
 Rome - Birds of Prey
 Rome - Clocks
+Rome - Das Feuerordal
 Rome - Das Unbedingte
 Rome - Der Erscheinungen Flucht
 Rome - Der Tote Spielmann
@@ -3780,6 +3829,7 @@ Stormfågel - Elmegyek, elmegyek, hosszú útra megyek
 Stormfågel - Ett berg av fasa
 Stormfågel - Gammal visa
 Stormfågel - Halgass
+Stormfågel - Holy Sleep
 Stormfågel - I Cursed Each Tune
 Stormfågel - Kis Kece lányom
 Stormfågel - Man Will Always Be a Man
@@ -3824,6 +3874,7 @@ T.H.C. - Mr. Self Destruct (Diesel mix)
 T.R.A.U.M.A - Dirty Little Minds
 Taterbug - Keep on Creeping On
 TeamX - attk
+TeamX - bos
 TeamX - sewer
 Tear Sensor - I remember just dark windows
 Ten Data Keshin - B10nicalsaz
@@ -4034,8 +4085,8 @@ uRAn 0 - Âíóòðåííèé àä
 uRAn 0 - Âîäî¸ì Â-17
 uRAn 0 - Âîäî¸ì Â-9
 uRAn 0 - âîðîíêà ñíà
-uRAn 0 - Âñå îòòåíêè òüìû(âàëüñ âåðñèÿ)
 uRAn 0 - âñå îòòåíêè Òüìû(âàëüñ âåðñèÿ)
+uRAn 0 - Âñå îòòåíêè òüìû(âàëüñ âåðñèÿ)
 uRAn 0 - Âñëåä çà Îáëàêàìè
 uRAn 0 - ëåñíàÿ òîïü
 uRAn 0 - ìåæäó òàì è çäåñü
@@ -4047,8 +4098,8 @@ uRAn 0 - Ïëàçìà
 uRAn 0 - Ïîãðóæåíèå â ñîí
 uRAn 0 - Ïîëóðàñïàä ¹3
 uRAn 0 - Ðàäèî÷àñòîòû Ìåðòâûõ
-uRAn 0 - Ñåâåðíûé ïðèáîé
 uRAn 0 - ñåâåðíûé ïðèáîé
+uRAn 0 - Ñåâåðíûé ïðèáîé
 uRAn 0 - ñîçåðöàíèå ¹3
 uRAn 0 - Ñîí
 uRAn 0 - òðåïîíàöèÿ àíãåëüñêèõ ÷åðåïîâ
@@ -4120,11 +4171,13 @@ Velvet Acid Christ - Apflux
 Velvet Acid Christ - Area One
 Velvet Acid Christ - Asphixia (Wasted)
 Velvet Acid Christ - Beyond LSD
+Velvet Acid Christ - Black Rainbows
 Velvet Acid Christ - Blood
 Velvet Acid Christ - Bsat2
 Velvet Acid Christ - Caught
 Velvet Acid Christ - Caustic Disco
 Velvet Acid Christ - Caustic Disco (kAlte fArben remix)
+Velvet Acid Christ - Convex
 Velvet Acid Christ - Crawl
 Velvet Acid Christ - Crypulse (Still Crying)
 Velvet Acid Christ - Cyber Communists Plotting Red Revolt
@@ -4159,6 +4212,7 @@ Velvet Acid Christ - For
 Velvet Acid Christ - Fun With Drugs (Amphetamine Club Overkill)
 Velvet Acid Christ - Fun With Drugs (Withdrawal Therapy album version)
 Velvet Acid Christ - Furless Freak
+Velvet Acid Christ - Futile
 Velvet Acid Christ - Futile '98
 Velvet Acid Christ - Futile (Nazi Bastard mix)
 Velvet Acid Christ - Futile (Resisted)
@@ -4350,6 +4404,7 @@ X-Fusion - Flesh and Blood
 X-Fusion - Follow Your Leader
 X-Fusion - Funeral Cortege
 X-Fusion - Gerasas Demoniac
+X-Fusion - God and Devil
 X-Fusion - Godless
 X-Fusion - Good Gloomy Night
 X-Fusion - Hanged
@@ -4384,6 +4439,7 @@ X-Fusion - Masochist
 X-Fusion - Mirror, Mirror on the Wall
 X-Fusion - My Inner Storm Blows
 X-Fusion - My Inner Storm Blows (remixed by Suicide Commando)
+X-Fusion - My Revelation
 X-Fusion - Mythomaniac
 X-Fusion - Near End
 X-Fusion - Netherworld
@@ -4422,6 +4478,7 @@ X-Fusion - The Chase
 X-Fusion - The Ordeal
 X-Fusion - Thorn in My Flesh
 X-Fusion - Tough Stance
+X-Fusion - Traitors of Our Age
 X-Fusion - Transition of Power
 X-Fusion - Ultima Ratio
 X-Fusion - Valediction
