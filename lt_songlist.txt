@@ -86,8 +86,8 @@ Andrews Sisters - Beat me daddy eight to the bar
 Andrews Sisters - Beat Me Daddy, Eight to the Ba
 Andrews Sisters - Beat Me Daddy, Eight To The Bar
 Andrews Sisters - Beat Me Daddy,Eight To The Bar
-Andrews Sisters - Beer Barrel Polka
 Andrews Sisters - Beer barrel polka
+Andrews Sisters - Beer Barrel Polka
 Andrews Sisters - Begin The Beguine
 Andrews Sisters - Bei Mir Bist Du Schoen
 Andrews Sisters - Bei Mir Bist Du Schoen (Means You're Grand)
@@ -104,9 +104,9 @@ Andrews Sisters - Corns for my country
 Andrews Sisters - Daddy
 Andrews Sisters - Don't be that way
 Andrews Sisters - Don't Fence Me In
-Andrews Sisters - Don't sit under the apple tree
-Andrews Sisters - Don't Sit Under the Apple Tree
 Andrews Sisters - Don't Sit Under The Apple Tree
+Andrews Sisters - Don't Sit Under the Apple Tree
+Andrews Sisters - Don't sit under the apple tree
 Andrews Sisters - Don't Sit Under The Apple Tree (With Anyone Else But Me)
 Andrews Sisters - Down By The O-Hi-O
 Andrews Sisters - Down by the Ohio
@@ -122,8 +122,8 @@ Andrews Sisters - I Can Dream, Can't I?
 Andrews Sisters - I Love You Much Too Much
 Andrews Sisters - I Wanna Be Loved
 Andrews Sisters - I Want My Mama
-Andrews Sisters - I'll Be With You In Apple Blossom Time
 Andrews Sisters - I'll be with you in apple blossom time
+Andrews Sisters - I'll Be With You In Apple Blossom Time
 Andrews Sisters - I've Got A Guy In Kalamazoo
 Andrews Sisters - In the mood
 Andrews Sisters - Is You Is,Or Is You Ain't, My Baby
@@ -132,8 +132,8 @@ Andrews Sisters - Just A Simple Melody
 Andrews Sisters - Let's Have Another One
 Andrews Sisters - Money is the Root of All Evil
 Andrews Sisters - Near You
-Andrews Sisters - Nice Work If You Can Get It
 Andrews Sisters - Nice work if you can get it
+Andrews Sisters - Nice Work If You Can Get It
 Andrews Sisters - Oh Johnny Oh Johnny Oh
 Andrews Sisters - Oh Mama
 Andrews Sisters - Oh! Mama
@@ -158,9 +158,9 @@ Andrews Sisters - Sing, sing, sing
 Andrews Sisters - Sonny Boy
 Andrews Sisters - South American way
 Andrews Sisters - South American Way
-Andrews Sisters - Straighten up and fly right
-Andrews Sisters - Straighten Up And Fly Right
 Andrews Sisters - Straighten Up and Fly Right
+Andrews Sisters - Straighten Up And Fly Right
+Andrews Sisters - Straighten up and fly right
 Andrews Sisters - Strip polka
 Andrews Sisters - Strip Polka (Take It Off! Take It Off!)
 Andrews Sisters - The Beer Barrel Polka
@@ -1394,8 +1394,8 @@ Count Basie - Blame It on My Last Affair (1st take)
 Count Basie - Blame It on My Last Affair (2nd take)
 Count Basie - Blee Blop Blues
 Count Basie - Blee Blop Blues (Normania)
-Count Basie - Blue and Sentimental
 Count Basie - Blue And Sentimental
+Count Basie - Blue and Sentimental
 Count Basie - Bluebeard Blues
 Count Basie - Blues (I Still Think Of Her)
 Count Basie - Blues Backstage
@@ -1476,8 +1476,8 @@ Count Basie - I Keep Remembering (w/Jimmy Rushing)
 Count Basie - I Never Knew
 Count Basie - I Newer Knew
 Count Basie - I Onley Have Eyes For You
-Count Basie - I Want A Little Girl
 Count Basie - I Want a Little Girl
+Count Basie - I Want A Little Girl
 Count Basie - I Won't Dance
 Count Basie - I'm Crazy 'Bout My Baby
 Count Basie - I'm Gonna Move To The Outskirts Of Town
@@ -1490,8 +1490,8 @@ Count Basie - Jive at Five
 Count Basie - Jive At Five
 Count Basie - John's Idea
 Count Basie - Jump For Johnny
-Count Basie - Jumpin' at the Woodside
 Count Basie - Jumpin' At The Woodside
+Count Basie - Jumpin' at the Woodside
 Count Basie - Just A Minute
 Count Basie - Just An Old Manuscript
 Count Basie - Kansas City Stride
@@ -1534,8 +1534,8 @@ Count Basie - One O'clock Jump
 Count Basie - One O'Clock Jump
 Count Basie - Our Love Was Meant to Be
 Count Basie - Our Love Was Meant To Be (w/Earl Warren)
-Count Basie - Out the Window
 Count Basie - Out The Window
+Count Basie - Out the Window
 Count Basie - Panassie Stomp
 Count Basie - Paradise Sqaut (Take 2)
 Count Basie - Paradise Squat
@@ -1564,8 +1564,8 @@ Count Basie - Royal Garden Blues
 count basie - satin doll
 Count Basie - Secrets
 Count Basie - Senator Whitehead
-Count Basie - Sent For You Yesterday
 Count Basie - Sent for You Yesterday
+Count Basie - Sent For You Yesterday
 Count Basie - Sent For You Yesterday And Her
 Count Basie - Seventh A Venue Express
 Count Basie - Seventh Avenue Express
@@ -1623,8 +1623,8 @@ Count Basie - The Blues I Like to Hear
 Count Basie - The Comeback
 Count Basie - The Dirty Dozens
 Count Basie - The Fives
-Count Basie - The Glory Of Love
 Count Basie - The Glory of Love
+Count Basie - The Glory Of Love
 Count Basie - The Golden Bullet
 Count Basie - The Jungle King
 Count Basie - The Kid From Red Bank
@@ -2065,8 +2065,8 @@ Elvis Presley - As long as I have you
 Elvis Presley - Beach boy blues
 Elvis Presley - Big boots
 Elvis Presley - Blue moon
-Elvis Presley - Blue Suede Shoes
 Elvis Presley - Blue suede shoes
+Elvis Presley - Blue Suede Shoes
 Elvis Presley - Can't Help Falling In Love
 Elvis Presley - Can't help falling in love
 Elvis Presley - Cotton Candy Land
@@ -3691,8 +3691,8 @@ Larry Williams - LAWDY MISS CLAUDY
 Larry Williams - Short Fat Fannie
 Larry Williams - SHORT FAT FANNY
 LaVern Baker - I CRIED A TEAR 1958
-Lavern Baker - Jim Dandy
 LaVern Baker - Jim Dandy
+Lavern Baker - Jim Dandy
 LaVern Baker - Saved
 LaVern Baker - TWEEDLE DEE 1955
 Leadbelly - Black Snake Moan
@@ -3925,8 +3925,8 @@ Little Joey & The Flips - Bongo Stomp
 Little Richard - Good Golly Miss Molly
 Little Richard - Keep A Knockin'
 Little Richard - Keep A Knockin' 1956
-Little Richard - Long Tall Sally
 Little Richard - LONG TALL SALLY
+Little Richard - Long Tall Sally
 Little Richard - Ready Teddy
 Little Richard - The Girl Can't Help It
 Little Richard - Tutti Frutti
@@ -4423,8 +4423,8 @@ Marilyn Monroe - Love Happy
 Marilyn Monroe - Marilyn Best Actress With Lanren Bacall
 Marilyn Monroe - Marilyn Meets The Press
 Marilyn Monroe - My Heart Belongs To Daddy
-Marilyn Monroe - One silver dollar
 Marilyn Monroe - One Silver Dollar
+Marilyn Monroe - One silver dollar
 Marilyn Monroe - Rachmaninov & Chopsticks
 Marilyn Monroe - River Of No Return
 Marilyn Monroe - Royal Triton TV Commercial 1950
@@ -4987,8 +4987,8 @@ NAT KING COLE TRIO - Give me twenty nickels
 NAT KING COLE TRIO - Go bongo
 NAT KING COLE TRIO - Got A Penny
 NAT KING COLE TRIO - Harmony
-NAT KING COLE TRIO - Homeward bound
 NAT KING COLE TRIO - Homeward Bound
+NAT KING COLE TRIO - Homeward bound
 NAT KING COLE TRIO - Honeysuckle rose
 NAT KING COLE TRIO - Honeysuckle Rose
 NAT KING COLE TRIO - How Deep Is The Ocean
@@ -5047,8 +5047,8 @@ NAT KING COLE TRIO - In a mellow tone
 NAT KING COLE TRIO - In the cool of evening
 NAT KING COLE TRIO - It could happen to you
 NAT KING COLE TRIO - It Is Better To Be By Yourself
-NAT KING COLE TRIO - It only happens once
 NAT KING COLE TRIO - It Only Happens Once
+NAT KING COLE TRIO - It only happens once
 NAT KING COLE TRIO - It was so good while it lasted
 NAT KING COLE TRIO - It's kind of lonesome out tonight
 NAT KING COLE TRIO - It's like taking candy from a baby
@@ -5127,11 +5127,11 @@ NAT KING COLE TRIO - Rock-A-Bye Basie
 NAT KING COLE TRIO - Rose room
 NAT KING COLE TRIO - Save the bones for Henry Jones (cause Henry don't eat no meat)
 NAT KING COLE TRIO - Smoke gets in your eyes
-NAT KING COLE TRIO - Somebody loves me
 NAT KING COLE TRIO - Somebody Loves Me
+NAT KING COLE TRIO - Somebody loves me
 NAT KING COLE TRIO - Sometimes I'm happy
-NAT KING COLE TRIO - Straighten up and fly right
 NAT KING COLE TRIO - Straighten Up And Fly Right
+NAT KING COLE TRIO - Straighten up and fly right
 NAT KING COLE TRIO - Summer is a comin' in
 NAT KING COLE TRIO - Sweet Georgia Borwn
 NAT KING COLE TRIO - Sweet Lorraine
@@ -5191,8 +5191,8 @@ NAT KING COLE TRIO - Who's who
 NAT KING COLE TRIO - Wildroot Charlie
 NAT KING COLE TRIO - Yes sir, that's my baby
 NAT KING COLE TRIO - You be you (but let me be me)
-NAT KING COLE TRIO - You call it madness (But I call it love)
 NAT KING COLE TRIO - You Call It Madness (But I Call It Love)
+NAT KING COLE TRIO - You call it madness (But I call it love)
 NAT KING COLE TRIO - You can depend on me
 NAT KING COLE TRIO - You can't lose a broken heart
 NAT KING COLE TRIO - You can't make me love you
@@ -5672,8 +5672,8 @@ Ray Charles - Feelin' Sad
 Ray Charles - Friendship
 Ray Charles - Funny (But I Still Love You)
 Ray Charles - Funny But I Still Love You
-Ray Charles - Georgia On My Mind
 Ray Charles - GEORGIA ON MY MIND
+Ray Charles - Georgia On My Mind
 Ray Charles - Get On The Right Track Baby
 Ray Charles - God Bless America Again
 Ray Charles - Good Morning Dear
@@ -6157,8 +6157,8 @@ Sarah Vaughan - Summertime
 Sarah Vaughan - Thanks For The Ride
 Sarah Vaughan - The Nearness Of You
 Sarah Vaughan - They All Laughed
-Sarah Vaughan - They Can't Take That Away From Me
 Sarah Vaughan - They Can'T Take That Away From Me
+Sarah Vaughan - They Can't Take That Away From Me
 Sarah Vaughan - Things Are Looking Up
 Sarah Vaughan - Thinking Of You
 Sarah Vaughan - This Can't Be Love
@@ -6621,8 +6621,8 @@ The Andrews Sisters - Ac-Cent-Tchu-Ate The Positive
 The Andrews Sisters - Alexander's Ragtime Band
 The Andrews Sisters - Beat Me Daddy, Eight To The Ba
 The Andrews Sisters - Beat Me Daddy, Eight To The Bar
-The Andrews Sisters - Beer Barrel Polka
 The Andrews Sisters - Beer barrel polka
+The Andrews Sisters - Beer Barrel Polka
 The Andrews Sisters - Begin The Beguine
 The Andrews Sisters - Bei Mir Bist Du Schon
 The Andrews Sisters - Bei Mir Bist Du Shon
@@ -6670,9 +6670,9 @@ The Andrews Sisters - Shoo, Shoo Baby
 The Andrews Sisters - Sing a Tropical Song
 The Andrews Sisters - Sing, sing, sing
 The Andrews Sisters - South American Way
-The Andrews Sisters - Straighten Up And Fly Right
 The Andrews Sisters - Straighten up and Fly Right
 The Andrews Sisters - Straighten up and fly right
+The Andrews Sisters - Straighten Up And Fly Right
 The Andrews Sisters - Strip polka
 The Andrews Sisters - The Blonde Sailor
 The Andrews Sisters - The Blue Tail Fly
@@ -7155,8 +7155,8 @@ The Mills Brothers - Sixty Seconds Got Together
 The Mills Brothers - Sleepy Head
 The Mills Brothers - Smoke Rings
 The Mills Brothers - Solitude
-The Mills Brothers - Some of These Days
 The Mills Brothers - Some Of These Days
+The Mills Brothers - Some of These Days
 The Mills Brothers - Song Is Ended
 The Mills Brothers - St. Louis Blues
 The Mills Brothers - Sweet and Slow
@@ -7423,8 +7423,8 @@ The Ventures - Genesis (bonus tracks)
 The Ventures - Georgy Girl
 The Ventures - Get Smart Theme
 The Ventures - Ginchy
-The Ventures - Ginza Lights
 The Ventures - Ginza lights
+The Ventures - Ginza Lights
 The Ventures - Go
 The Ventures - Go-Go Show
 The Ventures - Gone, Gone, Gone
@@ -7586,8 +7586,8 @@ The Ventures - Pedal Pusher
 The Ventures - Pedal Pusher (live)
 The Ventures - Penetration
 The Ventures - Percolator
-The Ventures - Perfidia
 The Ventures - PERFIDIA
+The Ventures - Perfidia
 The Ventures - Pipeline
 The Ventures - Pipeline (Accompaniment Guitar Solo; Normal Speed)
 The Ventures - Pipeline (Accompaniment Guitar Solo; Slow)
@@ -7618,8 +7618,8 @@ The Ventures - Road to somewhere
 The Ventures - Runaway
 The Ventures - Runnin' Wild
 The Ventures - Saihate Bojo
-The Ventures - San Antonio Rose
 The Ventures - SAN ANTONIO ROSE
+The Ventures - San Antonio Rose
 The Ventures - Scarborough Fair/Canticle
 The Ventures - Scratch
 The Ventures - Scratchin'
