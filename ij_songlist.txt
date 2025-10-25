@@ -100,8 +100,8 @@
 :wumpscut: - Bunkertor 7 (Reprised)
 :wumpscut: - C. B. T.
 :wumpscut: - Capital Punishment
-:wumpscut: - Capitolo finale
 :wumpscut: - Capitolo Finale
+:wumpscut: - Capitolo finale
 :wumpscut: - Ceremony
 :wumpscut: - Ceremony (remastered)
 :wumpscut: - Christfuck
@@ -115,8 +115,8 @@
 :wumpscut: - Clinics
 :wumpscut: - Close Gate
 :wumpscut: - Close Gate (Untouched)
-:wumpscut: - Cold Cell (remastered)
 :wumpscut: - Cold Cell (Remastered)
+:wumpscut: - Cold Cell (remastered)
 :wumpscut: - Concrete Rage
 :wumpscut: - Corroded Breed
 :wumpscut: - Corroded Breed (remix by Haujobb)
@@ -175,8 +175,8 @@
 :wumpscut: - Dried Blood (Nystagmacut)
 :wumpscut: - Dried Blood (Radical Cut)
 :wumpscut: - Dried Blood of Gomorrha (extended)
-:wumpscut: - Dried Blood of Gomorrha (Radical cut)
 :wumpscut: - Dried Blood of Gomorrha (Radical Cut)
+:wumpscut: - Dried Blood of Gomorrha (Radical cut)
 :wumpscut: - Dudek
 :wumpscut: - Dudek (Brain Leisure mix)
 :wumpscut: - Dying Culture
@@ -215,8 +215,8 @@
 :wumpscut: - God
 :wumpscut: - God (A Tribute to Dive)
 :wumpscut: - Golgotha
-:wumpscut: - Golgotha (Roughly Distorted version)
 :wumpscut: - Golgotha (roughly distorted version)
+:wumpscut: - Golgotha (Roughly Distorted version)
 :wumpscut: - Gulag
 :wumpscut: - Gulag (Cerebral Apoplexy remix)
 :wumpscut: - Gulag (Murmuring remix by Max Breit)
@@ -244,8 +244,8 @@
 :wumpscut: - In the Night (Full Range Track)
 :wumpscut: - In the Night (Haujobb remix)
 :wumpscut: - In the Night (instrumental)
-:wumpscut: - In the Night (Remastered)
 :wumpscut: - In the Night (remastered)
+:wumpscut: - In the Night (Remastered)
 :wumpscut: - In the Peace of Night
 :wumpscut: - Irak 1
 :wumpscut: - Irak 1 (first take)
@@ -483,8 +483,8 @@
 :wumpscut: - Tschüsch Domos
 :wumpscut: - Turns Off Pain (recommended version)
 :wumpscut: - Turns Off Pain (Recommended version)
-:wumpscut: - UK Decay (remastered)
 :wumpscut: - UK Decay (Remastered)
+:wumpscut: - UK Decay (remastered)
 :wumpscut: - Untermensch (Adored version)
 :wumpscut: - Untermensch (instrumental)
 :wumpscut: - Verflucht bis ihr Verhungert
@@ -778,8 +778,8 @@ Arcana - ...for My Love
 Arcana - ...the Last Embrace
 Arcana - Aeterna doloris
 Arcana - Angel of Sorrow
-Arcana - Cantar de procella
 Arcana - Cantar de Procella
+Arcana - Cantar de procella
 Arcana - Closure
 Arcana - Dark Age of Reason
 Arcana - Diadema
@@ -1084,8 +1084,8 @@ Brighter Death Now - Hipp Hipp Hurray (I Will Kill You Today)
 Brighter Death Now - I Can't Get No Sadistfaction (Oh, How I Try)
 Brighter Death Now - I Hate You
 Brighter Death Now - I Wanna Die
-Brighter Death Now - I Wish I Was a Little Girl
 Brighter Death Now - I Wish I Was A Little Girl
+Brighter Death Now - I Wish I Was a Little Girl
 Brighter Death Now - Impasse
 Brighter Death Now - In Circles (Psycho Circles)
 Brighter Death Now - In Formalin
@@ -1328,8 +1328,8 @@ Der Blaue Reiter - Victoria
 Der Blaue Reiter - Walking to the Abyss
 Der Blaue Reiter - When the Black Sun Rises
 Der Blaue Reiter - Words of Silence
-Der Blutharsch - Achtung (:W: remix)
 Der Blutharsch - Achtung (:w: remix)
+Der Blutharsch - Achtung (:W: remix)
 Der Blutharsch - Achtung (:wumpscut: remix)
 Der Blutharsch - Hail, the Philosopher's Stone (:wumpscut: remix)
 Der Blutharsch - Iron Rain (remix by :wumpscut:)
@@ -2181,6 +2181,7 @@ Jesu - Birth Day
 Jesu - Black Lies
 Jesu - Blind and Faithless
 Jesu - Blind and Faithless (alternative version)
+Jesu - Brave New World
 Jesu - Brighteyes
 Jesu - Can I Go Now
 Jesu - Christmas
@@ -3092,8 +3093,8 @@ Nine Inch Nails - 8 Ghosts I
 Nine Inch Nails - 9 Ghosts I
 Nine Inch Nails - 999,999
 Nine Inch Nails - A Warm Place
-Nine Inch Nails - Adrift And At Peace
 Nine Inch Nails - Adrift and at Peace
+Nine Inch Nails - Adrift And At Peace
 Nine Inch Nails - Alien Towers (AATCHB Menu)
 Nine Inch Nails - All the Love in the World
 Nine Inch Nails - All The Love In The World (So Lonely)
@@ -3193,6 +3194,7 @@ Nine Inch Nails - Right Where It Belongs V2
 Nine Inch Nails - Ripe (With Decay)
 Nine Inch Nails - Ruiner
 Nine Inch Nails - russian survivalism
+Nine Inch Nails - Sanctified
 Nine Inch Nails - Sin
 Nine Inch Nails - Slipping Away
 Nine Inch Nails - Slipping Away (Strohbie Edit)
@@ -3305,6 +3307,7 @@ Noise Unit - Illicit Dreams
 Noise Unit - In Vain
 Noise Unit - In Vain (12" version)
 Noise Unit - Innerchaos
+Noise Unit - Kick to Kill
 Noise Unit - Liberation
 Noise Unit - Miracle
 Noise Unit - Monolith
@@ -3688,8 +3691,8 @@ raison d'être - Carnificina I
 raison d'être - Carnificina II
 raison d'être - Cenotaphium
 raison d'être - De Profundis
-raison d'être - Death Brightens with Sorrow
 raison d'être - Death Brightens With Sorrow
+raison d'être - Death Brightens with Sorrow
 raison d'être - Death in the Body but Made Alive by the Spirit
 raison d'être - Decalogue
 raison d'être - Decay I
@@ -4135,6 +4138,7 @@ Thee Maldoror Kollective - Evangelis 6 (Nightmarescape Mix)
 Thee Maldoror Kollective - Haemorrhoeage Transmission
 Thee Maldoror Kollective - House Of 1000 Eyes (Nordvargr Remix)
 Thee Maldoror Kollective - Noci[V]ty (Wallofsound/Soundkilla Mix)
+Thee Maldoror Kollective - Primates
 Thee Maldoror Kollective - Re-Charged Lion (CTRLer Remix)
 Thee Maldoror Kollective - Rythmagick Disturbance (Embodiment Cell)
 Thee Maldoror Kollective - Slaughter Mass 2002
@@ -4182,6 +4186,7 @@ Toroidh - Ragnarök (ambient)
 Toroidh - Ragnarök (violent)
 Toroidh - Segervittring
 Toroidh - Start Over 1
+Toroidh - Start Over 2
 Toroidh - Start Over 3
 Toroidh - Start Over Act 1
 Toroidh - Start Over Act 2
@@ -4235,6 +4240,7 @@ Twinkle - Interdiction absolue (Interdit d'interdire remix by Chrysalide)
 Twinkle - Interdiction absolue (remix by Ten Data Keshin)
 Twinkle - L'Altération cinglante
 Twinkle - L'Auto-dictée
+Twinkle - L'Envers de la vague
 Twinkle - La Boîte à musique
 Twinkle - La Danse du bruit
 Twinkle - La Dictée
@@ -4624,6 +4630,7 @@ X-Fusion - Last Breath
 X-Fusion - Leave No Seed
 X-Fusion - Left Hand Path
 X-Fusion - Legion der dunklen Macht
+X-Fusion - Legion of the Damned
 X-Fusion - Let My Body Burn (original version)
 X-Fusion - Lost in Myself
 X-Fusion - Mammonism
